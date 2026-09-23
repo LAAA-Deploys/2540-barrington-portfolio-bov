@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0.0",
+  "scope": "portfolio",
+  "deal_id": "krasno-portfolio",
+  "portfolio_id": "krasno-portfolio",
+  "package_version": "v2",
+  "approved_at": "2026-09-23T21:07:49.796270+00:00",
+  "approver": "Glen Scher",
+  "price": {
+    "value": 4750000
+  },
+  "approved_exception_ids": [
+    "12535-pacific:exc-12231",
+    "12535-pacific:exc-financing",
+    "12535-pacific:exc-insurance",
+    "12535-pacific:exc-manager",
+    "12535-pacific:exc-pricing",
+    "12535-pacific:exc-unit-count",
+    "12535-pacific:exc-unit-sf",
+    "2540-s-barrington:exc-financing",
+    "2540-s-barrington:exc-insurance",
+    "2540-s-barrington:exc-manager",
+    "2540-s-barrington:exc-pricing",
+    "2540-s-barrington:exc-unit-count",
+    "2540-s-barrington:exc-unit-sf",
+    "2540-s-barrington:q-together"
+  ],
+  "domains": {
+    "copy": {
+      "content_sha256": "b7c2cada8bb03c04c17e5c611c879a29326f1dbf1969104b3dc1e3872b8b940e"
+    },
+    "financial_inputs": {
+      "content_sha256": "23a37962d82ba860919e9b1ae4cf664af4f87a9b95f9bcc991ac9fa54bf23fdc"
+    },
+    "identity": {
+      "content_sha256": "43d3f24addd57db6d294e8a0d49d8732134713c459424e5394d8e1ecf722a7b4"
+    },
+    "media_selection": {
+      "content_sha256": "442e7bd37813395e622059cc7fca3b1451566bb5e8f777e7265bc3df6d888a56"
+    },
+    "pricing_decision": {
+      "content_sha256": "468364328a876ea14ffeb73ed8b95b957db138195057a6ce9ecf9319c6a551dc"
+    },
+    "regulatory_conclusions": {
+      "content_sha256": "11b95809c79570b17e019099e83ceb4f42172a1c26086a14b082b713769bae6b"
+    },
+    "rent_comps": {
+      "content_sha256": "caccd73b7532f4992c8f6400c7921731c42837a0901499c5d5ad95fed45c4972"
+    },
+    "sale_comps": {
+      "content_sha256": "4e41071a9292f874e8822f777dc2661b68a0b701d186482c33b1ed4457a7cee8"
+    }
+  },
+  "legacy_snapshot": false,
+  "legacy_label": null,
+  "members": {
+    "2540-s-barrington": {
+      "identity": "bd262921b94cc6daeee832487e73cd081db561ebc6e0569dcb79f819301c79df",
+      "financial_inputs": "781d5cefd6d62fa59ff9709b598d2c7c3b58392ce6e1e1ad6c670d8fade5a188",
+      "pricing_decision": "7fee4e7161f3ff8a90f7bb02bf7cb82e436a26a2ddd2fdd472826b55a936b587",
+      "sale_comps": "61ffa2796270dac9e9bf70e9cf3db4eb30d6e16544d8becabe9ef3c70cbac6b7",
+      "rent_comps": "675f5bcc5e21f293b5c345663b525dda17e7dc55403f2cad5584c1a7f3e21de3",
+      "copy": "1f853846d62beeee49806b1bf271a0be073e69e21e397dd8f679a7739ddf2e39",
+      "media_selection": "c1c1ddd89939be132659f97a4ca51b7ec1abf8c96594bd78d1c8264106520e22",
+      "regulatory_conclusions": "1bca1d5f3a2884f18e9bceec95a23e89b757b4dfc0ca0ea37b57d165a850c9b4"
+    },
+    "12535-pacific": {
+      "identity": "634f83e57ad10ba44e050e379659c798ac9849da5a24e446f6cc63e545ac855b",
+      "financial_inputs": "8ea120fdc9d20532b2b15f9be419511fbd3bd6d8d003875954204ca4756b9ba2",
+      "pricing_decision": "2936a1d9fdd0902d94ee389a351c8bcf847053b092629ed7d0937c26f2e8950e",
+      "sale_comps": "ed76c10a5a5dfd17047da432325f4eca85738af313bce40926acc627811622f5",
+      "rent_comps": "2595690f040b6e30e10b86a6dea73ba54da408d9726136ad93186bdd27cefcd4",
+      "copy": "e646f15b6895354970a47da00beb0dd8b8e29c06a6a2ede41a2869e5c5c8beae",
+      "media_selection": "37a75b7d5de90f328d55fd9b4844841c1a9990a705a6bc60120464c547e1e39b",
+      "regulatory_conclusions": "090372d7a81879e3774e5950290180ddbc9815ea0147b8357e0b3c422410359e"
+    }
+  }
+}
