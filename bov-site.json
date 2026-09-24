@@ -1066,7 +1066,7 @@
         },
         "local_listings_source": {
           "source": "https://www.laaa.com/listings",
-          "pulled": "2026-09-24T18:57:37+00:00"
+          "pulled": "2026-09-24T19:08:17+00:00"
         }
       },
       "deal_id": "2540-s-barrington",
@@ -1885,7 +1885,7 @@
             "basis": "12231 Pacific Ave is the LAAA Team's own listing, in escrow at $1,575,000 as of 09/23/2026. The In Escrow column restates the list-price figures at the escrow price with income unchanged; with property taxes restated at that price the cap is about 6.2%."
           },
           "document": null,
-          "side_by_side": true,
+          "side_by_side": false,
           "summary": "The LAAA Team's own listing on the same street: listed at $1,900,000, reduced to $1,700,000 and now in escrow at $1,575,000, $225,000 per unit, $227 per SF and 10.03 times its $157,056 of current rent.",
           "relevance": "7 units: five two bedroom two baths of about 900 SF and two three bedroom two baths of about 1,100 SF; 6,950 SF, built 1963, RSO; 0.3 miles northeast on the same street.",
           "considerations": "In-place two bedroom rents of $1,643 to $2,120 against a $2,595 market rent in its own approved model; 12535 Pacific's two most recent two bedroom two bath leases are $2,700 (11/2024) and $2,750 (09/2026); The city's housing department issued orders in 2026 on its exterior balconies and walkways, which remain open on the public record; 12535 Pacific has no open orders and completed its soft-story retrofit in 2018",
@@ -1996,7 +1996,7 @@
         },
         "local_listings_source": {
           "source": "https://www.laaa.com/listings",
-          "pulled": "2026-09-24T18:57:37+00:00"
+          "pulled": "2026-09-24T19:08:17+00:00"
         }
       },
       "deal_id": "12535-pacific",
@@ -5341,7 +5341,7 @@
       "identity": "c2b662380b31323e946868ded6290224cc742dcfdc523d375f107a57831e6832",
       "financial_inputs": "bcd248863293f95e1f2e6d7a41e865eafd24a57c7ff7801686bc381461703353",
       "pricing_decision": "c95bc4114006020fd10d6fc127f5f87b2cc9c4179529209aa540990a20a9cc2c",
-      "sale_comps": "8df3c8b46110db753d5cddb8c836fddd3340af923cba0f67219cbf076262f1e2",
+      "sale_comps": "73b6a749a86c01d41e3c4f8df327262eb2c65cdc2188ab031684dffebda7f6cc",
       "rent_comps": "771f27cdf25e47ff57d8d6f110ed99006c0c5fe44ff7809b38edfa12f5208c40",
       "copy": "00ac9dc029deb7578a73ad11aeafc9a20a8ac4b4a1032d337d41b66a9f3ef44a",
       "media_selection": "c22e2b184fdd0c1243d3042b2f2757388474b3344ee1746800fcf09e05a85031",
@@ -5362,7 +5362,7 @@
         "identity": "634f83e57ad10ba44e050e379659c798ac9849da5a24e446f6cc63e545ac855b",
         "financial_inputs": "8ea120fdc9d20532b2b15f9be419511fbd3bd6d8d003875954204ca4756b9ba2",
         "pricing_decision": "d41a2986313e911b5669f0550013cb14c3f03f37c1fa9d09765dec6a511f578f",
-        "sale_comps": "e9a9849245ac8bdbbe943477567c0a8c3c421a5c79020b4e3cda4b5b42b87324",
+        "sale_comps": "4fc3a5a560013c27813d05521ce62d389ec0a99181110bf28c08181a0c22b001",
         "rent_comps": "9379697c6ab104681b162746ab341c97cc5af66f8745fa9786df2a9987dab09d",
         "copy": "c81924393fbaa0502f877d52ada532612234de12b6851b40f9463c36e52c9c57",
         "media_selection": "c2cb09d1f0ac341f60983548854f14b6a1013094969c315fc044d6bf7bf3a1df",
@@ -5373,7 +5373,7 @@
       "identity": "46fc7efb8ab9b1f8ea764ed9ed947442cd883a85188b0a60a4a6f1a447884e2d",
       "financial_inputs": "62cb5cb7f1837b9d1c0ba28e9b0b6cd486a29d550eb8faf68236aef7b12295d4",
       "pricing_decision": "889a48f43bc941c4146b93d671f087cdbee2ade7b7e05175a83fc7b02a8f9b2a",
-      "sale_comps": "a94a78ea30d2a66e43cf042aa8ccc80a8a2b8cb8b37f74d3d69ee4d5e633f786",
+      "sale_comps": "e3699900eb268e4e2f44937ff9be2735bab4dd70559bc818e915558fdd0f196f",
       "rent_comps": "39b3baa3d167654ce4ec390b697e358d46fe1a7c4b6d68d0bb50ce1dcbb9d20b",
       "copy": "c89dbbb51a7bca8d9d1ca9d315b28d899b7d5203b467686baa37209961ef4ec1",
       "media_selection": "51752fd654a56f4f65332c5ee113c0522d2fd8a2a36d3966118ece94c5dee592",
@@ -5382,7 +5382,7 @@
   },
   "stats": {
     "live": true,
-    "generated": "2026-09-24T18:57:37+00:00",
+    "generated": "2026-09-24T19:08:17+00:00",
     "geography": {
       "states": 21,
       "has_dc": true,

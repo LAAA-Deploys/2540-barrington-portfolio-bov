@@ -3,8 +3,8 @@
   "scope": "portfolio",
   "deal_id": "krasno-portfolio",
   "portfolio_id": "krasno-portfolio",
-  "package_version": "v7",
-  "approved_at": "2026-09-24T18:57:25.055997+00:00",
+  "package_version": "v8",
+  "approved_at": "2026-09-24T19:08:04.882561+00:00",
   "approver": "Glen Scher",
   "price": {
     "value": 4750000
@@ -49,7 +49,7 @@
       "content_sha256": "771f27cdf25e47ff57d8d6f110ed99006c0c5fe44ff7809b38edfa12f5208c40"
     },
     "sale_comps": {
-      "content_sha256": "8df3c8b46110db753d5cddb8c836fddd3340af923cba0f67219cbf076262f1e2"
+      "content_sha256": "73b6a749a86c01d41e3c4f8df327262eb2c65cdc2188ab031684dffebda7f6cc"
     }
   },
   "legacy_snapshot": false,
@@ -69,7 +69,7 @@
       "identity": "634f83e57ad10ba44e050e379659c798ac9849da5a24e446f6cc63e545ac855b",
       "financial_inputs": "8ea120fdc9d20532b2b15f9be419511fbd3bd6d8d003875954204ca4756b9ba2",
       "pricing_decision": "d41a2986313e911b5669f0550013cb14c3f03f37c1fa9d09765dec6a511f578f",
-      "sale_comps": "e9a9849245ac8bdbbe943477567c0a8c3c421a5c79020b4e3cda4b5b42b87324",
+      "sale_comps": "4fc3a5a560013c27813d05521ce62d389ec0a99181110bf28c08181a0c22b001",
       "rent_comps": "9379697c6ab104681b162746ab341c97cc5af66f8745fa9786df2a9987dab09d",
       "copy": "c81924393fbaa0502f877d52ada532612234de12b6851b40f9463c36e52c9c57",
       "media_selection": "c2cb09d1f0ac341f60983548854f14b6a1013094969c315fc044d6bf7bf3a1df",
