@@ -3,7 +3,7 @@
   "document_type": "bov",
   "site_mode": "portfolio",
   "meta": {
-    "domain": "2540-barrington-portfolio.laaa.com",
+    "domain": "krasno-portfolio.laaa.com",
     "client": "The Krasno Family",
     "title": "2540 S Barrington Ave & 12535 Pacific Ave",
     "subtitle": "Two Westside Apartment Buildings, 21 Units | West Los Angeles and Mar Vista",
@@ -579,7 +579,7 @@
         "All 45 windows were replaced with dual glazing in 2012, and a pool bonding permit was finaled the same year. Parking is at the rear of the building; the stall count is being confirmed with the owner."
       ],
       "market_narrative": [
-        "Five West Los Angeles and Mar Vista apartment sales of 8 to 12 units, built 1958 to 1969, all within 1.5 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to August 2026, at a median of $258,333 per unit, $440 per SF and 11.19 times rent. Older sales are left out on purpose: they priced on money that no longer exists. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap.",
+        "Five West Los Angeles and Mar Vista apartment sales of 8 to 12 units, built 1958 to 1969, all within 1.5 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to August 2026, at a median of $258,333 per unit, $440 per SF and 11.19 times rent. Older sales are left out on purpose: they priced on money that no longer exists. 1626 S Barrington and 1519 Armacost sit north of Olympic with no freeway, a better pocket than the subject's block off the I-10, and they set the ceiling; the price is set under them and against 11296 Brookhaven and 1800 S Bundy, the subject's own pocket. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap.",
         "Thirty days before each of those sales closed, the 5-year Treasury ran 3.75% to 4.40%, a median of 4.12%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The three closings from June to August 2026, which locked nearest today's rates, ran 10.48 to 11.19 times rent.",
         "A buyer today pays about a point more for money than the buyers who set most of those comps, so the 2026 closings carry more weight in our pricing than the 2024 and 2025 sales."
       ],
@@ -846,7 +846,7 @@
           "document": null,
           "side_by_side": true,
           "summary": "The freshest sale in the set, on the same street, closed 08/26/2026 at a 6.05% cap and 11.19 times rent.",
-          "relevance": "Built 1969, 7,900 SF; the assessor carries 8 units while the MLS and the rent registry carry 11. Per unit figures use the assessor's 8 (about $248,000 per unit on 11).",
+          "relevance": "Built 1969, 7,900 SF; the assessor carries 8 units while the MLS and the rent registry carry 11. Per unit figures use the assessor's 8 (about $248,000 per unit on 11).; North of Olympic in the Sawtelle pocket, no freeway; a better pocket than the subject's block off the I-10, so it reads as the ceiling for this set.",
           "considerations": "Locked nearest today's rates of any sale in the set.",
           "treasury_3y": 4.35,
           "treasury_5y": 4.4,
@@ -874,7 +874,7 @@
           "document": null,
           "side_by_side": true,
           "summary": "The closest match on unit size: five singles, five one bedrooms and a two bedroom in 5,503 SF, built 1959 in Sawtelle.",
-          "relevance": "11 units, 1959, 5,503 SF; small units like the subject's.",
+          "relevance": "11 units, 1959, 5,503 SF; small units like the subject's.; North of Olympic in the Sawtelle pocket, no freeway; a better pocket than the subject's, read as the ceiling on price per unit for small units.",
           "considerations": "Closed 07/17/2026 after 102 days on market, under list; 5.89% cap and 10.48 times rent.",
           "treasury_3y": 4.23,
           "treasury_5y": 4.27,
@@ -902,7 +902,7 @@
           "document": null,
           "side_by_side": true,
           "summary": "A West LA building south of Pico with deep legacy rents that sold $500,000 under its list price in June 2026.",
-          "relevance": "10 units per the assessor (MLS 11), 1963, 8,332 SF.",
+          "relevance": "10 units per the assessor (MLS 11), 1963, 8,332 SF.; West LA south of Pico, the subject's own pocket.",
           "considerations": "Rents well under market at the sale; 5.03% cap and 10.87 times rent.",
           "treasury_3y": 4.0,
           "treasury_5y": 4.12,
@@ -930,7 +930,7 @@
           "document": null,
           "side_by_side": true,
           "summary": "A 10-unit 1961 Mar Vista building that closed at $3.26M with the seller's loan taken over by the buyer.",
-          "relevance": "10 units, 1961, 7,414 SF.",
+          "relevance": "10 units, 1961, 7,414 SF.; Mar Vista, the subject's side of the 10.",
           "considerations": "The buyer took over the seller's loan; metrics use the $3,260,000 total price.",
           "treasury_3y": 3.7,
           "treasury_5y": 3.84,
@@ -958,7 +958,7 @@
           "document": null,
           "side_by_side": true,
           "summary": "The closest physical twin: 12 units built in 1958 in 6,292 SF, half a mile away, sold for $3.1M with the seller's loan taken over.",
-          "relevance": "12 units, 1958, 6,292 SF; the same small-unit profile.",
+          "relevance": "12 units, 1958, 6,292 SF; the same small-unit profile.; West LA south of Pico, the subject's own pocket and the closest physical twin.",
           "considerations": "The buyer took over the seller's lower-rate loan; metrics use the $3,100,000 contract price.",
           "treasury_3y": 3.66,
           "treasury_5y": 3.75,
@@ -1066,7 +1066,7 @@
         },
         "local_listings_source": {
           "source": "https://www.laaa.com/listings",
-          "pulled": "2026-09-24T19:08:17+00:00"
+          "pulled": "2026-09-24T19:26:23+00:00"
         }
       },
       "deal_id": "2540-s-barrington",
@@ -1098,7 +1098,7 @@
       "price": 2150000.0,
       "price_per_unit": 238888.88888888888,
       "price_per_sf": 335.72767020612116,
-      "value_range": "$2,100,000 to $2,200,000",
+      "value_range": "$2,050,000 to $2,200,000",
       "opinion_of_value": [
         {
           "label": "Suggested list price",
@@ -1126,27 +1126,27 @@
         },
         {
           "label": "Midpoint",
-          "price": 2150000.0,
-          "price_per_unit": 238888.88888888888,
-          "price_per_sf": 335.72767020612116,
+          "price": 2125000.0,
+          "price_per_unit": 236111.11111111112,
+          "price_per_sf": 331.8238600874453,
           "price_per_land_sf": null,
           "price_per_buildable_unit": null,
-          "grm_current": 10.756884406019852,
-          "grm_market": 8.391881342701016,
-          "cap_current": 5.2342235534883725,
-          "cap_market": 7.673880930232559
+          "grm_current": 10.631804354787064,
+          "grm_market": 8.294301327088212,
+          "cap_current": 5.3097720658823535,
+          "cap_market": 7.778131294117648
         },
         {
           "label": "Range bottom",
-          "price": 2100000.0,
-          "price_per_unit": 233333.33333333334,
-          "price_per_sf": 327.92004996876955,
+          "price": 2050000.0,
+          "price_per_unit": 227777.77777777778,
+          "price_per_sf": 320.1124297314179,
           "price_per_land_sf": null,
           "price_per_buildable_unit": null,
-          "grm_current": 10.506724303554275,
-          "grm_market": 8.19672131147541,
-          "cap_current": 5.387119352380952,
-          "cap_market": 7.884863809523811
+          "grm_current": 10.256564201088697,
+          "grm_market": 8.001561280249804,
+          "cap_current": 5.547473482926829,
+          "cap_market": 8.106138536585366
         }
       ],
       "scheduled_rent": [
@@ -1458,7 +1458,7 @@
         "Market rent is $2,800 for a two bedroom two bath of about 850 SF, just above the building's own $2,750 lease from September 2026, $2,150 for a one bedroom of about 625 SF against the building's own $1,950 to $2,100 leases, and $1,550 for the single. The pro forma carries every unit at those rents."
       ],
       "valuation_narrative": [
-        "The recommended list price is $2.15M, $238,889 per unit and $336 per SF, with an opinion of value of $2.1M to $2.2M. Current scheduled rent of $199,872, with unit 2 at market after its 08/31/2026 move-out, less a 3% vacancy reserve and plus $850 of laundry income gives $194,726 of effective gross income. Operating expenses of $82,190, with taxes reassessed at the list price, leave net operating income of $112,536: a 5.23% cap rate and a 10.76 gross rent multiplier. At market rents the net operating income is $164,988, a 7.67% cap rate.",
+        "The recommended list price is $2.15M, $238,889 per unit and $336 per SF, with an opinion of value of $2.05M to $2.2M. Current scheduled rent of $199,872, with unit 2 at market after its 08/31/2026 move-out, less a 3% vacancy reserve and plus $850 of laundry income gives $194,726 of effective gross income. Operating expenses of $82,190, with taxes reassessed at the list price, leave net operating income of $112,536: a 5.23% cap rate and a 10.76 gross rent multiplier. At market rents the net operating income is $164,988, a 7.67% cap rate.",
         "The closest evidence is our own listing at 12231 Pacific Avenue, seven units 0.3 miles northeast, in escrow at $1.575M after listing at $1.9M and a reduction to $1.7M: $225,000 per unit, $227 per SF and 10.03 times its $157,056 of current rent, about a 6.2% cap on its approved model with taxes restated at that price.",
         "12535 Pacific is priced above that escrow figure, at $238,889 per unit and 10.76 times rent, because the buildings differ. Its soft-story retrofit was completed in 2018. Five of its nine units have been re-leased near market, including two bedroom two baths at $2,700 in November 2024 and $2,750 in September 2026, above the $2,595 two bedroom market rent in 12231's own model, where the in-place two bedrooms rent for $1,643 to $2,120. It has no open city orders, while the housing department's 2026 orders on 12231's exterior balconies and walkways remain open on the public record. It also has nine units to 12231's seven, four of them legacy tenancies with room to grow on turnover."
       ],
@@ -1996,7 +1996,7 @@
         },
         "local_listings_source": {
           "source": "https://www.laaa.com/listings",
-          "pulled": "2026-09-24T19:08:17+00:00"
+          "pulled": "2026-09-24T19:26:23+00:00"
         }
       },
       "deal_id": "12535-pacific",
@@ -2136,7 +2136,7 @@
           },
           "buyer_profile": {
             "market_narrative": [
-              "Five West Los Angeles and Mar Vista apartment sales of 8 to 12 units, built 1958 to 1969, all within 1.5 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to August 2026, at a median of $258,333 per unit, $440 per SF and 11.19 times rent. Older sales are left out on purpose: they priced on money that no longer exists. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap.",
+              "Five West Los Angeles and Mar Vista apartment sales of 8 to 12 units, built 1958 to 1969, all within 1.5 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to August 2026, at a median of $258,333 per unit, $440 per SF and 11.19 times rent. Older sales are left out on purpose: they priced on money that no longer exists. 1626 S Barrington and 1519 Armacost sit north of Olympic with no freeway, a better pocket than the subject's block off the I-10, and they set the ceiling; the price is set under them and against 11296 Brookhaven and 1800 S Bundy, the subject's own pocket. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap.",
               "Thirty days before each of those sales closed, the 5-year Treasury ran 3.75% to 4.40%, a median of 4.12%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The three closings from June to August 2026, which locked nearest today's rates, ran 10.48 to 11.19 times rent.",
               "A buyer today pays about a point more for money than the buyers who set most of those comps, so the 2026 closings carry more weight in our pricing than the 2024 and 2025 sales."
             ],
@@ -2500,7 +2500,7 @@
               "comps-sale:sale-02"
             ],
             "framed_as": null,
-            "text": "Five West Los Angeles and Mar Vista apartment sales of 8 to 12 units, built 1958 to 1969, all within 1.5 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to August 2026, at a median of $258,333 per unit, $440 per SF and 11.19 times rent. Older sales are left out on purpose: they priced on money that no longer exists. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap."
+            "text": "Five West Los Angeles and Mar Vista apartment sales of 8 to 12 units, built 1958 to 1969, all within 1.5 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to August 2026, at a median of $258,333 per unit, $440 per SF and 11.19 times rent. Older sales are left out on purpose: they priced on money that no longer exists. 1626 S Barrington and 1519 Armacost sit north of Olympic with no freeway, a better pocket than the subject's block off the I-10, and they set the ceiling; the price is set under them and against 11296 Brookhaven and 1800 S Bundy, the subject's own pocket. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap."
           },
           {
             "id": "market-2",
@@ -2767,7 +2767,7 @@
           },
           "financial_analysis": {
             "valuation_narrative": [
-              "The recommended list price is $2.15M, $238,889 per unit and $336 per SF, with an opinion of value of $2.1M to $2.2M. Current scheduled rent of $199,872, with unit 2 at market after its 08/31/2026 move-out, less a 3% vacancy reserve and plus $850 of laundry income gives $194,726 of effective gross income. Operating expenses of $82,190, with taxes reassessed at the list price, leave net operating income of $112,536: a 5.23% cap rate and a 10.76 gross rent multiplier. At market rents the net operating income is $164,988, a 7.67% cap rate.",
+              "The recommended list price is $2.15M, $238,889 per unit and $336 per SF, with an opinion of value of $2.05M to $2.2M. Current scheduled rent of $199,872, with unit 2 at market after its 08/31/2026 move-out, less a 3% vacancy reserve and plus $850 of laundry income gives $194,726 of effective gross income. Operating expenses of $82,190, with taxes reassessed at the list price, leave net operating income of $112,536: a 5.23% cap rate and a 10.76 gross rent multiplier. At market rents the net operating income is $164,988, a 7.67% cap rate.",
               "The closest evidence is our own listing at 12231 Pacific Avenue, seven units 0.3 miles northeast, in escrow at $1.575M after listing at $1.9M and a reduction to $1.7M: $225,000 per unit, $227 per SF and 10.03 times its $157,056 of current rent, about a 6.2% cap on its approved model with taxes restated at that price.",
               "12535 Pacific is priced above that escrow figure, at $238,889 per unit and 10.76 times rent, because the buildings differ. Its soft-story retrofit was completed in 2018. Five of its nine units have been re-leased near market, including two bedroom two baths at $2,700 in November 2024 and $2,750 in September 2026, above the $2,595 two bedroom market rent in 12231's own model, where the in-place two bedrooms rent for $1,643 to $2,120. It has no open city orders, while the housing department's 2026 orders on 12231's exterior balconies and walkways remain open on the public record. It also has nine units to 12231's seven, four of them legacy tenancies with room to grow on turnover."
             ],
@@ -3226,7 +3226,7 @@
               "sources:mm-model"
             ],
             "framed_as": null,
-            "text": "The recommended list price is $2.15M, $238,889 per unit and $336 per SF, with an opinion of value of $2.1M to $2.2M. Current scheduled rent of $199,872, with unit 2 at market after its 08/31/2026 move-out, less a 3% vacancy reserve and plus $850 of laundry income gives $194,726 of effective gross income. Operating expenses of $82,190, with taxes reassessed at the list price, leave net operating income of $112,536: a 5.23% cap rate and a 10.76 gross rent multiplier. At market rents the net operating income is $164,988, a 7.67% cap rate."
+            "text": "The recommended list price is $2.15M, $238,889 per unit and $336 per SF, with an opinion of value of $2.05M to $2.2M. Current scheduled rent of $199,872, with unit 2 at market after its 08/31/2026 move-out, less a 3% vacancy reserve and plus $850 of laundry income gives $194,726 of effective gross income. Operating expenses of $82,190, with taxes reassessed at the list price, leave net operating income of $112,536: a 5.23% cap rate and a 10.76 gross rent multiplier. At market rents the net operating income is $164,988, a 7.67% cap rate."
           },
           {
             "id": "valuation-2",
@@ -3353,7 +3353,7 @@
             },
             "buyer_profile": {
               "market_narrative": [
-                "Five West Los Angeles and Mar Vista apartment sales of 8 to 12 units, built 1958 to 1969, all within 1.5 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to August 2026, at a median of $258,333 per unit, $440 per SF and 11.19 times rent. Older sales are left out on purpose: they priced on money that no longer exists. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap.",
+                "Five West Los Angeles and Mar Vista apartment sales of 8 to 12 units, built 1958 to 1969, all within 1.5 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to August 2026, at a median of $258,333 per unit, $440 per SF and 11.19 times rent. Older sales are left out on purpose: they priced on money that no longer exists. 1626 S Barrington and 1519 Armacost sit north of Olympic with no freeway, a better pocket than the subject's block off the I-10, and they set the ceiling; the price is set under them and against 11296 Brookhaven and 1800 S Bundy, the subject's own pocket. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap.",
                 "Thirty days before each of those sales closed, the 5-year Treasury ran 3.75% to 4.40%, a median of 4.12%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The three closings from June to August 2026, which locked nearest today's rates, ran 10.48 to 11.19 times rent.",
                 "A buyer today pays about a point more for money than the buyers who set most of those comps, so the 2026 closings carry more weight in our pricing than the 2024 and 2025 sales."
               ],
@@ -3717,7 +3717,7 @@
                 "comps-sale:sale-02"
               ],
               "framed_as": null,
-              "text": "Five West Los Angeles and Mar Vista apartment sales of 8 to 12 units, built 1958 to 1969, all within 1.5 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to August 2026, at a median of $258,333 per unit, $440 per SF and 11.19 times rent. Older sales are left out on purpose: they priced on money that no longer exists. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap."
+              "text": "Five West Los Angeles and Mar Vista apartment sales of 8 to 12 units, built 1958 to 1969, all within 1.5 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to August 2026, at a median of $258,333 per unit, $440 per SF and 11.19 times rent. Older sales are left out on purpose: they priced on money that no longer exists. 1626 S Barrington and 1519 Armacost sit north of Olympic with no freeway, a better pocket than the subject's block off the I-10, and they set the ceiling; the price is set under them and against 11296 Brookhaven and 1800 S Bundy, the subject's own pocket. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap."
             },
             {
               "id": "market-2",
@@ -4383,7 +4383,7 @@
             },
             "financial_analysis": {
               "valuation_narrative": [
-                "The recommended list price is $2.15M, $238,889 per unit and $336 per SF, with an opinion of value of $2.1M to $2.2M. Current scheduled rent of $199,872, with unit 2 at market after its 08/31/2026 move-out, less a 3% vacancy reserve and plus $850 of laundry income gives $194,726 of effective gross income. Operating expenses of $82,190, with taxes reassessed at the list price, leave net operating income of $112,536: a 5.23% cap rate and a 10.76 gross rent multiplier. At market rents the net operating income is $164,988, a 7.67% cap rate.",
+                "The recommended list price is $2.15M, $238,889 per unit and $336 per SF, with an opinion of value of $2.05M to $2.2M. Current scheduled rent of $199,872, with unit 2 at market after its 08/31/2026 move-out, less a 3% vacancy reserve and plus $850 of laundry income gives $194,726 of effective gross income. Operating expenses of $82,190, with taxes reassessed at the list price, leave net operating income of $112,536: a 5.23% cap rate and a 10.76 gross rent multiplier. At market rents the net operating income is $164,988, a 7.67% cap rate.",
                 "The closest evidence is our own listing at 12231 Pacific Avenue, seven units 0.3 miles northeast, in escrow at $1.575M after listing at $1.9M and a reduction to $1.7M: $225,000 per unit, $227 per SF and 10.03 times its $157,056 of current rent, about a 6.2% cap on its approved model with taxes restated at that price.",
                 "12535 Pacific is priced above that escrow figure, at $238,889 per unit and 10.76 times rent, because the buildings differ. Its soft-story retrofit was completed in 2018. Five of its nine units have been re-leased near market, including two bedroom two baths at $2,700 in November 2024 and $2,750 in September 2026, above the $2,595 two bedroom market rent in 12231's own model, where the in-place two bedrooms rent for $1,643 to $2,120. It has no open city orders, while the housing department's 2026 orders on 12231's exterior balconies and walkways remain open on the public record. It also has nine units to 12231's seven, four of them legacy tenancies with room to grow on turnover."
               ],
@@ -4842,7 +4842,7 @@
                 "sources:mm-model"
               ],
               "framed_as": null,
-              "text": "The recommended list price is $2.15M, $238,889 per unit and $336 per SF, with an opinion of value of $2.1M to $2.2M. Current scheduled rent of $199,872, with unit 2 at market after its 08/31/2026 move-out, less a 3% vacancy reserve and plus $850 of laundry income gives $194,726 of effective gross income. Operating expenses of $82,190, with taxes reassessed at the list price, leave net operating income of $112,536: a 5.23% cap rate and a 10.76 gross rent multiplier. At market rents the net operating income is $164,988, a 7.67% cap rate."
+              "text": "The recommended list price is $2.15M, $238,889 per unit and $336 per SF, with an opinion of value of $2.05M to $2.2M. Current scheduled rent of $199,872, with unit 2 at market after its 08/31/2026 move-out, less a 3% vacancy reserve and plus $850 of laundry income gives $194,726 of effective gross income. Operating expenses of $82,190, with taxes reassessed at the list price, leave net operating income of $112,536: a 5.23% cap rate and a 10.76 gross rent multiplier. At market rents the net operating income is $164,988, a 7.67% cap rate."
             },
             {
               "id": "valuation-2",
@@ -5338,12 +5338,12 @@
   "approval_binding": {
     "deal_id": "krasno-portfolio",
     "domains": {
-      "identity": "c2b662380b31323e946868ded6290224cc742dcfdc523d375f107a57831e6832",
+      "identity": "d347208a3e364c9b34e9caac4e14620d8ba13e9a8d6049363dd5b4222ae654d9",
       "financial_inputs": "bcd248863293f95e1f2e6d7a41e865eafd24a57c7ff7801686bc381461703353",
-      "pricing_decision": "c95bc4114006020fd10d6fc127f5f87b2cc9c4179529209aa540990a20a9cc2c",
-      "sale_comps": "73b6a749a86c01d41e3c4f8df327262eb2c65cdc2188ab031684dffebda7f6cc",
-      "rent_comps": "771f27cdf25e47ff57d8d6f110ed99006c0c5fe44ff7809b38edfa12f5208c40",
-      "copy": "00ac9dc029deb7578a73ad11aeafc9a20a8ac4b4a1032d337d41b66a9f3ef44a",
+      "pricing_decision": "59c2adfa354f62944aaa69e0526a733fb3b2d8502cb5aac0a7258745265d6b89",
+      "sale_comps": "00a3360d08a3c791cb669b878cd512ca6c1774d3715c18edd9f0ebba97fc4a54",
+      "rent_comps": "c1957a30646a196239cd5f810510d040703cb945f0e2ae935a5a236fcfb0a313",
+      "copy": "37c89781a63451f83955c084924dc3a36036e6a742f3853de0304ec766185300",
       "media_selection": "c22e2b184fdd0c1243d3042b2f2757388474b3344ee1746800fcf09e05a85031",
       "regulatory_conclusions": "11b95809c79570b17e019099e83ceb4f42172a1c26086a14b082b713769bae6b"
     },
@@ -5352,37 +5352,37 @@
         "identity": "43aeadc0cfd5f38d182eceb95f400c5a4936028628c5a9a4121a936f9872ebdf",
         "financial_inputs": "1aa1e847ef3ea0d108d58e9f832b7dc05805699235bbaf822152b20fd1709201",
         "pricing_decision": "13a234126304ec7a9f1b321c9cb4a342ab2d4b3a6ae72f22ec3777e2e0bdf833",
-        "sale_comps": "036e55140064d363601e9aab396ff71c5dc673223cb22e7db4b1474faa880d9b",
-        "rent_comps": "4a8c6030eebcf6c3fdfe1b38cbc8384aa15d9994b08184d6b434108b7dd0bf4a",
-        "copy": "f4b82b6c46c45f6c3153ac021288ea7a2441cec5e0f99d0b28ad53b266a6c85a",
+        "sale_comps": "b6f7062356cdf9db7c9158394785784f9821ef6a1619011efc67e1b08ffe2229",
+        "rent_comps": "790015a92bebb465b570dc48b69a5934ef6931428156550a878d5826198bf550",
+        "copy": "b752a83055a19c9970353b909f62f908033e55cb45e381761aaaa4d9c0200fd6",
         "media_selection": "934d6969b03766acd43b72bf61ffe1fa59df9335dbc654cc7b1380d6d76ad6b9",
         "regulatory_conclusions": "1bca1d5f3a2884f18e9bceec95a23e89b757b4dfc0ca0ea37b57d165a850c9b4"
       },
       "12535-pacific": {
         "identity": "634f83e57ad10ba44e050e379659c798ac9849da5a24e446f6cc63e545ac855b",
         "financial_inputs": "8ea120fdc9d20532b2b15f9be419511fbd3bd6d8d003875954204ca4756b9ba2",
-        "pricing_decision": "d41a2986313e911b5669f0550013cb14c3f03f37c1fa9d09765dec6a511f578f",
+        "pricing_decision": "ed24fd4749f5b98c2cb10c3a6a940c811df3e44d622aeca5edfb0aafc388818d",
         "sale_comps": "4fc3a5a560013c27813d05521ce62d389ec0a99181110bf28c08181a0c22b001",
-        "rent_comps": "9379697c6ab104681b162746ab341c97cc5af66f8745fa9786df2a9987dab09d",
-        "copy": "c81924393fbaa0502f877d52ada532612234de12b6851b40f9463c36e52c9c57",
+        "rent_comps": "feeac6bcd161d2d6347e0dc498eca48c0c5f1a089739eeaf085ed17db5f566d5",
+        "copy": "d7c81cd2fc02255753b76ffe11435ec9670b472568928228ce30941625855ac2",
         "media_selection": "c2cb09d1f0ac341f60983548854f14b6a1013094969c315fc044d6bf7bf3a1df",
         "regulatory_conclusions": "090372d7a81879e3774e5950290180ddbc9815ea0147b8357e0b3c422410359e"
       }
     },
     "presentation_hashes": {
-      "identity": "46fc7efb8ab9b1f8ea764ed9ed947442cd883a85188b0a60a4a6f1a447884e2d",
+      "identity": "0200b3b86aca6f9f20c1bf649a3cd378707a254844e92464ecc23c830a7193a3",
       "financial_inputs": "62cb5cb7f1837b9d1c0ba28e9b0b6cd486a29d550eb8faf68236aef7b12295d4",
-      "pricing_decision": "889a48f43bc941c4146b93d671f087cdbee2ade7b7e05175a83fc7b02a8f9b2a",
-      "sale_comps": "e3699900eb268e4e2f44937ff9be2735bab4dd70559bc818e915558fdd0f196f",
+      "pricing_decision": "8f7b491f77503bfe5c05ae760f2be99a3fe6bd1d9bf4e1efb60476881fcc3359",
+      "sale_comps": "4b5e4b9ca071457d731158d0975f308b5b69032940e6e9d4fd39b71110ef4503",
       "rent_comps": "39b3baa3d167654ce4ec390b697e358d46fe1a7c4b6d68d0bb50ce1dcbb9d20b",
-      "copy": "c89dbbb51a7bca8d9d1ca9d315b28d899b7d5203b467686baa37209961ef4ec1",
+      "copy": "f70bc454e89dc8fa8f70cd83e65e4bda97a73f3cd16babd4f74fbc038bc0c6c7",
       "media_selection": "51752fd654a56f4f65332c5ee113c0522d2fd8a2a36d3966118ece94c5dee592",
       "regulatory_conclusions": "f7d97cb1a68f63ddbd97eba4ea0a1e3bec6a78ee40605c9c86f252cb1294323d"
     }
   },
   "stats": {
     "live": true,
-    "generated": "2026-09-24T19:08:17+00:00",
+    "generated": "2026-09-24T19:26:23+00:00",
     "geography": {
       "states": 21,
       "has_dc": true,

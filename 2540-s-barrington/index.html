@@ -4,21 +4,21 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="robots" content="noindex, nofollow">
-<meta name="laaa-figures-pulled" content="2026-09-24T19:08:17+00:00">
+<meta name="laaa-figures-pulled" content="2026-09-24T19:26:23+00:00">
 <meta name="description" content="12-Unit Multifamily Investment - Los Angeles, CA 90064 | LAAA Team - Marcus &amp; Millichap">
 <meta property="og:title" content="Broker Opinion of Value - 2540 S Barrington Ave">
 <meta property="og:description" content="12-Unit Multifamily Investment - Los Angeles, CA 90064 | LAAA Team - Marcus &amp; Millichap">
-<meta property="og:image" content="https://2540-barrington-portfolio.laaa.com/og.jpg">
+<meta property="og:image" content="https://krasno-portfolio.laaa.com/og.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:url" content="https://2540-barrington-portfolio.laaa.com/2540-s-barrington/">
+<meta property="og:url" content="https://krasno-portfolio.laaa.com/2540-s-barrington/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="LAAA Team">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Broker Opinion of Value - 2540 S Barrington Ave">
 <meta name="twitter:description" content="12-Unit Multifamily Investment - Los Angeles, CA 90064 | LAAA Team - Marcus &amp; Millichap">
-<meta name="twitter:image" content="https://2540-barrington-portfolio.laaa.com/og.jpg">
-<link rel="canonical" href="https://2540-barrington-portfolio.laaa.com/2540-s-barrington/">
+<meta name="twitter:image" content="https://krasno-portfolio.laaa.com/og.jpg">
+<link rel="canonical" href="https://krasno-portfolio.laaa.com/2540-s-barrington/">
 <title>Broker Opinion of Value - 2540 S Barrington Ave</title>
 <link rel="icon" type="image/png" href="../images/LAAA_Team_Blue.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -529,6 +529,15 @@ td.num, th.num { text-align: right; }
 .prop-bar a + a { border-left: 1px solid rgba(27,58,92,0.25); }
 .prop-bar a:hover { background: rgba(27,58,92,0.08); }
 .prop-bar a.prop-bar-current { background: #1B3A5C; color: #C5A258; }
+/* The bar scrolls sideways on a phone like the section menu, so it gets the same
+   edge fades (Glen 2026-09-24: the third building's tab was cut to "12535 PACIFIC A"
+   with nothing saying there was more) and the page scrolls its own tab into view. */
+.prop-bar-wrap { position: relative; }
+.prop-bar-wrap::before, .prop-bar-wrap::after { content: ""; position: absolute; top: 0; bottom: 0; width: 30px; z-index: 2; pointer-events: none; opacity: 0; transition: opacity .18s ease; }
+.prop-bar-wrap::before { left: 0; background: linear-gradient(to right, #C5A258 15%, rgba(197,162,88,0)); }
+.prop-bar-wrap::after { right: 0; background: linear-gradient(to left, #C5A258 15%, rgba(197,162,88,0)); }
+.prop-bar-wrap.can-left::before { opacity: 1; }
+.prop-bar-wrap.can-right::after { opacity: 1; }
 .member-header { min-height: 46vh; }
 .member-header .cover-content { padding: 44px 24px 36px; }
 .member-header .cover-title { font-size: 40px; }
@@ -691,11 +700,11 @@ table.bm-soft tr.highlight td{background:#FFF8E7;border-left:3px solid #C5A258;f
     <div class="cover-stats"><div class="cover-stat"><span class="cover-stat-value">12</span><span class="cover-stat-label">Units</span></div><div class="cover-stat"><span class="cover-stat-value">6,535</span><span class="cover-stat-label">Square Feet</span></div><div class="cover-stat"><span class="cover-stat-value">1958</span><span class="cover-stat-label">Year Built</span></div><div class="cover-stat"><span class="cover-stat-value">8,257</span><span class="cover-stat-label">SF Lot</span></div></div>
   </div>
 </div>
-<div class="site-top" id="site-top"><nav class="prop-bar" id="prop-bar" aria-label="Properties">
+<div class="site-top" id="site-top"><div class="prop-bar-wrap" id="prop-bar-wrap"><nav class="prop-bar" id="prop-bar" aria-label="Properties">
   <a href="../index.html">All Properties</a>
   <a href="../2540-s-barrington/index.html" class="prop-bar-current" aria-current="page">2540 S Barrington Ave</a>
   <a href="../12535-pacific/index.html">12535 Pacific Ave</a>
-</nav>
+</nav></div>
 <div class="toc-nav-wrap" id="toc-nav-wrap"><nav class="toc-nav" id="toc-nav">
   <a href="#property-info">Buyer Strategy</a>
   <a href="#investment">Investment</a>
@@ -713,7 +722,7 @@ table.bm-soft tr.highlight td{background:#FFF8E7;border-left:3px solid #C5A258;f
   <div class="section-subtitle">Who Is Most Likely to Buy, and How We Create Competition</div>
   <div class="section-divider"></div>
   <div class="buyer-intro-grid">
-    <div><h3 class="sub-heading">Market Context</h3><p class="narrative">Five West Los Angeles and Mar Vista apartment sales of 8 to 12 units, built 1958 to 1969, all within 1.5 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to August 2026, at a median of $258,333 per unit, $440 per SF and 11.19 times rent. Older sales are left out on purpose: they priced on money that no longer exists. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller&#x27;s low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap.</p>
+    <div><h3 class="sub-heading">Market Context</h3><p class="narrative">Five West Los Angeles and Mar Vista apartment sales of 8 to 12 units, built 1958 to 1969, all within 1.5 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to August 2026, at a median of $258,333 per unit, $440 per SF and 11.19 times rent. Older sales are left out on purpose: they priced on money that no longer exists. 1626 S Barrington and 1519 Armacost sit north of Olympic with no freeway, a better pocket than the subject&#x27;s block off the I-10, and they set the ceiling; the price is set under them and against 11296 Brookhaven and 1800 S Bundy, the subject&#x27;s own pocket. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller&#x27;s low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap.</p>
 <p class="narrative">Thirty days before each of those sales closed, the 5-year Treasury ran 3.75% to 4.40%, a median of 4.12%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The three closings from June to August 2026, which locked nearest today&#x27;s rates, ran 10.48 to 11.19 times rent.</p>
 <p class="narrative">A buyer today pays about a point more for money than the buyers who set most of those comps, so the 2026 closings carry more weight in our pricing than the 2024 and 2025 sales.</p></div>
     <div class="buyer-positioning"><h3 class="sub-heading">Positioning Thesis</h3><p class="narrative">The right buyer wants a Westside pool building near two rail stations, four legacy tenancies to turn over time and an R4 lot to hold. We would qualify buyers early on their financing, because at today&#x27;s rates the loan decides what a buyer can pay.</p></div>
@@ -840,7 +849,7 @@ table.bm-soft tr.highlight td{background:#FFF8E7;border-left:3px solid #C5A258;f
 </tbody>
   </table></div>
   <p class="model-pages-source">3Y and 5Y Treasury: constant-maturity yields 30 days before each sale, a proxy for the buyer's rate lock. As of 09/23/2026: 3Y 4.81%, 5Y 4.83%. Source: U.S. Treasury constant maturity, via FRED (DGS3, DGS5).</p>
-  <div class="comp-narratives"><div class="comp-card"><img class="prop-card-img" src="../images/2540-s-barrington-comp-4262-011-013.jpg" alt="1626 S Barrington Ave" loading="lazy"><div class="comp-card-body"><p class="narrative"><strong>1. <a class="comp-link" href="https://www.google.com/maps/search/?api=1&amp;query=34.0420908,-118.4541931&amp;query_place_id=ChIJHfhsYG67woAROSxLTx0OAVA" target="_blank" rel="noopener noreferrer">1626 S Barrington Ave</a></strong> &middot; The freshest sale in the set, on the same street, closed 08/26/2026 at a 6.05% cap and 11.19 times rent. Built 1969, 7,900 SF; the assessor carries 8 units while the MLS and the rent registry carry 11. Per unit figures use the assessor&#x27;s 8 (about $248,000 per unit on 11). Locked nearest today&#x27;s rates of any sale in the set. Treasury yields at the rate lock (07/27/2026): 3Y 4.35%, 5Y 4.40%.</p></div></div><div class="comp-card"><img class="prop-card-img" src="../images/2540-s-barrington-comp-4263-034-010.jpg" alt="1519 Armacost Ave" loading="lazy"><div class="comp-card-body"><p class="narrative"><strong>2. <a class="comp-link" href="https://www.google.com/maps/search/?api=1&amp;query=34.0411826,-118.45999150000002&amp;query_place_id=ChIJu45MCGm7woARBhEO2Kve7vA" target="_blank" rel="noopener noreferrer">1519 Armacost Ave</a></strong> &middot; The closest match on unit size: five singles, five one bedrooms and a two bedroom in 5,503 SF, built 1959 in Sawtelle. 11 units, 1959, 5,503 SF; small units like the subject&#x27;s. Closed 07/17/2026 after 102 days on market, under list; 5.89% cap and 10.48 times rent. Treasury yields at the rate lock (06/17/2026): 3Y 4.23%, 5Y 4.27%.</p></div></div><div class="comp-card"><img class="prop-card-img" src="../images/2540-s-barrington-comp-4259-017-023.jpg" alt="1800 S Bundy Dr" loading="lazy"><div class="comp-card-body"><p class="narrative"><strong>3. <a class="comp-link" href="https://www.google.com/maps/search/?api=1&amp;query=34.03658,-118.458136&amp;query_place_id=ChIJS-5Jbmu7woARjjhDr8T6kW0" target="_blank" rel="noopener noreferrer">1800 S Bundy Dr</a></strong> &middot; A West LA building south of Pico with deep legacy rents that sold $500,000 under its list price in June 2026. 10 units per the assessor (MLS 11), 1963, 8,332 SF. Rents well under market at the sale; 5.03% cap and 10.87 times rent. Treasury yields at the rate lock (05/13/2026): 3Y 4.00%, 5Y 4.12%.</p></div></div><p class="narrative"><strong>4. <a class="comp-link" href="https://www.google.com/maps/search/?api=1&amp;query=34.011099099999996,-118.4270795&amp;query_place_id=ChIJEwE_RUW6woARYgeSy_sytaI" target="_blank" rel="noopener noreferrer">3651 McLaughlin Ave</a></strong> &middot; A 10-unit 1961 Mar Vista building that closed at $3.26M with the seller&#x27;s loan taken over by the buyer. 10 units, 1961, 7,414 SF. The buyer took over the seller&#x27;s loan; metrics use the $3,260,000 total price. Treasury yields at the rate lock (08/10/2025): 3Y 3.70%, 5Y 3.84%.</p><div class="comp-card"><img class="prop-card-img" src="../images/2540-s-barrington-comp-4258-018-011.jpg" alt="11296 Brookhaven Ave" loading="lazy"><div class="comp-card-body"><p class="narrative"><strong>5. <a class="comp-link" href="https://www.google.com/maps/search/?api=1&amp;query=34.0297312,-118.43376609999999&amp;query_place_id=ChIJ89O1TK-7woARvaIz3sscm6g" target="_blank" rel="noopener noreferrer">11296 Brookhaven Ave</a></strong> &middot; The closest physical twin: 12 units built in 1958 in 6,292 SF, half a mile away, sold for $3.1M with the seller&#x27;s loan taken over. 12 units, 1958, 6,292 SF; the same small-unit profile. The buyer took over the seller&#x27;s lower-rate loan; metrics use the $3,100,000 contract price. Treasury yields at the rate lock (08/04/2025): 3Y 3.66%, 5Y 3.75%.</p></div></div></div>
+  <div class="comp-narratives"><div class="comp-card"><img class="prop-card-img" src="../images/2540-s-barrington-comp-4262-011-013.jpg" alt="1626 S Barrington Ave" loading="lazy"><div class="comp-card-body"><p class="narrative"><strong>1. <a class="comp-link" href="https://www.google.com/maps/search/?api=1&amp;query=34.0420908,-118.4541931&amp;query_place_id=ChIJHfhsYG67woAROSxLTx0OAVA" target="_blank" rel="noopener noreferrer">1626 S Barrington Ave</a></strong> &middot; The freshest sale in the set, on the same street, closed 08/26/2026 at a 6.05% cap and 11.19 times rent. Built 1969, 7,900 SF; the assessor carries 8 units while the MLS and the rent registry carry 11. Per unit figures use the assessor&#x27;s 8 (about $248,000 per unit on 11).; North of Olympic in the Sawtelle pocket, no freeway; a better pocket than the subject&#x27;s block off the I-10, so it reads as the ceiling for this set. Locked nearest today&#x27;s rates of any sale in the set. Treasury yields at the rate lock (07/27/2026): 3Y 4.35%, 5Y 4.40%.</p></div></div><div class="comp-card"><img class="prop-card-img" src="../images/2540-s-barrington-comp-4263-034-010.jpg" alt="1519 Armacost Ave" loading="lazy"><div class="comp-card-body"><p class="narrative"><strong>2. <a class="comp-link" href="https://www.google.com/maps/search/?api=1&amp;query=34.0411826,-118.45999150000002&amp;query_place_id=ChIJu45MCGm7woARBhEO2Kve7vA" target="_blank" rel="noopener noreferrer">1519 Armacost Ave</a></strong> &middot; The closest match on unit size: five singles, five one bedrooms and a two bedroom in 5,503 SF, built 1959 in Sawtelle. 11 units, 1959, 5,503 SF; small units like the subject&#x27;s.; North of Olympic in the Sawtelle pocket, no freeway; a better pocket than the subject&#x27;s, read as the ceiling on price per unit for small units. Closed 07/17/2026 after 102 days on market, under list; 5.89% cap and 10.48 times rent. Treasury yields at the rate lock (06/17/2026): 3Y 4.23%, 5Y 4.27%.</p></div></div><div class="comp-card"><img class="prop-card-img" src="../images/2540-s-barrington-comp-4259-017-023.jpg" alt="1800 S Bundy Dr" loading="lazy"><div class="comp-card-body"><p class="narrative"><strong>3. <a class="comp-link" href="https://www.google.com/maps/search/?api=1&amp;query=34.03658,-118.458136&amp;query_place_id=ChIJS-5Jbmu7woARjjhDr8T6kW0" target="_blank" rel="noopener noreferrer">1800 S Bundy Dr</a></strong> &middot; A West LA building south of Pico with deep legacy rents that sold $500,000 under its list price in June 2026. 10 units per the assessor (MLS 11), 1963, 8,332 SF.; West LA south of Pico, the subject&#x27;s own pocket. Rents well under market at the sale; 5.03% cap and 10.87 times rent. Treasury yields at the rate lock (05/13/2026): 3Y 4.00%, 5Y 4.12%.</p></div></div><p class="narrative"><strong>4. <a class="comp-link" href="https://www.google.com/maps/search/?api=1&amp;query=34.011099099999996,-118.4270795&amp;query_place_id=ChIJEwE_RUW6woARYgeSy_sytaI" target="_blank" rel="noopener noreferrer">3651 McLaughlin Ave</a></strong> &middot; A 10-unit 1961 Mar Vista building that closed at $3.26M with the seller&#x27;s loan taken over by the buyer. 10 units, 1961, 7,414 SF.; Mar Vista, the subject&#x27;s side of the 10. The buyer took over the seller&#x27;s loan; metrics use the $3,260,000 total price. Treasury yields at the rate lock (08/10/2025): 3Y 3.70%, 5Y 3.84%.</p><div class="comp-card"><img class="prop-card-img" src="../images/2540-s-barrington-comp-4258-018-011.jpg" alt="11296 Brookhaven Ave" loading="lazy"><div class="comp-card-body"><p class="narrative"><strong>5. <a class="comp-link" href="https://www.google.com/maps/search/?api=1&amp;query=34.0297312,-118.43376609999999&amp;query_place_id=ChIJ89O1TK-7woARvaIz3sscm6g" target="_blank" rel="noopener noreferrer">11296 Brookhaven Ave</a></strong> &middot; The closest physical twin: 12 units built in 1958 in 6,292 SF, half a mile away, sold for $3.1M with the seller&#x27;s loan taken over. 12 units, 1958, 6,292 SF; the same small-unit profile.; West LA south of Pico, the subject&#x27;s own pocket and the closest physical twin. The buyer took over the seller&#x27;s lower-rate loan; metrics use the $3,100,000 contract price. Treasury yields at the rate lock (08/04/2025): 3Y 3.66%, 5Y 3.75%.</p></div></div></div>
 </div>
 
 <div class="page-break-marker"></div>
@@ -957,6 +966,26 @@ window.addEventListener('scroll', function () {
   window.requestAnimationFrame(function () { updateActiveTocLink(); ticking = false; });
 }, { passive: true });
 updateActiveTocLink();
+
+/* The property bar: fade the edge that still has buildings beyond it, and bring
+   the current building's tab into view on load, so a phone never opens on a
+   clipped tab (Glen, 2026-09-24: the third tab read "12535 PACIFIC A"). */
+var propBar = document.getElementById('prop-bar'), propWrap = document.getElementById('prop-bar-wrap');
+function updatePropFades() {
+  if (!propBar || !propWrap) return;
+  var max = propBar.scrollWidth - propBar.clientWidth;
+  propWrap.classList.toggle('can-left', propBar.scrollLeft > 4);
+  propWrap.classList.toggle('can-right', propBar.scrollLeft < max - 4);
+}
+if (propBar) {
+  propBar.addEventListener('scroll', updatePropFades, { passive: true });
+  window.addEventListener('resize', updatePropFades);
+  var currentTab = propBar.querySelector('.prop-bar-current');
+  if (currentTab && propBar.scrollWidth > propBar.clientWidth) {
+    propBar.scrollLeft = Math.max(0, currentTab.offsetLeft - (propBar.clientWidth / 2) + (currentTab.offsetWidth / 2));
+  }
+  updatePropFades();
+}
 
 /* Fade whichever edge still has links beyond it, so a chopped word on a phone
    reads as "there is more this way" instead of looking broken. */
