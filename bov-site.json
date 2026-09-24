@@ -227,7 +227,7 @@
       "year_built": 1958,
       "renovated_year": null,
       "parking": "On-site parking at the rear of the building; the stall count is being confirmed with the owner.",
-      "hero": "images/2540-s-barrington-2540-s-barrington-front-exterior.jpg",
+      "hero": "images/2540-s-barrington-2540-s-barrington-pool-courtyard-from-the-upper-walkway.jpg",
       "price": 2600000.0,
       "price_per_unit": 216666.66666666666,
       "price_per_sf": 397.85768936495793,
@@ -579,8 +579,8 @@
         "All 45 windows were replaced with dual glazing in 2012, and a pool bonding permit was finaled the same year. Parking is at the rear of the building; the stall count is being confirmed with the owner."
       ],
       "market_narrative": [
-        "Eight City of Los Angeles apartment sales of 8 to 13 units, built 1957 to 1973, closed between September 2024 and August 2026 at a median of $256,090 per unit, $346 per SF and 11.29 times rent. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap.",
-        "Thirty days before each of those sales closed, the 5-year Treasury ran 3.75% to 4.40%, a median of 4.19%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The four closings from June to August 2026, which locked nearest today's rates, ran 9.16 to 11.19 times rent.",
+        "Five West Los Angeles and Mar Vista apartment sales of 8 to 12 units, built 1958 to 1969, all within 1.5 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to August 2026, at a median of $258,333 per unit, $440 per SF and 11.19 times rent. Older sales are left out on purpose: they priced on money that no longer exists. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap.",
+        "Thirty days before each of those sales closed, the 5-year Treasury ran 3.75% to 4.40%, a median of 4.12%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The three closings from June to August 2026, which locked nearest today's rates, ran 10.48 to 11.19 times rent.",
         "A buyer today pays about a point more for money than the buyers who set most of those comps, so the 2026 closings carry more weight in our pricing than the 2024 and 2025 sales."
       ],
       "positioning_narrative": [
@@ -623,6 +623,10 @@
         "Comparable sale prices come from TheMLS and county records. Cap rates on the comparable sales are LAAA estimates built from each building's own MLS income with a 3% vacancy and taxes restated at the sale price. Rent comparables are asking rents and listings removed from the market, which suggests a lease without proving one. Unit square footages are estimates."
       ],
       "gallery": [
+        {
+          "src": "images/2540-s-barrington-2540-s-barrington-front-exterior.jpg",
+          "alt": "Exterior"
+        },
         {
           "src": "images/2540-s-barrington-2540-s-barrington-pool-courtyard.jpg",
           "alt": "Pool"
@@ -879,34 +883,6 @@
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.0411826,-118.45999150000002&query_place_id=ChIJu45MCGm7woARBhEO2Kve7vA"
         },
         {
-          "address": "3346 S Canfield Ave",
-          "status": "Closed",
-          "price": 2000000,
-          "units": 11,
-          "year_built": 1973,
-          "building_sf": 7061,
-          "lot_sf": 9493,
-          "date": "2026-06-18",
-          "days_on_market": null,
-          "price_per_unit": 181818.18,
-          "price_per_sf": 283.25,
-          "price_per_land_sf": 210.68155482987464,
-          "grm": 9.163,
-          "cap_rate": 6.636,
-          "image": "2540-s-barrington-comp-4311-025-026.jpg",
-          "restatement": null,
-          "document": null,
-          "side_by_side": true,
-          "summary": "An 11-unit 1973 Palms building of singles and one bedrooms that closed in June 2026 at the low end of the per unit range.",
-          "relevance": "11 units, 1973, 7,061 SF; four singles and seven one bedrooms.",
-          "considerations": "Closed 06/18/2026 at a 6.64% cap and 9.16 times rent.",
-          "treasury_3y": 4.2,
-          "treasury_5y": 4.32,
-          "rate_lock_date": "2026-05-19",
-          "map_ref": 3,
-          "map_url": "https://www.google.com/maps/search/?api=1&query=34.029921,-118.3949494&query_place_id=ChIJm5hJzCq6woARy6L9aARfMvg"
-        },
-        {
           "address": "1800 S Bundy Dr",
           "status": "Closed",
           "price": 1900000,
@@ -931,7 +907,7 @@
           "treasury_3y": 4.0,
           "treasury_5y": 4.12,
           "rate_lock_date": "2026-05-13",
-          "map_ref": 4,
+          "map_ref": 3,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.03658,-118.458136&query_place_id=ChIJS-5Jbmu7woARjjhDr8T6kW0"
         },
         {
@@ -959,7 +935,7 @@
           "treasury_3y": 3.7,
           "treasury_5y": 3.84,
           "rate_lock_date": "2025-08-10",
-          "map_ref": 5,
+          "map_ref": 4,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.011099099999996,-118.4270795&query_place_id=ChIJEwE_RUW6woARYgeSy_sytaI"
         },
         {
@@ -987,64 +963,8 @@
           "treasury_3y": 3.66,
           "treasury_5y": 3.75,
           "rate_lock_date": "2025-08-04",
-          "map_ref": 6,
+          "map_ref": 5,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.0297312,-118.43376609999999&query_place_id=ChIJ89O1TK-7woARvaIz3sscm6g"
-        },
-        {
-          "address": "11340 National Blvd",
-          "status": "Closed",
-          "price": 3475000,
-          "units": 11,
-          "year_built": 1969,
-          "building_sf": 11112,
-          "lot_sf": 8382,
-          "date": "2024-12-19",
-          "days_on_market": null,
-          "price_per_unit": 315909.09,
-          "price_per_sf": 312.72,
-          "price_per_land_sf": 414.57885946074924,
-          "grm": 11.8395,
-          "cap_rate": 5.9045,
-          "image": "2540-s-barrington-comp-4250-026-008.jpg",
-          "restatement": null,
-          "document": null,
-          "side_by_side": true,
-          "summary": "An 11-unit 1969 building on National Blvd in 90064, heavy on two bedrooms.",
-          "relevance": "11 units, 1969, 11,112 SF; larger units.",
-          "considerations": "5.90% cap and 11.84 times rent.",
-          "treasury_3y": 4.24,
-          "treasury_5y": 4.25,
-          "rate_lock_date": "2024-11-19",
-          "map_ref": 7,
-          "map_url": "https://www.google.com/maps/search/?api=1&query=34.025332999999996,-118.4323674&query_place_id=ChIJ2-P0GKy7woARab7osCkGtt0"
-        },
-        {
-          "address": "1218 S Barrington Ave",
-          "status": "Closed",
-          "price": 3300000,
-          "units": 13,
-          "year_built": 1957,
-          "building_sf": 9500,
-          "lot_sf": 10493,
-          "date": "2024-09-18",
-          "days_on_market": null,
-          "price_per_unit": 253846.15,
-          "price_per_sf": 347.37,
-          "price_per_land_sf": 314.4953778709616,
-          "grm": 11.3768,
-          "cap_rate": 5.7317,
-          "image": "2540-s-barrington-comp-4263-011-027.jpg",
-          "restatement": null,
-          "document": null,
-          "side_by_side": true,
-          "summary": "The same street north of Olympic: 13 units built in 1957, mostly one bedrooms plus singles, at a 5.73% cap.",
-          "relevance": "13 units, 1957, 9,500 SF.",
-          "considerations": "Sold into the fall 2024 dip in rates.",
-          "treasury_3y": 3.86,
-          "treasury_5y": 3.75,
-          "rate_lock_date": "2024-08-19",
-          "map_ref": 8,
-          "map_url": "https://www.google.com/maps/search/?api=1&query=34.049012499999996,-118.46018449999998&query_place_id=ChIJ33sWKGe7woARuvf9KQ8Afz4"
         }
       ],
       "rate_environment": {
@@ -1112,7 +1032,7 @@
         ],
         "closings_map": {
           "source": "https://www.laaa.com/track-record",
-          "pulled": "2026-09-24T18:08:30+00:00",
+          "pulled": "2026-09-24T18:56:41+00:00",
           "basis": {
             "type": "radius",
             "label": "within 2 miles",
@@ -1146,11 +1066,11 @@
         },
         "local_listings_source": {
           "source": "https://www.laaa.com/listings",
-          "pulled": "2026-09-24T18:29:14+00:00"
+          "pulled": "2026-09-24T18:57:37+00:00"
         }
       },
       "deal_id": "2540-s-barrington",
-      "card_image": "images/2540-s-barrington-2540-s-barrington-front-exterior.jpg"
+      "card_image": "images/2540-s-barrington-2540-s-barrington-pool-courtyard-from-the-upper-walkway.jpg"
     },
     {
       "slug": "12535-pacific",
@@ -1526,8 +1446,8 @@
         "The tuck-under parking level carries the 2018 soft-story retrofit, steel cantilever columns under Certificate of Compliance 08/03/2018. All 33 windows were replaced with dual glazing in 2013, and an earthquake gas shutoff valve was permitted and finaled in 2018. The stall count is being confirmed with the owner."
       ],
       "market_narrative": [
-        "Nine City of Los Angeles apartment sales of 6 to 10 units, built 1954 to 1969, closed between September 2024 and April 2026 at a median of $261,111 per unit, $341 per SF and 11.52 times rent. 12610 Caswell Avenue, nine units built in 1964 two tenths of a mile away, sold for $2.395M in September 2024 at 11.33 times rent. 12757 Caswell Avenue, nine units with a similar mix of singles and two bedroom two baths, closed in March 2026 at $2.05M, 9.79 times rent and a 6.47% cap.",
-        "Thirty days before each of those sales closed, the 5-year Treasury ran 3.51% to 4.05%, a median of 3.68%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5).",
+        "Four Mar Vista apartment sales of 7 to 10 units, built 1957 to 1965, all within 1.2 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to March 2026, at a median of $235,317 per unit, $339 per SF and 11.36 times rent. Older sales are left out on purpose: they priced on money that no longer exists. 12757 Caswell Avenue, nine units with a similar mix of singles and two bedroom two baths, closed in March 2026 at $2.05M, 9.79 times rent and a 6.47% cap.",
+        "Thirty days before each of those sales closed, the 5-year Treasury ran 3.56% to 3.84%, a median of 3.67%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5).",
         "A buyer today pays about a point more for money than the buyers who set most of those comps, so the 2026 sale at 12757 Caswell carries more weight in our pricing than the 2024 and 2025 sales."
       ],
       "positioning_narrative": [
@@ -1823,34 +1743,6 @@
       ],
       "sale_comps": [
         {
-          "address": "3121 S Canfield Ave",
-          "status": "Closed",
-          "price": 2135000,
-          "units": 9,
-          "year_built": 1963,
-          "building_sf": 8602,
-          "lot_sf": 8000,
-          "date": "2026-04-24",
-          "days_on_market": null,
-          "price_per_unit": 237222.22,
-          "price_per_sf": 248.2,
-          "price_per_land_sf": 266.875,
-          "grm": 12.3442,
-          "cap_rate": 4.478,
-          "image": "12535-pacific-comp-4311-023-002.jpg",
-          "restatement": null,
-          "document": null,
-          "side_by_side": true,
-          "summary": "A 9-unit 1963 Palms building of four one bedrooms and five two bedroom two baths, close to the subject's mix.",
-          "relevance": "9 units, 1963, 8,602 SF.",
-          "considerations": "Closed 04/24/2026 at a 4.48% cap and 12.34 times rent.",
-          "treasury_3y": 3.88,
-          "treasury_5y": 3.96,
-          "rate_lock_date": "2026-03-25",
-          "map_ref": 1,
-          "map_url": "https://www.google.com/maps/search/?api=1&query=34.032589,-118.3945146&query_place_id=ChIJr00UC9W7woAR-E4p0aqh6No"
-        },
-        {
           "address": "12757 Caswell Ave",
           "status": "Closed",
           "price": 2050000,
@@ -1875,7 +1767,7 @@
           "treasury_3y": 3.5,
           "treasury_5y": 3.66,
           "rate_lock_date": "2026-02-18",
-          "map_ref": 2,
+          "map_ref": 1,
           "map_url": "https://www.google.com/maps/search/?api=1&query=33.9982337,-118.43781519999999&query_place_id=ChIJ4a8ibmC6woAR26XHn9KCP0M"
         },
         {
@@ -1903,36 +1795,8 @@
           "treasury_3y": 3.46,
           "treasury_5y": 3.56,
           "rate_lock_date": "2025-10-21",
-          "map_ref": 3,
+          "map_ref": 2,
           "map_url": "https://www.google.com/maps/search/?api=1&query=33.999952,-118.43111409999999&query_place_id=ChIJdT3UeWe6woAR7h3A7r0vEpQ"
-        },
-        {
-          "address": "3720 Midvale Ave",
-          "status": "Closed",
-          "price": 2700000,
-          "units": 9,
-          "year_built": 1964,
-          "building_sf": 7229,
-          "lot_sf": 7989,
-          "date": "2025-10-07",
-          "days_on_market": null,
-          "price_per_unit": 300000.0,
-          "price_per_sf": 373.5,
-          "price_per_land_sf": 337.9647014645137,
-          "grm": 10.8329,
-          "cap_rate": 5.956,
-          "image": "12535-pacific-comp-4252-026-004.jpg",
-          "restatement": null,
-          "document": null,
-          "side_by_side": true,
-          "summary": "A well-leased 9-unit 1964 Palms building with one bedrooms to $2,595.",
-          "relevance": "9 units, 1964, 7,229 SF.",
-          "considerations": "5.96% cap and 10.83 times rent.",
-          "treasury_3y": 3.48,
-          "treasury_5y": 3.59,
-          "rate_lock_date": "2025-09-07",
-          "map_ref": 4,
-          "map_url": "https://www.google.com/maps/search/?api=1&query=34.018316299999995,-118.4117787&query_place_id=ChIJnXSc3za6woARFX2l2OqZlH0"
         },
         {
           "address": "11728 Avon Way",
@@ -1959,7 +1823,7 @@
           "treasury_3y": 3.58,
           "treasury_5y": 3.68,
           "rate_lock_date": "2025-09-01",
-          "map_ref": 5,
+          "map_ref": 3,
           "map_url": "https://www.google.com/maps/search/?api=1&query=33.9982408,-118.4164084&query_place_id=ChIJAVlCs2y6woAR-jNfIH6Sp-w"
         },
         {
@@ -1987,92 +1851,8 @@
           "treasury_3y": 3.7,
           "treasury_5y": 3.84,
           "rate_lock_date": "2025-08-10",
-          "map_ref": 6,
+          "map_ref": 4,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.011099099999996,-118.4270795&query_place_id=ChIJEwE_RUW6woARYgeSy_sytaI"
-        },
-        {
-          "address": "3854 Inglewood Blvd",
-          "status": "Closed",
-          "price": 2350000,
-          "units": 9,
-          "year_built": 1969,
-          "building_sf": 6826,
-          "lot_sf": 6564,
-          "date": "2024-12-31",
-          "days_on_market": null,
-          "price_per_unit": 261111.11,
-          "price_per_sf": 344.27,
-          "price_per_land_sf": 358.0134064594759,
-          "grm": 13.1963,
-          "cap_rate": 4.810099999999999,
-          "image": "12535-pacific-comp-4214-022-019.jpg",
-          "restatement": null,
-          "document": null,
-          "side_by_side": true,
-          "summary": "A 9-unit 1969 Mar Vista building north of Venice Blvd.",
-          "relevance": "9 units, 1969, 6,826 SF.",
-          "considerations": "4.81% cap and 13.20 times rent.",
-          "treasury_3y": 4.1,
-          "treasury_5y": 4.05,
-          "rate_lock_date": "2024-12-01",
-          "map_ref": 7,
-          "map_url": "https://www.google.com/maps/search/?api=1&query=34.0050504,-118.42753970000001&query_place_id=ChIJHzHGNkO6woARFJ8DvQ7wWMQ"
-        },
-        {
-          "address": "12442 Pacific Ave",
-          "status": "Closed",
-          "price": 1850000,
-          "units": 6,
-          "year_built": 1954,
-          "building_sf": 5432,
-          "lot_sf": 8354,
-          "date": "2024-10-31",
-          "days_on_market": null,
-          "price_per_unit": 308333.33,
-          "price_per_sf": 340.57,
-          "price_per_land_sf": 221.45080201101268,
-          "grm": 12.7875,
-          "cap_rate": 4.177899999999999,
-          "image": "12535-pacific-comp-4235-014-008.jpg",
-          "restatement": null,
-          "document": null,
-          "side_by_side": true,
-          "summary": "Six units, five of them two bedrooms, on the same street a tenth of a mile away; sold in four days.",
-          "relevance": "6 units, 1954, 5,432 SF; smaller building.",
-          "considerations": "4.18% cap and 12.79 times rent.",
-          "treasury_3y": 3.52,
-          "treasury_5y": 3.51,
-          "rate_lock_date": "2024-10-01",
-          "map_ref": 8,
-          "map_url": "https://www.google.com/maps/search/?api=1&query=34.0018488,-118.4339149&query_place_id=ChIJjVMReF66woAR0fpcAhbJdvA"
-        },
-        {
-          "address": "12610 Caswell Ave",
-          "status": "Closed",
-          "price": 2395000,
-          "units": 9,
-          "year_built": 1964,
-          "building_sf": 6193,
-          "lot_sf": 7114,
-          "date": "2024-09-09",
-          "days_on_market": null,
-          "price_per_unit": 266111.11,
-          "price_per_sf": 386.73,
-          "price_per_land_sf": 336.66010683159965,
-          "grm": 11.3268,
-          "cap_rate": 5.2256,
-          "image": "12535-pacific-comp-4235-005-002.jpg",
-          "restatement": null,
-          "document": null,
-          "side_by_side": true,
-          "summary": "Nine units built in 1964 in 6,193 SF, 0.2 miles away: nearly the same building, sold in September 2024.",
-          "relevance": "9 units, 1964, 6,193 SF; near-identical size and unit count.",
-          "considerations": "5.23% cap and 11.33 times rent.",
-          "treasury_3y": 3.86,
-          "treasury_5y": 3.8,
-          "rate_lock_date": "2024-08-10",
-          "map_ref": 9,
-          "map_url": "https://www.google.com/maps/search/?api=1&query=33.9990528,-118.4349377&query_place_id=ChIJq3xho2C6woARzFlSz3QNGaw"
         }
       ],
       "rate_environment": {
@@ -2170,7 +1950,7 @@
         ],
         "closings_map": {
           "source": "https://www.laaa.com/track-record",
-          "pulled": "2026-09-24T18:08:30+00:00",
+          "pulled": "2026-09-24T18:56:41+00:00",
           "basis": {
             "type": "radius",
             "label": "within 2 miles",
@@ -2216,7 +1996,7 @@
         },
         "local_listings_source": {
           "source": "https://www.laaa.com/listings",
-          "pulled": "2026-09-24T18:29:14+00:00"
+          "pulled": "2026-09-24T18:57:37+00:00"
         }
       },
       "deal_id": "12535-pacific",
@@ -2356,8 +2136,8 @@
           },
           "buyer_profile": {
             "market_narrative": [
-              "Eight City of Los Angeles apartment sales of 8 to 13 units, built 1957 to 1973, closed between September 2024 and August 2026 at a median of $256,090 per unit, $346 per SF and 11.29 times rent. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap.",
-              "Thirty days before each of those sales closed, the 5-year Treasury ran 3.75% to 4.40%, a median of 4.19%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The four closings from June to August 2026, which locked nearest today's rates, ran 9.16 to 11.19 times rent.",
+              "Five West Los Angeles and Mar Vista apartment sales of 8 to 12 units, built 1958 to 1969, all within 1.5 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to August 2026, at a median of $258,333 per unit, $440 per SF and 11.19 times rent. Older sales are left out on purpose: they priced on money that no longer exists. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap.",
+              "Thirty days before each of those sales closed, the 5-year Treasury ran 3.75% to 4.40%, a median of 4.12%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The three closings from June to August 2026, which locked nearest today's rates, ran 10.48 to 11.19 times rent.",
               "A buyer today pays about a point more for money than the buyers who set most of those comps, so the 2026 closings carry more weight in our pricing than the 2024 and 2025 sales."
             ],
             "positioning_narrative": [
@@ -2720,7 +2500,7 @@
               "comps-sale:sale-02"
             ],
             "framed_as": null,
-            "text": "Eight City of Los Angeles apartment sales of 8 to 13 units, built 1957 to 1973, closed between September 2024 and August 2026 at a median of $256,090 per unit, $346 per SF and 11.29 times rent. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap."
+            "text": "Five West Los Angeles and Mar Vista apartment sales of 8 to 12 units, built 1958 to 1969, all within 1.5 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to August 2026, at a median of $258,333 per unit, $440 per SF and 11.19 times rent. Older sales are left out on purpose: they priced on money that no longer exists. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap."
           },
           {
             "id": "market-2",
@@ -2730,7 +2510,7 @@
               "comps-sale:conclusions"
             ],
             "framed_as": null,
-            "text": "Thirty days before each of those sales closed, the 5-year Treasury ran 3.75% to 4.40%, a median of 4.19%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The four closings from June to August 2026, which locked nearest today's rates, ran 9.16 to 11.19 times rent."
+            "text": "Thirty days before each of those sales closed, the 5-year Treasury ran 3.75% to 4.40%, a median of 4.12%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The three closings from June to August 2026, which locked nearest today's rates, ran 10.48 to 11.19 times rent."
           },
           {
             "id": "market-3",
@@ -2961,8 +2741,8 @@
           },
           "buyer_profile": {
             "market_narrative": [
-              "Nine City of Los Angeles apartment sales of 6 to 10 units, built 1954 to 1969, closed between September 2024 and April 2026 at a median of $261,111 per unit, $341 per SF and 11.52 times rent. 12610 Caswell Avenue, nine units built in 1964 two tenths of a mile away, sold for $2.395M in September 2024 at 11.33 times rent. 12757 Caswell Avenue, nine units with a similar mix of singles and two bedroom two baths, closed in March 2026 at $2.05M, 9.79 times rent and a 6.47% cap.",
-              "Thirty days before each of those sales closed, the 5-year Treasury ran 3.51% to 4.05%, a median of 3.68%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5).",
+              "Four Mar Vista apartment sales of 7 to 10 units, built 1957 to 1965, all within 1.2 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to March 2026, at a median of $235,317 per unit, $339 per SF and 11.36 times rent. Older sales are left out on purpose: they priced on money that no longer exists. 12757 Caswell Avenue, nine units with a similar mix of singles and two bedroom two baths, closed in March 2026 at $2.05M, 9.79 times rent and a 6.47% cap.",
+              "Thirty days before each of those sales closed, the 5-year Treasury ran 3.56% to 3.84%, a median of 3.67%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5).",
               "A buyer today pays about a point more for money than the buyers who set most of those comps, so the 2026 sale at 12757 Caswell carries more weight in our pricing than the 2024 and 2025 sales."
             ],
             "positioning_narrative": [
@@ -3327,7 +3107,7 @@
               "comps-sale:sale-04"
             ],
             "framed_as": null,
-            "text": "Nine City of Los Angeles apartment sales of 6 to 10 units, built 1954 to 1969, closed between September 2024 and April 2026 at a median of $261,111 per unit, $341 per SF and 11.52 times rent. 12610 Caswell Avenue, nine units built in 1964 two tenths of a mile away, sold for $2.395M in September 2024 at 11.33 times rent. 12757 Caswell Avenue, nine units with a similar mix of singles and two bedroom two baths, closed in March 2026 at $2.05M, 9.79 times rent and a 6.47% cap."
+            "text": "Four Mar Vista apartment sales of 7 to 10 units, built 1957 to 1965, all within 1.2 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to March 2026, at a median of $235,317 per unit, $339 per SF and 11.36 times rent. Older sales are left out on purpose: they priced on money that no longer exists. 12757 Caswell Avenue, nine units with a similar mix of singles and two bedroom two baths, closed in March 2026 at $2.05M, 9.79 times rent and a 6.47% cap."
           },
           {
             "id": "market-2",
@@ -3337,7 +3117,7 @@
               "comps-sale:conclusions"
             ],
             "framed_as": null,
-            "text": "Thirty days before each of those sales closed, the 5-year Treasury ran 3.51% to 4.05%, a median of 3.68%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5)."
+            "text": "Thirty days before each of those sales closed, the 5-year Treasury ran 3.56% to 3.84%, a median of 3.67%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5)."
           },
           {
             "id": "market-3",
@@ -3573,8 +3353,8 @@
             },
             "buyer_profile": {
               "market_narrative": [
-                "Eight City of Los Angeles apartment sales of 8 to 13 units, built 1957 to 1973, closed between September 2024 and August 2026 at a median of $256,090 per unit, $346 per SF and 11.29 times rent. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap.",
-                "Thirty days before each of those sales closed, the 5-year Treasury ran 3.75% to 4.40%, a median of 4.19%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The four closings from June to August 2026, which locked nearest today's rates, ran 9.16 to 11.19 times rent.",
+                "Five West Los Angeles and Mar Vista apartment sales of 8 to 12 units, built 1958 to 1969, all within 1.5 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to August 2026, at a median of $258,333 per unit, $440 per SF and 11.19 times rent. Older sales are left out on purpose: they priced on money that no longer exists. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap.",
+                "Thirty days before each of those sales closed, the 5-year Treasury ran 3.75% to 4.40%, a median of 4.12%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The three closings from June to August 2026, which locked nearest today's rates, ran 10.48 to 11.19 times rent.",
                 "A buyer today pays about a point more for money than the buyers who set most of those comps, so the 2026 closings carry more weight in our pricing than the 2024 and 2025 sales."
               ],
               "positioning_narrative": [
@@ -3937,7 +3717,7 @@
                 "comps-sale:sale-02"
               ],
               "framed_as": null,
-              "text": "Eight City of Los Angeles apartment sales of 8 to 13 units, built 1957 to 1973, closed between September 2024 and August 2026 at a median of $256,090 per unit, $346 per SF and 11.29 times rent. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap."
+              "text": "Five West Los Angeles and Mar Vista apartment sales of 8 to 12 units, built 1958 to 1969, all within 1.5 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to August 2026, at a median of $258,333 per unit, $440 per SF and 11.19 times rent. Older sales are left out on purpose: they priced on money that no longer exists. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap."
             },
             {
               "id": "market-2",
@@ -3947,7 +3727,7 @@
                 "comps-sale:conclusions"
               ],
               "framed_as": null,
-              "text": "Thirty days before each of those sales closed, the 5-year Treasury ran 3.75% to 4.40%, a median of 4.19%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The four closings from June to August 2026, which locked nearest today's rates, ran 9.16 to 11.19 times rent."
+              "text": "Thirty days before each of those sales closed, the 5-year Treasury ran 3.75% to 4.40%, a median of 4.12%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The three closings from June to August 2026, which locked nearest today's rates, ran 10.48 to 11.19 times rent."
             },
             {
               "id": "market-3",
@@ -4111,6 +3891,7 @@
         "media_selection": {
           "deal_id": "2540-s-barrington",
           "order": [
+            "img-018",
             "img-001",
             "img-002",
             "img-003",
@@ -4126,11 +3907,8 @@
             "img-013",
             "img-014",
             "img-015",
-            "img-016",
             "img-017",
             "img-019",
-            "img-020",
-            "img-021",
             "img-022",
             "img-023",
             "img-024",
@@ -4139,8 +3917,21 @@
             "img-027",
             "img-028"
           ],
-          "hero": "img-001",
+          "hero": "img-018",
           "items": [
+            {
+              "id": "img-018",
+              "sha256": "a92b41c6317abd8c32d93783cf18a7877978b8055ffbd8f2ce7bdda6a021efc2",
+              "phash": "a80f97508fef7046",
+              "category": "exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "Zillow building page for Barrington House Apartments, 2540 S Barrington Ave (zillow.com/apartments/los-angeles-ca/barrington-house-apartments/9V223g/): the pool, the U-shaped walkways and the railings match the filed pool photos and the aerial.",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Seller-facing BOV website for this property",
+              "required_credit": null,
+              "exception_id": null
+            },
             {
               "id": "img-001",
               "sha256": "16d7855a84a8cd42c1efbd82589c0cfda5653a7be42dd40d812d224b19369b52",
@@ -4337,19 +4128,6 @@
               "exception_id": null
             },
             {
-              "id": "img-016",
-              "sha256": "78488a5ed9dc04620a4696406ce82773822b09cc0aef50119f29cfe893a1240b",
-              "phash": "a8b0b15f9d25bb82",
-              "category": "comp_exterior",
-              "stock_or_illustrative": false,
-              "property_match": "confirmed_human",
-              "match_basis": "The building's listing exterior filed in the Research Library for APN 4311-025-026 and linked on its APTO Property (comps/comp_photos.md).",
-              "publication_basis": "glen_standing_rule",
-              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
-              "required_credit": null,
-              "exception_id": null
-            },
-            {
               "id": "img-017",
               "sha256": "c86ce012492cd82d0b4b1ed5e2b4c60150bf4de5083ace021a79a28fbd938ec7",
               "phash": "d7c4e821b24e4f96",
@@ -4370,32 +4148,6 @@
               "stock_or_illustrative": false,
               "property_match": "confirmed_human",
               "match_basis": "The building's listing exterior filed in the Research Library for APN 4258-018-011 and linked on its APTO Property (comps/comp_photos.md).",
-              "publication_basis": "glen_standing_rule",
-              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
-              "required_credit": null,
-              "exception_id": null
-            },
-            {
-              "id": "img-020",
-              "sha256": "7039ff4350549209c6c06ef102b220763e3645538325b48e9e16c387882bfccf",
-              "phash": "dccae3658770da18",
-              "category": "comp_exterior",
-              "stock_or_illustrative": false,
-              "property_match": "confirmed_human",
-              "match_basis": "The building's listing exterior filed in the Research Library for APN 4250-026-008 and linked on its APTO Property (comps/comp_photos.md).",
-              "publication_basis": "glen_standing_rule",
-              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
-              "required_credit": null,
-              "exception_id": null
-            },
-            {
-              "id": "img-021",
-              "sha256": "3bb888de94101a6b21acd2bddc47597eabd3a59c23d270b347cfc00969faf0e7",
-              "phash": "d255a52ec9c92aba",
-              "category": "comp_exterior",
-              "stock_or_illustrative": false,
-              "property_match": "confirmed_human",
-              "match_basis": "The building's listing exterior filed in the Research Library for APN 4263-011-027 and linked on its APTO Property (comps/comp_photos.md).",
               "publication_basis": "glen_standing_rule",
               "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
               "required_credit": null,
@@ -4605,8 +4357,8 @@
             },
             "buyer_profile": {
               "market_narrative": [
-                "Nine City of Los Angeles apartment sales of 6 to 10 units, built 1954 to 1969, closed between September 2024 and April 2026 at a median of $261,111 per unit, $341 per SF and 11.52 times rent. 12610 Caswell Avenue, nine units built in 1964 two tenths of a mile away, sold for $2.395M in September 2024 at 11.33 times rent. 12757 Caswell Avenue, nine units with a similar mix of singles and two bedroom two baths, closed in March 2026 at $2.05M, 9.79 times rent and a 6.47% cap.",
-                "Thirty days before each of those sales closed, the 5-year Treasury ran 3.51% to 4.05%, a median of 3.68%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5).",
+                "Four Mar Vista apartment sales of 7 to 10 units, built 1957 to 1965, all within 1.2 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to March 2026, at a median of $235,317 per unit, $339 per SF and 11.36 times rent. Older sales are left out on purpose: they priced on money that no longer exists. 12757 Caswell Avenue, nine units with a similar mix of singles and two bedroom two baths, closed in March 2026 at $2.05M, 9.79 times rent and a 6.47% cap.",
+                "Thirty days before each of those sales closed, the 5-year Treasury ran 3.56% to 3.84%, a median of 3.67%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5).",
                 "A buyer today pays about a point more for money than the buyers who set most of those comps, so the 2026 sale at 12757 Caswell carries more weight in our pricing than the 2024 and 2025 sales."
               ],
               "positioning_narrative": [
@@ -4971,7 +4723,7 @@
                 "comps-sale:sale-04"
               ],
               "framed_as": null,
-              "text": "Nine City of Los Angeles apartment sales of 6 to 10 units, built 1954 to 1969, closed between September 2024 and April 2026 at a median of $261,111 per unit, $341 per SF and 11.52 times rent. 12610 Caswell Avenue, nine units built in 1964 two tenths of a mile away, sold for $2.395M in September 2024 at 11.33 times rent. 12757 Caswell Avenue, nine units with a similar mix of singles and two bedroom two baths, closed in March 2026 at $2.05M, 9.79 times rent and a 6.47% cap."
+              "text": "Four Mar Vista apartment sales of 7 to 10 units, built 1957 to 1965, all within 1.2 miles, all City of Los Angeles RSO and all closed in the last twelve months, September 2025 to March 2026, at a median of $235,317 per unit, $339 per SF and 11.36 times rent. Older sales are left out on purpose: they priced on money that no longer exists. 12757 Caswell Avenue, nine units with a similar mix of singles and two bedroom two baths, closed in March 2026 at $2.05M, 9.79 times rent and a 6.47% cap."
             },
             {
               "id": "market-2",
@@ -4981,7 +4733,7 @@
                 "comps-sale:conclusions"
               ],
               "framed_as": null,
-              "text": "Thirty days before each of those sales closed, the 5-year Treasury ran 3.51% to 4.05%, a median of 3.68%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5)."
+              "text": "Thirty days before each of those sales closed, the 5-year Treasury ran 3.56% to 3.84%, a median of 3.67%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5)."
             },
             {
               "id": "market-3",
@@ -5156,15 +4908,10 @@
             "img-009",
             "img-010",
             "img-011",
-            "img-012",
             "img-013",
             "img-014",
-            "img-015",
             "img-016",
             "img-017",
-            "img-018",
-            "img-019",
-            "img-020",
             "img-021",
             "img-022",
             "img-023",
@@ -5325,19 +5072,6 @@
               "exception_id": null
             },
             {
-              "id": "img-012",
-              "sha256": "00da8038cbb340f54debf060dedffc40112e41557bb5e98280ecea28d149696c",
-              "phash": "d2d2ec489768873b",
-              "category": "comp_exterior",
-              "stock_or_illustrative": false,
-              "property_match": "confirmed_human",
-              "match_basis": "The building's listing exterior filed in the Research Library for APN 4311-023-002 and linked on its APTO Property (comps/comp_photos.md).",
-              "publication_basis": "glen_standing_rule",
-              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
-              "required_credit": null,
-              "exception_id": null
-            },
-            {
               "id": "img-013",
               "sha256": "151ecca4cbfb4651e9f2a3b3cdc9515c3fd4d6ab85c6a1c25240663cefad4420",
               "phash": "8f56b9e017dc40a7",
@@ -5364,19 +5098,6 @@
               "exception_id": null
             },
             {
-              "id": "img-015",
-              "sha256": "836cfeb74959040503f46a63f40c5c899c32dac84a6bad7b4e6c66311014e1bc",
-              "phash": "c07f8370be97d320",
-              "category": "comp_exterior",
-              "stock_or_illustrative": false,
-              "property_match": "confirmed_human",
-              "match_basis": "The building's listing exterior filed in the Research Library for APN 4252-026-004 and linked on its APTO Property (comps/comp_photos.md).",
-              "publication_basis": "glen_standing_rule",
-              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
-              "required_credit": null,
-              "exception_id": null
-            },
-            {
               "id": "img-016",
               "sha256": "cedf70cbed04fe5d4ee721dd02610de1d98edd215f5376389385f9eaad4588f3",
               "phash": "d71f9e1435cd6424",
@@ -5397,45 +5118,6 @@
               "stock_or_illustrative": false,
               "property_match": "confirmed_human",
               "match_basis": "The building's listing exterior filed in the Research Library for APN 4234-014-025 and linked on its APTO Property (comps/comp_photos.md).",
-              "publication_basis": "glen_standing_rule",
-              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
-              "required_credit": null,
-              "exception_id": null
-            },
-            {
-              "id": "img-018",
-              "sha256": "615e335393d79bb617c28160ee48ea2da3f062f556ddee6b39cb5e7fc926341b",
-              "phash": "d2a4891b867c75d5",
-              "category": "comp_exterior",
-              "stock_or_illustrative": false,
-              "property_match": "confirmed_human",
-              "match_basis": "The building's listing exterior filed in the Research Library for APN 4214-022-019 and linked on its APTO Property (comps/comp_photos.md).",
-              "publication_basis": "glen_standing_rule",
-              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
-              "required_credit": null,
-              "exception_id": null
-            },
-            {
-              "id": "img-019",
-              "sha256": "dd6057d4bf95433100beff79378588b7db4fc7c962b4a98cdbd1a5d190817274",
-              "phash": "f731814382f136db",
-              "category": "comp_exterior",
-              "stock_or_illustrative": false,
-              "property_match": "confirmed_human",
-              "match_basis": "The building's listing exterior filed in the Research Library for APN 4235-014-008 and linked on its APTO Property (comps/comp_photos.md).",
-              "publication_basis": "glen_standing_rule",
-              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
-              "required_credit": null,
-              "exception_id": null
-            },
-            {
-              "id": "img-020",
-              "sha256": "7137f3daf36b950b5496bf879c4711a9a1469995bddb7144c216a4904e7f02ae",
-              "phash": "a085bf3e489f283b",
-              "category": "comp_exterior",
-              "stock_or_illustrative": false,
-              "property_match": "confirmed_human",
-              "match_basis": "The building's listing exterior filed in the Research Library for APN 4235-005-002 and linked on its APTO Property (comps/comp_photos.md).",
               "publication_basis": "glen_standing_rule",
               "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
               "required_credit": null,
@@ -5658,32 +5340,32 @@
     "domains": {
       "identity": "c2b662380b31323e946868ded6290224cc742dcfdc523d375f107a57831e6832",
       "financial_inputs": "bcd248863293f95e1f2e6d7a41e865eafd24a57c7ff7801686bc381461703353",
-      "pricing_decision": "e148d1512cdb5c4ae19d63604a893e1f053dec34b535641473fab10029c80166",
-      "sale_comps": "b90e57297b6b0a99bd23a2df2198d22af3e4667d22cc388b6da721243ec0aac6",
+      "pricing_decision": "c95bc4114006020fd10d6fc127f5f87b2cc9c4179529209aa540990a20a9cc2c",
+      "sale_comps": "8df3c8b46110db753d5cddb8c836fddd3340af923cba0f67219cbf076262f1e2",
       "rent_comps": "771f27cdf25e47ff57d8d6f110ed99006c0c5fe44ff7809b38edfa12f5208c40",
-      "copy": "59b8cf727c867150a97fc76890c4f6ec081f79cdfa0b06b4c96e9db1ddcdd67b",
-      "media_selection": "7eb9b7debbd5af6fe896690466ae40cd97442b293934ceed3bf7aaeec3a6190d",
+      "copy": "00ac9dc029deb7578a73ad11aeafc9a20a8ac4b4a1032d337d41b66a9f3ef44a",
+      "media_selection": "c22e2b184fdd0c1243d3042b2f2757388474b3344ee1746800fcf09e05a85031",
       "regulatory_conclusions": "11b95809c79570b17e019099e83ceb4f42172a1c26086a14b082b713769bae6b"
     },
     "members": {
       "2540-s-barrington": {
         "identity": "43aeadc0cfd5f38d182eceb95f400c5a4936028628c5a9a4121a936f9872ebdf",
         "financial_inputs": "1aa1e847ef3ea0d108d58e9f832b7dc05805699235bbaf822152b20fd1709201",
-        "pricing_decision": "b8811193f266a9183289dd454ab8af8013888430d76c9c027804f680ddb3822d",
-        "sale_comps": "e0b2383668009af05bf028e783bf6f44c779736297338e20b50674f73b9d19b8",
+        "pricing_decision": "13a234126304ec7a9f1b321c9cb4a342ab2d4b3a6ae72f22ec3777e2e0bdf833",
+        "sale_comps": "036e55140064d363601e9aab396ff71c5dc673223cb22e7db4b1474faa880d9b",
         "rent_comps": "4a8c6030eebcf6c3fdfe1b38cbc8384aa15d9994b08184d6b434108b7dd0bf4a",
-        "copy": "58509c80e439e86eef874daa3f6d9aeca506dc066710721ac30915de3a4e8681",
-        "media_selection": "8d2f54c8ac8553eeb970165c090482f3d3f78c6cc29b19db34daf11851c9cb74",
+        "copy": "f4b82b6c46c45f6c3153ac021288ea7a2441cec5e0f99d0b28ad53b266a6c85a",
+        "media_selection": "934d6969b03766acd43b72bf61ffe1fa59df9335dbc654cc7b1380d6d76ad6b9",
         "regulatory_conclusions": "1bca1d5f3a2884f18e9bceec95a23e89b757b4dfc0ca0ea37b57d165a850c9b4"
       },
       "12535-pacific": {
         "identity": "634f83e57ad10ba44e050e379659c798ac9849da5a24e446f6cc63e545ac855b",
         "financial_inputs": "8ea120fdc9d20532b2b15f9be419511fbd3bd6d8d003875954204ca4756b9ba2",
-        "pricing_decision": "203016ab9a131c91b42f138b7ce980754642f94c7368753dc153ff77859c44ab",
-        "sale_comps": "ab7176304901a082fc1e5a6d5e4af376fe5ada25807d1f911d05bbd0c1767fdf",
+        "pricing_decision": "d41a2986313e911b5669f0550013cb14c3f03f37c1fa9d09765dec6a511f578f",
+        "sale_comps": "e9a9849245ac8bdbbe943477567c0a8c3c421a5c79020b4e3cda4b5b42b87324",
         "rent_comps": "9379697c6ab104681b162746ab341c97cc5af66f8745fa9786df2a9987dab09d",
-        "copy": "a644e04c107b88f06d8b6d569332808d14e62d55372be14e749efa453dfa4fd9",
-        "media_selection": "7f52371d10e28a958f6901652cecb147782c84224c48c0574673c29ccafb7f71",
+        "copy": "c81924393fbaa0502f877d52ada532612234de12b6851b40f9463c36e52c9c57",
+        "media_selection": "c2cb09d1f0ac341f60983548854f14b6a1013094969c315fc044d6bf7bf3a1df",
         "regulatory_conclusions": "090372d7a81879e3774e5950290180ddbc9815ea0147b8357e0b3c422410359e"
       }
     },
@@ -5691,16 +5373,16 @@
       "identity": "46fc7efb8ab9b1f8ea764ed9ed947442cd883a85188b0a60a4a6f1a447884e2d",
       "financial_inputs": "62cb5cb7f1837b9d1c0ba28e9b0b6cd486a29d550eb8faf68236aef7b12295d4",
       "pricing_decision": "889a48f43bc941c4146b93d671f087cdbee2ade7b7e05175a83fc7b02a8f9b2a",
-      "sale_comps": "10ee779cda95193598f9006945113586784d579a13055b92d3f1752dc242bdd9",
+      "sale_comps": "a94a78ea30d2a66e43cf042aa8ccc80a8a2b8cb8b37f74d3d69ee4d5e633f786",
       "rent_comps": "39b3baa3d167654ce4ec390b697e358d46fe1a7c4b6d68d0bb50ce1dcbb9d20b",
-      "copy": "14f9677988cc32c3e4e42e3724a2ba00b327c2e01b5befe01605c3e5ae5c1871",
-      "media_selection": "5094fd4c8df327a623f01cc000b56ec18e6a893aa88765c5871006070ddb1d5d",
+      "copy": "c89dbbb51a7bca8d9d1ca9d315b28d899b7d5203b467686baa37209961ef4ec1",
+      "media_selection": "51752fd654a56f4f65332c5ee113c0522d2fd8a2a36d3966118ece94c5dee592",
       "regulatory_conclusions": "f7d97cb1a68f63ddbd97eba4ea0a1e3bec6a78ee40605c9c86f252cb1294323d"
     }
   },
   "stats": {
     "live": true,
-    "generated": "2026-09-24T18:29:14+00:00",
+    "generated": "2026-09-24T18:57:37+00:00",
     "geography": {
       "states": 21,
       "has_dc": true,

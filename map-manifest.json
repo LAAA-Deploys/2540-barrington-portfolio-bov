@@ -38,18 +38,6 @@
       "property": "2540-s-barrington",
       "category": "sold",
       "order": 3,
-      "lat": 34.029921,
-      "lng": -118.3949494,
-      "place_id": "ChIJm5hJzCq6woARy6L9aARfMvg",
-      "precision": "ROOFTOP",
-      "needs_review": false,
-      "address": "3346 S Canfield Ave",
-      "comp_id": "sale-03"
-    },
-    {
-      "property": "2540-s-barrington",
-      "category": "sold",
-      "order": 4,
       "lat": 34.03658,
       "lng": -118.458136,
       "place_id": "ChIJS-5Jbmu7woARjjhDr8T6kW0",
@@ -61,7 +49,7 @@
     {
       "property": "2540-s-barrington",
       "category": "sold",
-      "order": 5,
+      "order": 4,
       "lat": 34.011099099999996,
       "lng": -118.4270795,
       "place_id": "ChIJEwE_RUW6woARYgeSy_sytaI",
@@ -73,7 +61,7 @@
     {
       "property": "2540-s-barrington",
       "category": "sold",
-      "order": 6,
+      "order": 5,
       "lat": 34.0297312,
       "lng": -118.43376609999999,
       "place_id": "ChIJ89O1TK-7woARvaIz3sscm6g",
@@ -81,30 +69,6 @@
       "needs_review": false,
       "address": "11296 Brookhaven Ave",
       "comp_id": "sale-10"
-    },
-    {
-      "property": "2540-s-barrington",
-      "category": "sold",
-      "order": 7,
-      "lat": 34.025332999999996,
-      "lng": -118.4323674,
-      "place_id": "ChIJ2-P0GKy7woARab7osCkGtt0",
-      "precision": "ROOFTOP",
-      "needs_review": false,
-      "address": "11340 National Blvd",
-      "comp_id": "sale-14"
-    },
-    {
-      "property": "2540-s-barrington",
-      "category": "sold",
-      "order": 8,
-      "lat": 34.049012499999996,
-      "lng": -118.46018449999998,
-      "place_id": "ChIJ33sWKGe7woARuvf9KQ8Afz4",
-      "precision": "ROOFTOP",
-      "needs_review": false,
-      "address": "1218 S Barrington Ave",
-      "comp_id": "sale-15"
     },
     {
       "property": "2540-s-barrington",
@@ -216,18 +180,6 @@
       "property": "12535-pacific",
       "category": "sold",
       "order": 1,
-      "lat": 34.032589,
-      "lng": -118.3945146,
-      "place_id": "ChIJr00UC9W7woAR-E4p0aqh6No",
-      "precision": "ROOFTOP",
-      "needs_review": false,
-      "address": "3121 S Canfield Ave",
-      "comp_id": "sale-01"
-    },
-    {
-      "property": "12535-pacific",
-      "category": "sold",
-      "order": 2,
       "lat": 33.9982337,
       "lng": -118.43781519999999,
       "place_id": "ChIJ4a8ibmC6woAR26XHn9KCP0M",
@@ -239,7 +191,7 @@
     {
       "property": "12535-pacific",
       "category": "sold",
-      "order": 3,
+      "order": 2,
       "lat": 33.999952,
       "lng": -118.43111409999999,
       "place_id": "ChIJdT3UeWe6woAR7h3A7r0vEpQ",
@@ -251,19 +203,7 @@
     {
       "property": "12535-pacific",
       "category": "sold",
-      "order": 4,
-      "lat": 34.018316299999995,
-      "lng": -118.4117787,
-      "place_id": "ChIJnXSc3za6woARFX2l2OqZlH0",
-      "precision": "ROOFTOP",
-      "needs_review": false,
-      "address": "3720 Midvale Ave",
-      "comp_id": "sale-05"
-    },
-    {
-      "property": "12535-pacific",
-      "category": "sold",
-      "order": 5,
+      "order": 3,
       "lat": 33.9982408,
       "lng": -118.4164084,
       "place_id": "ChIJAVlCs2y6woAR-jNfIH6Sp-w",
@@ -275,7 +215,7 @@
     {
       "property": "12535-pacific",
       "category": "sold",
-      "order": 6,
+      "order": 4,
       "lat": 34.011099099999996,
       "lng": -118.4270795,
       "place_id": "ChIJEwE_RUW6woARYgeSy_sytaI",
@@ -283,42 +223,6 @@
       "needs_review": false,
       "address": "3651 McLaughlin Ave",
       "comp_id": "sale-08"
-    },
-    {
-      "property": "12535-pacific",
-      "category": "sold",
-      "order": 7,
-      "lat": 34.0050504,
-      "lng": -118.42753970000001,
-      "place_id": "ChIJHzHGNkO6woARFJ8DvQ7wWMQ",
-      "precision": "ROOFTOP",
-      "needs_review": false,
-      "address": "3854 Inglewood Blvd",
-      "comp_id": "sale-11"
-    },
-    {
-      "property": "12535-pacific",
-      "category": "sold",
-      "order": 8,
-      "lat": 34.0018488,
-      "lng": -118.4339149,
-      "place_id": "ChIJjVMReF66woAR0fpcAhbJdvA",
-      "precision": "ROOFTOP",
-      "needs_review": false,
-      "address": "12442 Pacific Ave",
-      "comp_id": "sale-12"
-    },
-    {
-      "property": "12535-pacific",
-      "category": "sold",
-      "order": 9,
-      "lat": 33.9990528,
-      "lng": -118.4349377,
-      "place_id": "ChIJq3xho2C6woARzFlSz3QNGaw",
-      "precision": "ROOFTOP",
-      "needs_review": false,
-      "address": "12610 Caswell Ave",
-      "comp_id": "sale-14"
     },
     {
       "property": "12535-pacific",
@@ -494,16 +398,16 @@
     "images/maps-portfolio-subjects-tall.png": "37286a422ec76d965aa6b73d52af2a647874fc322361a24ddd31323d638aff31",
     "images/maps-12535-pacific-subject.png": "f1bd239643813bc5c5aeada5bd4e0288c7feb59c2e085934af638c5041a8e61c",
     "images/maps-12535-pacific-subject-tall.png": "8a24789369c7d82c057de896d2869cf17ae12e0b481cb9b21b8af0619eebeb16",
-    "images/maps-12535-pacific-sale-comps.png": "2f9deb272508c076f3d88f21d2aad3d3a74a2b9c93e701b6789c76e4e15faea5",
-    "images/maps-12535-pacific-sale-comps-tall.png": "25977062c11d27047fc8eddda703d66bca56f9d7549587ba7beac193f69a9269",
+    "images/maps-12535-pacific-sale-comps.png": "fbd8fd7fa47b3c45a5ad64d4a35f7435a788927b9b7bfce2122a0e1fbe543686",
+    "images/maps-12535-pacific-sale-comps-tall.png": "0fdd0ef86147f53283f205ca73c8cd61185b761c3f3ccece7204891196fe0d5a",
     "images/maps-12535-pacific-rent-comps.png": "c8532da4ab44d024d978f34ae33dd9b1679a0b3f53436fa9b82a58788bf42ec8",
     "images/maps-12535-pacific-rent-comps-tall.png": "1e3be45a1087bf6ff7129831ec97a93cab375cfc58d6b83e638481360d50667d",
     "images/maps-12535-pacific-active-comps.png": "56c2fc7104d14d361d20bae5ff63357874a8a744de1b0a21b132974caa8b4810",
     "images/maps-12535-pacific-active-comps-tall.png": "263d92d0a9d9249b7ca0cd53a4aed98ca37fba1dddd202a275461c6a72deb1ee",
     "images/maps-2540-s-barrington-subject.png": "d4e41aa080d14fee023c4a8b8ea1c9db35688385e1bb73b9ef2be9f2f7f5fe11",
     "images/maps-2540-s-barrington-subject-tall.png": "38f9e94a6a3de6551a3291b84b9ab977b9093435dfc8b01e91eef86baf29b3e0",
-    "images/maps-2540-s-barrington-sale-comps.png": "bd0dda42b1c8a310efffc7969bb7ac8a32a9e832018ce81f07bc0f6c9a66177a",
-    "images/maps-2540-s-barrington-sale-comps-tall.png": "423dedefe261f52b629fad33eedadc27cb969e9383d6b096bb5e8c43261bfb7b",
+    "images/maps-2540-s-barrington-sale-comps.png": "d1dbdf2b869137e09696afa5d4fb0b4a3ed8bf8deda16e3b9c10b369371e19c9",
+    "images/maps-2540-s-barrington-sale-comps-tall.png": "813ca11d35f37801fa7126f1daf12ca83e369bee3c6ba1b2a1f9bb682d0f886f",
     "images/maps-2540-s-barrington-rent-comps.png": "62692f6b67dcb06d899bf88b1ab1ea663e830737c2a3b444cd3129b50aec6025",
     "images/maps-2540-s-barrington-rent-comps-tall.png": "144e0d3cde4178f72aeeb057c9bbd3c06430683b8cc8f5491e2d374185e4a413",
     "images/maps-12535-pacific-closings.png": "928eaa2250753a9e69127e683b2eb76012acf4902dba01c04ae42d24be31d244",
@@ -512,7 +416,7 @@
   "closings": {
     "12535-pacific": {
       "source": "https://www.laaa.com/track-record",
-      "pulled": "2026-09-24T18:08:30+00:00",
+      "pulled": "2026-09-24T18:56:41+00:00",
       "basis": {
         "type": "radius",
         "label": "within 2 miles",
@@ -527,7 +431,7 @@
     },
     "2540-s-barrington": {
       "source": "https://www.laaa.com/track-record",
-      "pulled": "2026-09-24T18:08:30+00:00",
+      "pulled": "2026-09-24T18:56:41+00:00",
       "basis": {
         "type": "radius",
         "label": "within 2 miles",
