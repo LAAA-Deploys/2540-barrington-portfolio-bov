@@ -200,7 +200,7 @@
   "portfolio": {
     "total_units": 21,
     "total_current_rent": 451200.0,
-    "total_noi": 252624.64,
+    "total_noi": 253624.64,
     "portfolio_price": 4750000,
     "portfolio_price_basis": "Sum of the two recommended list prices, $2,600,000 and $2,150,000; each building is priced on its own income and its own comparable sales."
   },
@@ -242,8 +242,8 @@
           "price_per_buildable_unit": null,
           "grm_current": 10.345047109752992,
           "grm_market": 8.879781420765028,
-          "cap_current": 5.388032061538462,
-          "cap_market": 6.873367692307693
+          "cap_current": 5.426493600000001,
+          "cap_market": 6.91182923076923
         },
         {
           "label": "Estimated value",
@@ -254,8 +254,8 @@
           "price_per_buildable_unit": null,
           "grm_current": 10.543990323402088,
           "grm_market": 9.050546448087431,
-          "cap_current": 5.263967683018868,
-          "cap_market": 6.721278113207547
+          "cap_current": 5.3017035320754715,
+          "cap_market": 6.7590139622641505
         },
         {
           "label": "Midpoint",
@@ -266,8 +266,8 @@
           "price_per_buildable_unit": null,
           "grm_current": 10.345047109752992,
           "grm_market": 8.879781420765028,
-          "cap_current": 5.388032061538462,
-          "cap_market": 6.873367692307693
+          "cap_current": 5.426493600000001,
+          "cap_market": 6.91182923076923
         },
         {
           "label": "Range bottom",
@@ -278,8 +278,8 @@
           "price_per_buildable_unit": null,
           "grm_current": 10.146103896103897,
           "grm_market": 8.709016393442623,
-          "cap_current": 5.516961709803922,
-          "cap_market": 7.031421568627451
+          "cap_current": 5.556177396078432,
+          "cap_market": 7.070637254901961
         }
       ],
       "scheduled_rent": [
@@ -296,21 +296,21 @@
       ],
       "grm_current": 10.345047109752992,
       "grm_market": 8.879781420765028,
-      "cap_current": 5.388032061538462,
-      "cap_market": 6.873367692307693,
+      "cap_current": 5.426493600000001,
+      "cap_market": 6.91182923076923,
       "cap_current_basis": "LAAA calculation: current NOI / recommended value",
       "cap_market_basis": "LAAA calculation: market NOI / recommended value",
-      "noi_current": 140088.8336,
-      "noi_market": 178707.56,
+      "noi_current": 141088.8336,
+      "noi_market": 179707.56,
       "tax_rate": 1.18738,
       "tax_anchor": {
         "ad_valorem": 30871.88,
         "flat_assessments": 1803.12,
         "expense_line": "Real Estate Taxes"
       },
-      "expense_total": 104769.3264,
-      "expense_per_unit": 8730.7772,
-      "expense_per_sf": 16.03203158377965,
+      "expense_total": 103769.3264,
+      "expense_per_unit": 8647.443866666667,
+      "expense_per_sf": 15.879009395562358,
       "unit_mix": [
         {
           "count": 10,
@@ -358,40 +358,40 @@
           285086.0
         ],
         "expenses": [
-          104769.3264,
-          106378.44
+          103769.3264,
+          105378.44
         ],
         "expense_ratio": [
-          42.78776186180603,
-          37.31450860442112
+          42.379362158075516,
+          36.96373725823085
         ],
         "noi": [
-          140088.8336,
-          178707.56
+          141088.8336,
+          179707.56
         ],
         "loan_payments": [
           -101181,
           -101181
         ],
         "pretax_cf": [
-          38907.83360000001,
-          77526.56
+          39907.83360000001,
+          78526.56
         ],
         "pretax_cf_pct": [
-          2.992910276923078,
-          5.963581538461538
+          3.0698333538461546,
+          6.040504615384616
         ],
         "principal_reduction": [
           13855.0,
           14819.0
         ],
         "total_return": [
-          52762.83360000001,
-          92345.56
+          53762.83360000001,
+          93345.56
         ],
         "total_return_pct": [
-          4.058679507692309,
-          7.103504615384615
+          4.135602584615385,
+          7.180427692307692
         ]
       },
       "expense_lines": [
@@ -444,40 +444,34 @@
           "11"
         ],
         [
-          "Marketing & Advertising",
-          1000.0,
-          1000.0,
-          "12"
-        ],
-        [
           "Pool Service",
           2400.0,
           2400.0,
-          "13"
+          "12"
         ],
         [
           "General & Administrative",
           2800.0,
           2800.0,
-          "14"
+          "13"
         ],
         [
           "Misc. Expenses",
           500.0,
           500.0,
-          "15"
+          "14"
         ],
         [
           "Operating Reserves",
           4800.0,
           4800.0,
-          "16"
+          "15"
         ],
         [
           "Management Fee",
           9794.3264,
           11403.44,
-          "17"
+          "16"
         ]
       ],
       "expense_notes": {
@@ -514,26 +508,22 @@
           "Landscaping and pest control from the current service contracts."
         ],
         "12": [
-          "Marketing & Advertising",
-          "Leasing costs for the two vacant units."
-        ],
-        "13": [
           "Pool Service",
           "Pool service at the current $200 per month contract."
         ],
-        "14": [
+        "13": [
           "General & Administrative",
           "Accounting, licenses and the city rent registration and inspection fees."
         ],
-        "15": [
+        "14": [
           "Misc. Expenses",
           "Miscellaneous expenses."
         ],
-        "16": [
+        "15": [
           "Operating Reserves",
           "Replacement reserves at $400 per unit for 1958 construction with a pool."
         ],
-        "17": [
+        "16": [
           "Management Fee",
           "Professional management at 4% of effective gross income. No on-site manager is required for a 12-unit building."
         ],
@@ -560,7 +550,7 @@
         "loan_amount": 1300000,
         "rate": 6.75,
         "amortization": 30,
-        "dcr": 1.38,
+        "dcr": 1.39,
         "basis": "illustrative_assumption"
       },
       "highlights": [
@@ -589,8 +579,8 @@
         "All 45 windows were replaced with dual glazing in 2012, and a pool bonding permit was finaled the same year. Parking is at the rear of the building; the stall count is being confirmed with the owner."
       ],
       "market_narrative": [
-        "Fifteen City of Los Angeles apartment sales of 8 to 14 units, built 1953 to 1973, closed between September 2024 and August 2026 at a median of $258,333 per unit, $341 per SF and 11.30 times rent. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap.",
-        "Thirty days before each of those sales closed, the 5-year Treasury ran 3.61% to 4.40%, a median of 3.91%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The four closings from June to August 2026, which locked nearest today's rates, ran 9.16 to 11.19 times rent.",
+        "Eight City of Los Angeles apartment sales of 8 to 13 units, built 1957 to 1973, closed between September 2024 and August 2026 at a median of $256,090 per unit, $346 per SF and 11.29 times rent. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap.",
+        "Thirty days before each of those sales closed, the 5-year Treasury ran 3.75% to 4.40%, a median of 4.19%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The four closings from June to August 2026, which locked nearest today's rates, ran 9.16 to 11.19 times rent.",
         "A buyer today pays about a point more for money than the buyers who set most of those comps, so the 2026 closings carry more weight in our pricing than the 2024 and 2025 sales."
       ],
       "positioning_narrative": [
@@ -601,13 +591,13 @@
         "Market rent is $1,950 for a one bedroom of about 500 SF, in line with the building's own one bedroom leases since 2023, and $2,450 for a two bedroom of about 700 SF. Unit 6 has not leased at its $2,600 ask, so the two bedroom market rent is set below it. The pro forma carries every unit at those rents."
       ],
       "valuation_narrative": [
-        "The recommended list price is $2.6M, $216,667 per unit and $398 per SF, with an opinion of value of $2.55M to $2.65M. Current scheduled rent of $251,328, with units 3 and 6 at market, less a 3% vacancy reserve and plus $1,070 of laundry income gives $244,858 of effective gross income. Operating expenses of $104,769, with taxes reassessed at the list price, leave net operating income of $140,089: a 5.39% cap rate and a 10.35 gross rent multiplier. At market rents the net operating income is $178,708, a 6.87% cap rate.",
-        "The price sits at 10.35 times rent, below the 10.48 to 11.56 range of the closest sales, and at $216,667 per unit, in the lower third of the set. The 5.39% cap reflects a full expense load for a pool building, including insurance at $1,300 per unit and reserves at $400 per unit. Those comps priced on cheaper money; at this price a buyer who finances half at today's 6.75% still covers debt service 1.38 times."
+        "The recommended list price is $2.6M, $216,667 per unit and $398 per SF, with an opinion of value of $2.55M to $2.65M. Current scheduled rent of $251,328, with units 3 and 6 at market, less a 3% vacancy reserve and plus $1,070 of laundry income gives $244,858 of effective gross income. Operating expenses of $103,769, with taxes reassessed at the list price, leave net operating income of $141,089: a 5.43% cap rate and a 10.35 gross rent multiplier. At market rents the net operating income is $178,708, a 6.87% cap rate.",
+        "The price sits at 10.35 times rent, below the 10.48 to 11.56 range of the closest sales, and at $216,667 per unit, in the lower third of the set. The 5.43% cap reflects a full expense load for a pool building, including insurance at $1,300 per unit and reserves at $400 per unit. Those comps priced on cheaper money; at this price a buyer who finances half at today's 6.75% still covers debt service 1.39 times."
       ],
       "strategy": [
         {
           "title": "Price Each Building on Today's Rates",
-          "copy": "The sales in this analysis priced when the 5-year Treasury ran 3.4% to 4.4% at lock; it stood at 4.83% on 09/22/2026. Each building is priced on its own income at a yield today's buyer can finance, so offers arrive in the first weeks rather than after a price reduction."
+          "copy": "The sales in this analysis priced when the 5-year Treasury ran 3.5% to 4.4% at lock; it stood at 4.83% on 09/22/2026. Each building is priced on its own income at a yield today's buyer can finance, so offers arrive in the first weeks rather than after a price reduction."
         },
         {
           "title": "Two Buildings, Two Separate Sales",
@@ -701,29 +691,29 @@
           "src": "images/2540-s-barrington-model-page-03.svg",
           "label": "Operating Statement",
           "width": 751.52,
-          "height": 319.45,
-          "sha256": "a8a63c12b607e31cd4c1e1a1e080c8fd8aa4432c5d77483d015232e4b84ac14e"
+          "height": 309.85,
+          "sha256": "e344a9f015c8093da5362eedade467f5a7f55eb125d33ef1344cb413cd429660"
         },
         {
           "src": "images/2540-s-barrington-model-page-04.svg",
           "label": "Notes to the Operating Statement",
           "width": 751.52,
-          "height": 309.37,
-          "sha256": "d687b18c254e7fc462bbb17bfb29f4c737d7c950115904ff71c33be83f6f47f3"
+          "height": 293.41,
+          "sha256": "4178adc3e355ec52fca6b186a191222424b6d72473978a97d89e9cddc50dd698"
         },
         {
           "src": "images/2540-s-barrington-model-page-05.svg",
           "label": "Pricing Detail",
           "width": 751.52,
           "height": 463.33,
-          "sha256": "b24015c2deb2bc7b0b866435c8f6af5d1a642137f49a42746ae493235b20d395"
+          "sha256": "7d76a356d6b682e4b38f22084094b2485f73476496b3e74d72504778a0f19d9a"
         },
         {
           "src": "images/2540-s-barrington-model-page-06.svg",
           "label": "Proposal Price",
           "width": 751.52,
           "height": 387.88,
-          "sha256": "1121f513884307378469a0b382ffaacbb39fbd5e5051e3ff7d1573819417f60c"
+          "sha256": "5251e3285e7d098ef81e3395d8334d267f495888bad81de19df6f582327a3ff6"
         }
       ],
       "comp_pages": [],
@@ -741,7 +731,7 @@
           "square_feet": 625.0,
           "square_feet_basis": "labelled_estimate",
           "distance": 1.436,
-          "image": null,
+          "image": "2540-s-barrington-comp-4249-030-012.jpg",
           "listing_url": null,
           "map_ref": 1,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.015144899999996,-118.42309420000001&query_place_id=ChIJY6WKJk-6woARhIfcm5YLkpI"
@@ -753,7 +743,7 @@
           "square_feet": null,
           "square_feet_basis": "omitted",
           "distance": 1.105,
-          "image": null,
+          "image": "2540-s-barrington-comp-4248-016-027.jpg",
           "listing_url": null,
           "map_ref": 2,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.0123144,-118.43973009999999&query_place_id=ChIJa4Uxnvi6woAR-LNBnROM5Ig"
@@ -765,7 +755,7 @@
           "square_feet": null,
           "square_feet_basis": "omitted",
           "distance": 1.378,
-          "image": null,
+          "image": "2540-s-barrington-comp-4248-025-011.jpg",
           "listing_url": null,
           "map_ref": 3,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.008727199999996,-118.43707909999999&query_place_id=ChIJ72ftLVi6woARpeSCeGUGL7c"
@@ -777,7 +767,7 @@
           "square_feet": 650.0,
           "square_feet_basis": "labelled_estimate",
           "distance": 1.077,
-          "image": null,
+          "image": "2540-s-barrington-comp-4249-009-021.jpg",
           "listing_url": null,
           "map_ref": 4,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.0158087,-118.4311421&query_place_id=ChIJZbVXflG6woARtNI-vcT3hi8"
@@ -789,7 +779,7 @@
           "square_feet": 610.0,
           "square_feet_basis": "labelled_estimate",
           "distance": 0.122,
-          "image": null,
+          "image": "2540-s-barrington-comp-4258-007-025.jpg",
           "listing_url": null,
           "map_ref": 5,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.0267276,-118.4413896&query_place_id=ChIJm34Xowe7woARR9lCjRYDnUM"
@@ -801,7 +791,7 @@
           "square_feet": 775.0,
           "square_feet_basis": "labelled_estimate",
           "distance": 0.211,
-          "image": null,
+          "image": "2540-s-barrington-comp-4260-035-022.jpg",
           "listing_url": null,
           "map_ref": 6,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.0311409,-118.44207769999998&query_place_id=ChIJt3XarAm7woARCYhdR1aE7nE"
@@ -813,7 +803,7 @@
           "square_feet": 900.0,
           "square_feet_basis": "labelled_estimate",
           "distance": 1.077,
-          "image": null,
+          "image": "2540-s-barrington-comp-4249-009-021.jpg",
           "listing_url": null,
           "map_ref": 4,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.0158087,-118.4311421&query_place_id=ChIJZbVXflG6woARtNI-vcT3hi8"
@@ -825,7 +815,7 @@
           "square_feet": 860.0,
           "square_feet_basis": "labelled_estimate",
           "distance": 1.496,
-          "image": null,
+          "image": "2540-s-barrington-comp-4248-026-006.jpg",
           "listing_url": null,
           "map_ref": 7,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.0071948,-118.4360068&query_place_id=ChIJbWD5plm6woARsAA4lm8rhZU"
@@ -847,7 +837,7 @@
           "price_per_land_sf": 429.9212598425197,
           "grm": 11.1942,
           "cap_rate": 6.0549,
-          "image": null,
+          "image": "2540-s-barrington-comp-4262-011-013.jpg",
           "restatement": null,
           "document": null,
           "side_by_side": true,
@@ -875,7 +865,7 @@
           "price_per_land_sf": 377.8031709755749,
           "grm": 10.4801,
           "cap_rate": 5.8947,
-          "image": null,
+          "image": "2540-s-barrington-comp-4263-034-010.jpg",
           "restatement": null,
           "document": null,
           "side_by_side": true,
@@ -903,7 +893,7 @@
           "price_per_land_sf": 210.68155482987464,
           "grm": 9.163,
           "cap_rate": 6.636,
-          "image": null,
+          "image": "2540-s-barrington-comp-4311-025-026.jpg",
           "restatement": null,
           "document": null,
           "side_by_side": true,
@@ -931,7 +921,7 @@
           "price_per_land_sf": 251.09026034095413,
           "grm": 10.8678,
           "cap_rate": 5.0305,
-          "image": null,
+          "image": "2540-s-barrington-comp-4259-017-023.jpg",
           "restatement": null,
           "document": null,
           "side_by_side": true,
@@ -943,118 +933,6 @@
           "rate_lock_date": "2026-05-13",
           "map_ref": 4,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.03658,-118.458136&query_place_id=ChIJS-5Jbmu7woARjjhDr8T6kW0"
-        },
-        {
-          "address": "1937 S Shenandoah St",
-          "status": "Closed",
-          "price": 3080000,
-          "units": 10,
-          "year_built": 1956,
-          "building_sf": 9028,
-          "lot_sf": 8704,
-          "date": "2026-03-27",
-          "days_on_market": null,
-          "price_per_unit": 308000.0,
-          "price_per_sf": 341.16,
-          "price_per_land_sf": 353.8602941176471,
-          "grm": 11.5971,
-          "cap_rate": 5.0753,
-          "image": null,
-          "restatement": null,
-          "document": null,
-          "side_by_side": true,
-          "summary": "A 1956 Palms building that closed in March 2026 at $3.08M on the recorded deed.",
-          "relevance": "10 units per the assessor (MLS and registry 11), 1956, 9,028 SF; larger units.",
-          "considerations": "5.08% cap and 11.60 times rent.",
-          "treasury_3y": 3.49,
-          "treasury_5y": 3.61,
-          "rate_lock_date": "2026-02-25",
-          "map_ref": 5,
-          "map_url": "https://www.google.com/maps/search/?api=1&query=34.0430558,-118.3848721&query_place_id=ChIJ9S6J0mS5woARtW8cC2_v6h0"
-        },
-        {
-          "address": "11150 Regent St",
-          "status": "Closed",
-          "price": 2400000,
-          "units": 12,
-          "year_built": 1954,
-          "building_sf": 8620,
-          "lot_sf": 11514,
-          "date": "2026-02-03",
-          "days_on_market": null,
-          "price_per_unit": 200000.0,
-          "price_per_sf": 278.42,
-          "price_per_land_sf": 208.44189682126108,
-          "grm": null,
-          "cap_rate": null,
-          "image": null,
-          "restatement": null,
-          "document": null,
-          "side_by_side": true,
-          "summary": "A 12-unit 1954 Palms building registered after the sale at $2.4M, $200,000 per unit.",
-          "relevance": "12 units, 1954, 8,620 SF.",
-          "considerations": "Post-sale MLS registration with no income, so cap and GRM are not shown.",
-          "treasury_3y": 3.55,
-          "treasury_5y": 3.74,
-          "rate_lock_date": "2026-01-04",
-          "map_ref": 6,
-          "map_url": "https://www.google.com/maps/search/?api=1&query=34.0145778,-118.41891700000001&query_place_id=ChIJ3VRAY0i6woAR6JyC0CCl3zg"
-        },
-        {
-          "address": "4600 Sawtelle Blvd",
-          "status": "Closed",
-          "price": 2700000,
-          "units": 14,
-          "year_built": 1965,
-          "building_sf": 7603,
-          "lot_sf": 10428,
-          "date": "2025-12-12",
-          "days_on_market": null,
-          "price_per_unit": 192857.14,
-          "price_per_sf": 355.12,
-          "price_per_land_sf": 258.91829689298044,
-          "grm": 9.1104,
-          "cap_rate": 6.909999999999999,
-          "image": null,
-          "restatement": null,
-          "document": null,
-          "side_by_side": true,
-          "summary": "A 14-unit Del Rey building of mostly one bedrooms, a softer location, at a 6.91% cap.",
-          "relevance": "14 units, 1965, 7,603 SF; City of Los Angeles, 90230.",
-          "considerations": "Closed 12/12/2025 at 9.11 times rent.",
-          "treasury_3y": 3.55,
-          "treasury_5y": 3.68,
-          "rate_lock_date": "2025-11-12",
-          "map_ref": 7,
-          "map_url": "https://www.google.com/maps/search/?api=1&query=34.0004626,-118.4081408&query_place_id=ChIJlyMOJRG6woARjchMZdB-2vY"
-        },
-        {
-          "address": "3741-3745 Jasmine Ave",
-          "status": "Closed",
-          "price": 3000000,
-          "units": 14,
-          "year_built": 1953,
-          "building_sf": 9169,
-          "lot_sf": 15001,
-          "date": "2025-11-07",
-          "days_on_market": null,
-          "price_per_unit": 214285.71,
-          "price_per_sf": 327.19,
-          "price_per_land_sf": 199.9866675554963,
-          "grm": 13.2709,
-          "cap_rate": 4.0633,
-          "image": null,
-          "restatement": null,
-          "document": null,
-          "side_by_side": true,
-          "summary": "A 14-unit 1953 garden courtyard building in Palms with legacy rents, at a 4.06% cap.",
-          "relevance": "14 units, 1953, 9,169 SF on a 15,001 SF lot.",
-          "considerations": "13.27 times rent on legacy rents.",
-          "treasury_3y": 3.58,
-          "treasury_5y": 3.72,
-          "rate_lock_date": "2025-10-08",
-          "map_ref": 8,
-          "map_url": "https://www.google.com/maps/search/?api=1&query=34.0227935,-118.4029714&query_place_id=ChIJb9RmdC66woARrElQZTC3GhU"
         },
         {
           "address": "3651 McLaughlin Ave",
@@ -1081,7 +959,7 @@
           "treasury_3y": 3.7,
           "treasury_5y": 3.84,
           "rate_lock_date": "2025-08-10",
-          "map_ref": 9,
+          "map_ref": 5,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.011099099999996,-118.4270795&query_place_id=ChIJEwE_RUW6woARYgeSy_sytaI"
         },
         {
@@ -1099,7 +977,7 @@
           "price_per_land_sf": 359.37862276837467,
           "grm": 11.5611,
           "cap_rate": 5.3726,
-          "image": null,
+          "image": "2540-s-barrington-comp-4258-018-011.jpg",
           "restatement": null,
           "document": null,
           "side_by_side": true,
@@ -1109,92 +987,8 @@
           "treasury_3y": 3.66,
           "treasury_5y": 3.75,
           "rate_lock_date": "2025-08-04",
-          "map_ref": 10,
+          "map_ref": 6,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.0297312,-118.43376609999999&query_place_id=ChIJ89O1TK-7woARvaIz3sscm6g"
-        },
-        {
-          "address": "11915 Jefferson Blvd",
-          "status": "Closed",
-          "price": 4000000,
-          "units": 14,
-          "year_built": 1963,
-          "building_sf": 10340,
-          "lot_sf": 9500,
-          "date": "2025-08-26",
-          "days_on_market": null,
-          "price_per_unit": 285714.29,
-          "price_per_sf": 386.85,
-          "price_per_land_sf": 421.05263157894734,
-          "grm": 11.2188,
-          "cap_rate": 5.3287,
-          "image": null,
-          "restatement": null,
-          "document": null,
-          "side_by_side": true,
-          "summary": "A 14-unit Del Rey building with ten two bedrooms; bigger units lift its price per unit.",
-          "relevance": "14 units, 1963, 10,340 SF; City of Los Angeles, 90230.",
-          "considerations": "5.33% cap and 11.22 times rent.",
-          "treasury_3y": 3.86,
-          "treasury_5y": 3.95,
-          "rate_lock_date": "2025-07-27",
-          "map_ref": 11,
-          "map_url": "https://www.google.com/maps/search/?api=1&query=33.984824599999996,-118.40419390000001&query_place_id=ChIJBXo3eqiwwoARHj35diMFcnk"
-        },
-        {
-          "address": "11771 National Blvd",
-          "status": "Closed",
-          "price": 3965000,
-          "units": 13,
-          "year_built": 1971,
-          "building_sf": 11690,
-          "lot_sf": 9834,
-          "date": "2025-05-16",
-          "days_on_market": null,
-          "price_per_unit": 305000.0,
-          "price_per_sf": 339.18,
-          "price_per_land_sf": 403.1930038641448,
-          "grm": null,
-          "cap_rate": null,
-          "image": null,
-          "restatement": null,
-          "document": null,
-          "side_by_side": true,
-          "summary": "A 13-unit 1971 building on National Blvd registered after the sale at $305,000 per unit.",
-          "relevance": "13 units, 1971, 11,690 SF.",
-          "considerations": "Post-sale MLS registration with no income; bought by the same buyer as 11755 National Blvd.",
-          "treasury_3y": 3.77,
-          "treasury_5y": 3.91,
-          "rate_lock_date": "2025-04-16",
-          "map_ref": 12,
-          "map_url": "https://www.google.com/maps/search/?api=1&query=34.0222301,-118.4402257&query_place_id=ChIJyxEWmgC7woARJ7n_v5g4njY"
-        },
-        {
-          "address": "11755 National Blvd",
-          "status": "Closed",
-          "price": 3815000,
-          "units": 13,
-          "year_built": 1971,
-          "building_sf": 11458,
-          "lot_sf": 9784,
-          "date": "2025-01-15",
-          "days_on_market": null,
-          "price_per_unit": 293461.54,
-          "price_per_sf": 332.96,
-          "price_per_land_sf": 389.92232215862634,
-          "grm": null,
-          "cap_rate": null,
-          "image": null,
-          "restatement": null,
-          "document": null,
-          "side_by_side": true,
-          "summary": "The neighbor of 11771 National Blvd, registered after its January 2025 sale at $293,462 per unit.",
-          "relevance": "13 units, 1971, 11,458 SF.",
-          "considerations": "Post-sale MLS registration with no income.",
-          "treasury_3y": 4.22,
-          "treasury_5y": 4.25,
-          "rate_lock_date": "2024-12-16",
-          "map_ref": 13,
-          "map_url": "https://www.google.com/maps/search/?api=1&query=34.0223716,-118.43993839999999&query_place_id=ChIJ6TAymgC7woARhm4Ikg3IUTs"
         },
         {
           "address": "11340 National Blvd",
@@ -1211,7 +1005,7 @@
           "price_per_land_sf": 414.57885946074924,
           "grm": 11.8395,
           "cap_rate": 5.9045,
-          "image": null,
+          "image": "2540-s-barrington-comp-4250-026-008.jpg",
           "restatement": null,
           "document": null,
           "side_by_side": true,
@@ -1221,7 +1015,7 @@
           "treasury_3y": 4.24,
           "treasury_5y": 4.25,
           "rate_lock_date": "2024-11-19",
-          "map_ref": 14,
+          "map_ref": 7,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.025332999999996,-118.4323674&query_place_id=ChIJ2-P0GKy7woARab7osCkGtt0"
         },
         {
@@ -1239,7 +1033,7 @@
           "price_per_land_sf": 314.4953778709616,
           "grm": 11.3768,
           "cap_rate": 5.7317,
-          "image": null,
+          "image": "2540-s-barrington-comp-4263-011-027.jpg",
           "restatement": null,
           "document": null,
           "side_by_side": true,
@@ -1249,7 +1043,7 @@
           "treasury_3y": 3.86,
           "treasury_5y": 3.75,
           "rate_lock_date": "2024-08-19",
-          "map_ref": 15,
+          "map_ref": 8,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.049012499999996,-118.46018449999998&query_place_id=ChIJ33sWKGe7woARuvf9KQ8Afz4"
         }
       ],
@@ -1318,7 +1112,7 @@
         ],
         "closings_map": {
           "source": "https://www.laaa.com/track-record",
-          "pulled": "2026-09-23T20:36:42+00:00",
+          "pulled": "2026-09-24T18:08:30+00:00",
           "basis": {
             "type": "radius",
             "label": "within 2 miles",
@@ -1352,7 +1146,7 @@
         },
         "local_listings_source": {
           "source": "https://www.laaa.com/listings",
-          "pulled": "2026-09-23T21:08:17+00:00"
+          "pulled": "2026-09-24T18:29:14+00:00"
         }
       },
       "deal_id": "2540-s-barrington",
@@ -1732,8 +1526,8 @@
         "The tuck-under parking level carries the 2018 soft-story retrofit, steel cantilever columns under Certificate of Compliance 08/03/2018. All 33 windows were replaced with dual glazing in 2013, and an earthquake gas shutoff valve was permitted and finaled in 2018. The stall count is being confirmed with the owner."
       ],
       "market_narrative": [
-        "Fourteen City of Los Angeles apartment sales of 6 to 10 units, built 1953 to 1969, closed between September 2024 and April 2026 at a median of $263,611 per unit, $340 per SF and 11.67 times rent. 12610 Caswell Avenue, nine units built in 1964 two tenths of a mile away, sold for $2.395M in September 2024 at 11.33 times rent. 12757 Caswell Avenue, nine units with a similar mix of singles and two bedroom two baths, closed in March 2026 at $2.05M, 9.79 times rent and a 6.47% cap. Same-street 12011 Pacific Avenue, nine units built in 1969, was registered at $2.914M in November 2025.",
-        "Thirty days before each of those sales closed, the 5-year Treasury ran 3.43% to 4.41%, a median of 3.76%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5).",
+        "Nine City of Los Angeles apartment sales of 6 to 10 units, built 1954 to 1969, closed between September 2024 and April 2026 at a median of $261,111 per unit, $341 per SF and 11.52 times rent. 12610 Caswell Avenue, nine units built in 1964 two tenths of a mile away, sold for $2.395M in September 2024 at 11.33 times rent. 12757 Caswell Avenue, nine units with a similar mix of singles and two bedroom two baths, closed in March 2026 at $2.05M, 9.79 times rent and a 6.47% cap.",
+        "Thirty days before each of those sales closed, the 5-year Treasury ran 3.51% to 4.05%, a median of 3.68%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5).",
         "A buyer today pays about a point more for money than the buyers who set most of those comps, so the 2026 sale at 12757 Caswell carries more weight in our pricing than the 2024 and 2025 sales."
       ],
       "positioning_narrative": [
@@ -1751,7 +1545,7 @@
       "strategy": [
         {
           "title": "Price Each Building on Today's Rates",
-          "copy": "The sales in this analysis priced when the 5-year Treasury ran 3.4% to 4.4% at lock; it stood at 4.83% on 09/22/2026. Each building is priced on its own income at a yield today's buyer can finance, so offers arrive in the first weeks rather than after a price reduction."
+          "copy": "The sales in this analysis priced when the 5-year Treasury ran 3.5% to 4.4% at lock; it stood at 4.83% on 09/22/2026. Each building is priced on its own income at a yield today's buyer can finance, so offers arrive in the first weeks rather than after a price reduction."
         },
         {
           "title": "Two Buildings, Two Separate Sales",
@@ -1877,7 +1671,7 @@
           "square_feet": 400.0,
           "square_feet_basis": "labelled_estimate",
           "distance": 0.833,
-          "image": null,
+          "image": "12535-pacific-comp-4234-014-020.jpg",
           "listing_url": null,
           "map_ref": 1,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.0116799,-118.4275401&query_place_id=ChIJ00c7VkW6woARMnR5TP3Lpuc"
@@ -1889,7 +1683,7 @@
           "square_feet": null,
           "square_feet_basis": "omitted",
           "distance": 0.073,
-          "image": null,
+          "image": "12535-pacific-comp-4235-003-002.jpg",
           "listing_url": null,
           "map_ref": 2,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.0007108,-118.43620310000001&query_place_id=ChIJWaWtSV66woARPslN2mc4HI8"
@@ -1901,7 +1695,7 @@
           "square_feet": null,
           "square_feet_basis": "omitted",
           "distance": 0.371,
-          "image": null,
+          "image": "12535-pacific-comp-4236-021-022.jpg",
           "listing_url": null,
           "map_ref": 3,
           "map_url": "https://www.google.com/maps/search/?api=1&query=33.996756399999995,-118.438284&query_place_id=ChIJV5C_N2C6woARLLZf_Aac6vI"
@@ -1913,7 +1707,7 @@
           "square_feet": 750.0,
           "square_feet_basis": "labelled_estimate",
           "distance": 0.528,
-          "image": null,
+          "image": "12535-pacific-comp-4214-022-024.jpg",
           "listing_url": null,
           "map_ref": 4,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.004480099999995,-118.42707419999999&query_place_id=ChIJEw6CJkO6woARDlxNeIoNndA"
@@ -1925,7 +1719,7 @@
           "square_feet": null,
           "square_feet_basis": "omitted",
           "distance": 0.227,
-          "image": null,
+          "image": "12535-pacific-comp-4235-022-009.jpg",
           "listing_url": null,
           "map_ref": 5,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.002849499999996,-118.43194249999999&query_place_id=ChIJDStAs126woARAhWkUHNMsGE"
@@ -1937,7 +1731,7 @@
           "square_feet": 550.0,
           "square_feet_basis": "labelled_estimate",
           "distance": 0.581,
-          "image": null,
+          "image": "12535-pacific-comp-4232-029-020.jpg",
           "listing_url": null,
           "map_ref": 6,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.0007784,-118.4255417&query_place_id=ChIJAYYYNmi6woAR6fq4LowmD6A"
@@ -1949,7 +1743,7 @@
           "square_feet": 650.0,
           "square_feet_basis": "labelled_estimate",
           "distance": 0.34,
-          "image": null,
+          "image": "12535-pacific-comp-4236-014-004.jpg",
           "listing_url": null,
           "map_ref": 7,
           "map_url": "https://www.google.com/maps/search/?api=1&query=33.9978833,-118.43944479999999&query_place_id=ChIJpSQxA2C6woARaqeX5IzqVRo"
@@ -1961,7 +1755,7 @@
           "square_feet": 775.0,
           "square_feet_basis": "labelled_estimate",
           "distance": 0.192,
-          "image": null,
+          "image": "12535-pacific-comp-4236-017-033.jpg",
           "listing_url": null,
           "map_ref": 8,
           "map_url": "https://www.google.com/maps/search/?api=1&query=33.9997605,-118.4380758&query_place_id=ChIJn9IYwl-6woAR2Zq7oJ8qq7E"
@@ -1973,7 +1767,7 @@
           "square_feet": 950.0,
           "square_feet_basis": "labelled_estimate",
           "distance": 0.684,
-          "image": null,
+          "image": "12535-pacific-comp-4233-016-032.jpg",
           "listing_url": null,
           "map_ref": 9,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.0002923,-118.4238075&query_place_id=ChIJCUazo2m6woARC8Ol6oiPVJ4"
@@ -1985,7 +1779,7 @@
           "square_feet": 950.0,
           "square_feet_basis": "labelled_estimate",
           "distance": 0.205,
-          "image": null,
+          "image": "12535-pacific-comp-4236-017-026.jpg",
           "listing_url": null,
           "map_ref": 10,
           "map_url": "https://www.google.com/maps/search/?api=1&query=33.999349800000005,-118.4378871&query_place_id=ChIJ5-di3F-6woARB1QtYbxvQMs"
@@ -1997,7 +1791,7 @@
           "square_feet": 975.0,
           "square_feet_basis": "labelled_estimate",
           "distance": 0.179,
-          "image": null,
+          "image": "12535-pacific-comp-4236-017-029.jpg",
           "listing_url": null,
           "map_ref": 11,
           "map_url": "https://www.google.com/maps/search/?api=1&query=33.9995784,-118.43749120000001&query_place_id=ChIJSxkI0F-6woARQBVzUNeO09w"
@@ -2009,7 +1803,7 @@
           "square_feet": 980.0,
           "square_feet_basis": "labelled_estimate",
           "distance": 0.167,
-          "image": null,
+          "image": "12535-pacific-comp-4236-018-033.jpg",
           "listing_url": null,
           "map_ref": 12,
           "map_url": "https://www.google.com/maps/search/?api=1&query=33.9993942,-118.43663610000002&query_place_id=ChIJeYznKl66woARr26zCtTP4eg"
@@ -2021,22 +1815,10 @@
           "square_feet": 850.0,
           "square_feet_basis": "labelled_estimate",
           "distance": 1.036,
-          "image": null,
+          "image": "12535-pacific-comp-4242-020-030.jpg",
           "listing_url": null,
           "map_ref": 13,
           "map_url": "https://www.google.com/maps/search/?api=1&query=33.9981826,-118.45323010000001&query_place_id=ChIJl8G6pO26woARwmbZFGdYcg8"
-        },
-        {
-          "address": "12727 Matteson Ave",
-          "unit_type": "2 Bed / 2 Bath",
-          "rent": 2799.0,
-          "square_feet": 950.0,
-          "square_feet_basis": "labelled_estimate",
-          "distance": 0.188,
-          "image": null,
-          "listing_url": null,
-          "map_ref": 14,
-          "map_url": "https://www.google.com/maps/search/?api=1&query=33.9994894,-118.4376041&query_place_id=ChIJRyPm2l-6woARBMlhrtLMcHo"
         }
       ],
       "sale_comps": [
@@ -2055,7 +1837,7 @@
           "price_per_land_sf": 266.875,
           "grm": 12.3442,
           "cap_rate": 4.478,
-          "image": null,
+          "image": "12535-pacific-comp-4311-023-002.jpg",
           "restatement": null,
           "document": null,
           "side_by_side": true,
@@ -2083,7 +1865,7 @@
           "price_per_land_sf": 288.002247822422,
           "grm": 9.7876,
           "cap_rate": 6.4661,
-          "image": null,
+          "image": "12535-pacific-comp-4236-018-022.jpg",
           "restatement": null,
           "document": null,
           "side_by_side": true,
@@ -2111,7 +1893,7 @@
           "price_per_land_sf": 346.86798612528054,
           "grm": 11.1919,
           "cap_rate": 5.2459,
-          "image": null,
+          "image": "12535-pacific-comp-4235-018-001.jpg",
           "restatement": null,
           "document": null,
           "side_by_side": true,
@@ -2123,34 +1905,6 @@
           "rate_lock_date": "2025-10-21",
           "map_ref": 3,
           "map_url": "https://www.google.com/maps/search/?api=1&query=33.999952,-118.43111409999999&query_place_id=ChIJdT3UeWe6woAR7h3A7r0vEpQ"
-        },
-        {
-          "address": "12011 Pacific Ave",
-          "status": "Closed",
-          "price": 2914000,
-          "units": 9,
-          "year_built": 1969,
-          "building_sf": 7718,
-          "lot_sf": 7507,
-          "date": "2025-11-07",
-          "days_on_market": null,
-          "price_per_unit": 323777.78,
-          "price_per_sf": 377.56,
-          "price_per_land_sf": 388.1710403623285,
-          "grm": null,
-          "cap_rate": null,
-          "image": null,
-          "restatement": null,
-          "document": null,
-          "side_by_side": true,
-          "summary": "Nine units on the same street, built in 1969 in 7,718 SF, registered after the sale at $2.914M.",
-          "relevance": "9 units, 1969, 7,718 SF; newer and larger than the subject.",
-          "considerations": "Post-sale MLS registration with no income, so cap and GRM are not shown.",
-          "treasury_3y": 3.58,
-          "treasury_5y": 3.72,
-          "rate_lock_date": "2025-10-08",
-          "map_ref": 4,
-          "map_url": "https://www.google.com/maps/search/?api=1&query=34.0051746,-118.4284948&query_place_id=ChIJr7E_t1y6woARA3yn3s4YnZ0"
         },
         {
           "address": "3720 Midvale Ave",
@@ -2167,7 +1921,7 @@
           "price_per_land_sf": 337.9647014645137,
           "grm": 10.8329,
           "cap_rate": 5.956,
-          "image": null,
+          "image": "12535-pacific-comp-4252-026-004.jpg",
           "restatement": null,
           "document": null,
           "side_by_side": true,
@@ -2177,7 +1931,7 @@
           "treasury_3y": 3.48,
           "treasury_5y": 3.59,
           "rate_lock_date": "2025-09-07",
-          "map_ref": 5,
+          "map_ref": 4,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.018316299999995,-118.4117787&query_place_id=ChIJnXSc3za6woARFX2l2OqZlH0"
         },
         {
@@ -2195,7 +1949,7 @@
           "price_per_land_sf": 233.33333333333334,
           "grm": 11.5202,
           "cap_rate": 4.9978,
-          "image": null,
+          "image": "12535-pacific-comp-4233-022-031.jpg",
           "restatement": null,
           "document": null,
           "side_by_side": true,
@@ -2205,36 +1959,8 @@
           "treasury_3y": 3.58,
           "treasury_5y": 3.68,
           "rate_lock_date": "2025-09-01",
-          "map_ref": 6,
+          "map_ref": 5,
           "map_url": "https://www.google.com/maps/search/?api=1&query=33.9982408,-118.4164084&query_place_id=ChIJAVlCs2y6woAR-jNfIH6Sp-w"
-        },
-        {
-          "address": "10961 Rose Ave",
-          "status": "Closed",
-          "price": 2950000,
-          "units": 9,
-          "year_built": 1968,
-          "building_sf": 9558,
-          "lot_sf": 8166,
-          "date": "2025-09-17",
-          "days_on_market": null,
-          "price_per_unit": 327777.78,
-          "price_per_sf": 308.64,
-          "price_per_land_sf": 361.25397991672787,
-          "grm": 11.7147,
-          "cap_rate": 5.3408,
-          "image": null,
-          "restatement": null,
-          "document": null,
-          "side_by_side": true,
-          "summary": "A 9-unit 1968 Palms building with larger two bath units in 9,558 SF.",
-          "relevance": "9 units, 1968, 9,558 SF; larger units.",
-          "considerations": "5.34% cap and 11.71 times rent.",
-          "treasury_3y": 3.73,
-          "treasury_5y": 3.86,
-          "rate_lock_date": "2025-08-18",
-          "map_ref": 7,
-          "map_url": "https://www.google.com/maps/search/?api=1&query=34.023437,-118.42034729999997&query_place_id=ChIJxVQBNEu6woARJqIMLuiYxzE"
         },
         {
           "address": "3651 McLaughlin Ave",
@@ -2251,7 +1977,7 @@
           "price_per_land_sf": 441.2560909583108,
           "grm": 11.6715,
           "cap_rate": 5.7715000000000005,
-          "image": null,
+          "image": "12535-pacific-comp-4234-014-025.jpg",
           "restatement": null,
           "document": null,
           "side_by_side": true,
@@ -2261,64 +1987,8 @@
           "treasury_3y": 3.7,
           "treasury_5y": 3.84,
           "rate_lock_date": "2025-08-10",
-          "map_ref": 8,
+          "map_ref": 6,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.011099099999996,-118.4270795&query_place_id=ChIJEwE_RUW6woARYgeSy_sytaI"
-        },
-        {
-          "address": "3608 Mentone Ave",
-          "status": "Closed",
-          "price": 2175000,
-          "units": 9,
-          "year_built": 1957,
-          "building_sf": 7782,
-          "lot_sf": 7501,
-          "date": "2025-04-25",
-          "days_on_market": null,
-          "price_per_unit": 241666.67,
-          "price_per_sf": 279.49,
-          "price_per_land_sf": 289.9613384882016,
-          "grm": 13.5136,
-          "cap_rate": 3.9412999999999996,
-          "image": null,
-          "restatement": null,
-          "document": null,
-          "side_by_side": true,
-          "summary": "A 9-unit 1957 Palms building with deep legacy rents at the sale.",
-          "relevance": "9 units, 1957, 7,782 SF.",
-          "considerations": "3.94% cap and 13.51 times rent on legacy rents.",
-          "treasury_3y": 4.01,
-          "treasury_5y": 4.08,
-          "rate_lock_date": "2025-03-26",
-          "map_ref": 9,
-          "map_url": "https://www.google.com/maps/search/?api=1&query=34.0242692,-118.40797090000001&query_place_id=ChIJ95HxqTO6woARUJ-sdCDDbyk"
-        },
-        {
-          "address": "3764 Barry Ave",
-          "status": "Closed",
-          "price": 2219500,
-          "units": 6,
-          "year_built": 1953,
-          "building_sf": 5620,
-          "lot_sf": 7552,
-          "date": "2025-02-03",
-          "days_on_market": null,
-          "price_per_unit": 369916.67,
-          "price_per_sf": 394.93,
-          "price_per_land_sf": 293.895656779661,
-          "grm": 12.8443,
-          "cap_rate": 5.0003,
-          "image": null,
-          "restatement": null,
-          "document": null,
-          "side_by_side": true,
-          "summary": "Six two bedrooms built in 1953 in Mar Vista, two of them vacant at the sale.",
-          "relevance": "6 units, all two bedrooms, 1953, 5,620 SF.",
-          "considerations": "5.00% cap and 12.84 times rent.",
-          "treasury_3y": 4.32,
-          "treasury_5y": 4.41,
-          "rate_lock_date": "2025-01-04",
-          "map_ref": 10,
-          "map_url": "https://www.google.com/maps/search/?api=1&query=34.0086327,-118.4257664&query_place_id=ChIJGQID8kS6woARYuhQIhX5zPQ"
         },
         {
           "address": "3854 Inglewood Blvd",
@@ -2335,7 +2005,7 @@
           "price_per_land_sf": 358.0134064594759,
           "grm": 13.1963,
           "cap_rate": 4.810099999999999,
-          "image": null,
+          "image": "12535-pacific-comp-4214-022-019.jpg",
           "restatement": null,
           "document": null,
           "side_by_side": true,
@@ -2345,7 +2015,7 @@
           "treasury_3y": 4.1,
           "treasury_5y": 4.05,
           "rate_lock_date": "2024-12-01",
-          "map_ref": 11,
+          "map_ref": 7,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.0050504,-118.42753970000001&query_place_id=ChIJHzHGNkO6woARFJ8DvQ7wWMQ"
         },
         {
@@ -2363,7 +2033,7 @@
           "price_per_land_sf": 221.45080201101268,
           "grm": 12.7875,
           "cap_rate": 4.177899999999999,
-          "image": null,
+          "image": "12535-pacific-comp-4235-014-008.jpg",
           "restatement": null,
           "document": null,
           "side_by_side": true,
@@ -2373,36 +2043,8 @@
           "treasury_3y": 3.52,
           "treasury_5y": 3.51,
           "rate_lock_date": "2024-10-01",
-          "map_ref": 12,
+          "map_ref": 8,
           "map_url": "https://www.google.com/maps/search/?api=1&query=34.0018488,-118.4339149&query_place_id=ChIJjVMReF66woAR0fpcAhbJdvA"
-        },
-        {
-          "address": "4100 Inglewood Blvd",
-          "status": "Closed",
-          "price": 1462500,
-          "units": 9,
-          "year_built": 1959,
-          "building_sf": 7749,
-          "lot_sf": 7604,
-          "date": "2024-10-15",
-          "days_on_market": null,
-          "price_per_unit": 162500.0,
-          "price_per_sf": 188.73,
-          "price_per_land_sf": 192.33298264071541,
-          "grm": 11.2462,
-          "cap_rate": 4.3097,
-          "image": null,
-          "restatement": null,
-          "document": null,
-          "side_by_side": true,
-          "summary": "A 9-unit 1959 Mar Vista building with very low rents that sold $287,500 under its list price.",
-          "relevance": "9 units per the assessor (MLS 10), 1959, 7,749 SF.",
-          "considerations": "4.31% cap and 11.25 times rent.",
-          "treasury_3y": 3.42,
-          "treasury_5y": 3.43,
-          "rate_lock_date": "2024-09-15",
-          "map_ref": 13,
-          "map_url": "https://www.google.com/maps/search/?api=1&query=34.0004195,-118.4238633&query_place_id=ChIJqYY7o2m6woARuf--ya4Sie8"
         },
         {
           "address": "12610 Caswell Ave",
@@ -2419,7 +2061,7 @@
           "price_per_land_sf": 336.66010683159965,
           "grm": 11.3268,
           "cap_rate": 5.2256,
-          "image": null,
+          "image": "12535-pacific-comp-4235-005-002.jpg",
           "restatement": null,
           "document": null,
           "side_by_side": true,
@@ -2429,7 +2071,7 @@
           "treasury_3y": 3.86,
           "treasury_5y": 3.8,
           "rate_lock_date": "2024-08-10",
-          "map_ref": 14,
+          "map_ref": 9,
           "map_url": "https://www.google.com/maps/search/?api=1&query=33.9990528,-118.4349377&query_place_id=ChIJq3xho2C6woARzFlSz3QNGaw"
         }
       ],
@@ -2528,7 +2170,7 @@
         ],
         "closings_map": {
           "source": "https://www.laaa.com/track-record",
-          "pulled": "2026-09-23T20:36:42+00:00",
+          "pulled": "2026-09-24T18:08:30+00:00",
           "basis": {
             "type": "radius",
             "label": "within 2 miles",
@@ -2574,7 +2216,7 @@
         },
         "local_listings_source": {
           "source": "https://www.laaa.com/listings",
-          "pulled": "2026-09-23T21:08:17+00:00"
+          "pulled": "2026-09-24T18:29:14+00:00"
         }
       },
       "deal_id": "12535-pacific",
@@ -2672,7 +2314,7 @@
               "Two Buildings, Two Separate Sales"
             ],
             "strategy_copy": [
-              "The sales in this analysis priced when the 5-year Treasury ran 3.4% to 4.4% at lock; it stood at 4.83% on 09/22/2026. Each building is priced on its own income at a yield today's buyer can finance, so offers arrive in the first weeks rather than after a price reduction.",
+              "The sales in this analysis priced when the 5-year Treasury ran 3.5% to 4.4% at lock; it stood at 4.83% on 09/22/2026. Each building is priced on its own income at a yield today's buyer can finance, so offers arrive in the first weeks rather than after a price reduction.",
               "We recommend selling the two buildings separately, each at its own price, so each goes to the buyer who pays the most for it. Both launch in the same campaign, which reaches West Los Angeles and Mar Vista buyers at once."
             ],
             "narrative": [
@@ -2714,8 +2356,8 @@
           },
           "buyer_profile": {
             "market_narrative": [
-              "Fifteen City of Los Angeles apartment sales of 8 to 14 units, built 1953 to 1973, closed between September 2024 and August 2026 at a median of $258,333 per unit, $341 per SF and 11.30 times rent. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap.",
-              "Thirty days before each of those sales closed, the 5-year Treasury ran 3.61% to 4.40%, a median of 3.91%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The four closings from June to August 2026, which locked nearest today's rates, ran 9.16 to 11.19 times rent.",
+              "Eight City of Los Angeles apartment sales of 8 to 13 units, built 1957 to 1973, closed between September 2024 and August 2026 at a median of $256,090 per unit, $346 per SF and 11.29 times rent. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap.",
+              "Thirty days before each of those sales closed, the 5-year Treasury ran 3.75% to 4.40%, a median of 4.19%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The four closings from June to August 2026, which locked nearest today's rates, ran 9.16 to 11.19 times rent.",
               "A buyer today pays about a point more for money than the buyers who set most of those comps, so the 2026 closings carry more weight in our pricing than the 2024 and 2025 sales."
             ],
             "positioning_narrative": [
@@ -2740,8 +2382,8 @@
           },
           "financial_analysis": {
             "valuation_narrative": [
-              "The recommended list price is $2.6M, $216,667 per unit and $398 per SF, with an opinion of value of $2.55M to $2.65M. Current scheduled rent of $251,328, with units 3 and 6 at market, less a 3% vacancy reserve and plus $1,070 of laundry income gives $244,858 of effective gross income. Operating expenses of $104,769, with taxes reassessed at the list price, leave net operating income of $140,089: a 5.39% cap rate and a 10.35 gross rent multiplier. At market rents the net operating income is $178,708, a 6.87% cap rate.",
-              "The price sits at 10.35 times rent, below the 10.48 to 11.56 range of the closest sales, and at $216,667 per unit, in the lower third of the set. The 5.39% cap reflects a full expense load for a pool building, including insurance at $1,300 per unit and reserves at $400 per unit. Those comps priced on cheaper money; at this price a buyer who finances half at today's 6.75% still covers debt service 1.38 times."
+              "The recommended list price is $2.6M, $216,667 per unit and $398 per SF, with an opinion of value of $2.55M to $2.65M. Current scheduled rent of $251,328, with units 3 and 6 at market, less a 3% vacancy reserve and plus $1,070 of laundry income gives $244,858 of effective gross income. Operating expenses of $103,769, with taxes reassessed at the list price, leave net operating income of $141,089: a 5.43% cap rate and a 10.35 gross rent multiplier. At market rents the net operating income is $178,708, a 6.87% cap rate.",
+              "The price sits at 10.35 times rent, below the 10.48 to 11.56 range of the closest sales, and at $216,667 per unit, in the lower third of the set. The 5.43% cap reflects a full expense load for a pool building, including insurance at $1,300 per unit and reserves at $400 per unit. Those comps priced on cheaper money; at this price a buyer who finances half at today's 6.75% still covers debt service 1.39 times."
             ],
             "disclosures": [
               "Scheduled rent is the owner's August 2026 rent roll, with vacant units 3 and 6 at market rent. Taxes are reassessed at 1.18738% of the list price plus $1,803 of direct assessments. Insurance is an estimate of $1,300 per unit; utilities, trash and service contracts follow the owner's 2026 statements; repairs ($850 per unit), reserves ($400 per unit) and management (4% of effective gross income) are LAAA allowances. No on-site manager expense is carried. Financing shown is an illustrative new loan at 50% of price, 6.75% and 30-year amortization at today's rates.",
@@ -2878,7 +2520,7 @@
               "sources:src-fred"
             ],
             "framed_as": "recommended positioning",
-            "text": "The sales in this analysis priced when the 5-year Treasury ran 3.4% to 4.4% at lock; it stood at 4.83% on 09/22/2026. Each building is priced on its own income at a yield today's buyer can finance, so offers arrive in the first weeks rather than after a price reduction."
+            "text": "The sales in this analysis priced when the 5-year Treasury ran 3.5% to 4.4% at lock; it stood at 4.83% on 09/22/2026. Each building is priced on its own income at a yield today's buyer can finance, so offers arrive in the first weeks rather than after a price reduction."
           },
           {
             "id": "strategy-2",
@@ -3078,7 +2720,7 @@
               "comps-sale:sale-02"
             ],
             "framed_as": null,
-            "text": "Fifteen City of Los Angeles apartment sales of 8 to 14 units, built 1953 to 1973, closed between September 2024 and August 2026 at a median of $258,333 per unit, $341 per SF and 11.30 times rent. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap."
+            "text": "Eight City of Los Angeles apartment sales of 8 to 13 units, built 1957 to 1973, closed between September 2024 and August 2026 at a median of $256,090 per unit, $346 per SF and 11.29 times rent. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap."
           },
           {
             "id": "market-2",
@@ -3088,7 +2730,7 @@
               "comps-sale:conclusions"
             ],
             "framed_as": null,
-            "text": "Thirty days before each of those sales closed, the 5-year Treasury ran 3.61% to 4.40%, a median of 3.91%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The four closings from June to August 2026, which locked nearest today's rates, ran 9.16 to 11.19 times rent."
+            "text": "Thirty days before each of those sales closed, the 5-year Treasury ran 3.75% to 4.40%, a median of 4.19%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The four closings from June to August 2026, which locked nearest today's rates, ran 9.16 to 11.19 times rent."
           },
           {
             "id": "market-3",
@@ -3197,7 +2839,7 @@
               "sources:mm-model"
             ],
             "framed_as": null,
-            "text": "The recommended list price is $2.6M, $216,667 per unit and $398 per SF, with an opinion of value of $2.55M to $2.65M. Current scheduled rent of $251,328, with units 3 and 6 at market, less a 3% vacancy reserve and plus $1,070 of laundry income gives $244,858 of effective gross income. Operating expenses of $104,769, with taxes reassessed at the list price, leave net operating income of $140,089: a 5.39% cap rate and a 10.35 gross rent multiplier. At market rents the net operating income is $178,708, a 6.87% cap rate."
+            "text": "The recommended list price is $2.6M, $216,667 per unit and $398 per SF, with an opinion of value of $2.55M to $2.65M. Current scheduled rent of $251,328, with units 3 and 6 at market, less a 3% vacancy reserve and plus $1,070 of laundry income gives $244,858 of effective gross income. Operating expenses of $103,769, with taxes reassessed at the list price, leave net operating income of $141,089: a 5.43% cap rate and a 10.35 gross rent multiplier. At market rents the net operating income is $178,708, a 6.87% cap rate."
           },
           {
             "id": "valuation-2",
@@ -3210,7 +2852,7 @@
               "sources:src-fred"
             ],
             "framed_as": "broker opinion on pricing position",
-            "text": "The price sits at 10.35 times rent, below the 10.48 to 11.56 range of the closest sales, and at $216,667 per unit, in the lower third of the set. The 5.39% cap reflects a full expense load for a pool building, including insurance at $1,300 per unit and reserves at $400 per unit. Those comps priced on cheaper money; at this price a buyer who finances half at today's 6.75% still covers debt service 1.38 times."
+            "text": "The price sits at 10.35 times rent, below the 10.48 to 11.56 range of the closest sales, and at $216,667 per unit, in the lower third of the set. The 5.43% cap reflects a full expense load for a pool building, including insurance at $1,300 per unit and reserves at $400 per unit. Those comps priced on cheaper money; at this price a buyer who finances half at today's 6.75% still covers debt service 1.39 times."
           },
           {
             "id": "disclosure-1",
@@ -3277,7 +2919,7 @@
               "Two Buildings, Two Separate Sales"
             ],
             "strategy_copy": [
-              "The sales in this analysis priced when the 5-year Treasury ran 3.4% to 4.4% at lock; it stood at 4.83% on 09/22/2026. Each building is priced on its own income at a yield today's buyer can finance, so offers arrive in the first weeks rather than after a price reduction.",
+              "The sales in this analysis priced when the 5-year Treasury ran 3.5% to 4.4% at lock; it stood at 4.83% on 09/22/2026. Each building is priced on its own income at a yield today's buyer can finance, so offers arrive in the first weeks rather than after a price reduction.",
               "We recommend selling the two buildings separately, each at its own price, so each goes to the buyer who pays the most for it. Both launch in the same campaign, which reaches West Los Angeles and Mar Vista buyers at once."
             ],
             "narrative": [
@@ -3319,8 +2961,8 @@
           },
           "buyer_profile": {
             "market_narrative": [
-              "Fourteen City of Los Angeles apartment sales of 6 to 10 units, built 1953 to 1969, closed between September 2024 and April 2026 at a median of $263,611 per unit, $340 per SF and 11.67 times rent. 12610 Caswell Avenue, nine units built in 1964 two tenths of a mile away, sold for $2.395M in September 2024 at 11.33 times rent. 12757 Caswell Avenue, nine units with a similar mix of singles and two bedroom two baths, closed in March 2026 at $2.05M, 9.79 times rent and a 6.47% cap. Same-street 12011 Pacific Avenue, nine units built in 1969, was registered at $2.914M in November 2025.",
-              "Thirty days before each of those sales closed, the 5-year Treasury ran 3.43% to 4.41%, a median of 3.76%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5).",
+              "Nine City of Los Angeles apartment sales of 6 to 10 units, built 1954 to 1969, closed between September 2024 and April 2026 at a median of $261,111 per unit, $341 per SF and 11.52 times rent. 12610 Caswell Avenue, nine units built in 1964 two tenths of a mile away, sold for $2.395M in September 2024 at 11.33 times rent. 12757 Caswell Avenue, nine units with a similar mix of singles and two bedroom two baths, closed in March 2026 at $2.05M, 9.79 times rent and a 6.47% cap.",
+              "Thirty days before each of those sales closed, the 5-year Treasury ran 3.51% to 4.05%, a median of 3.68%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5).",
               "A buyer today pays about a point more for money than the buyers who set most of those comps, so the 2026 sale at 12757 Caswell carries more weight in our pricing than the 2024 and 2025 sales."
             ],
             "positioning_narrative": [
@@ -3484,7 +3126,7 @@
               "sources:src-fred"
             ],
             "framed_as": "recommended positioning",
-            "text": "The sales in this analysis priced when the 5-year Treasury ran 3.4% to 4.4% at lock; it stood at 4.83% on 09/22/2026. Each building is priced on its own income at a yield today's buyer can finance, so offers arrive in the first weeks rather than after a price reduction."
+            "text": "The sales in this analysis priced when the 5-year Treasury ran 3.5% to 4.4% at lock; it stood at 4.83% on 09/22/2026. Each building is priced on its own income at a yield today's buyer can finance, so offers arrive in the first weeks rather than after a price reduction."
           },
           {
             "id": "strategy-2",
@@ -3685,7 +3327,7 @@
               "comps-sale:sale-04"
             ],
             "framed_as": null,
-            "text": "Fourteen City of Los Angeles apartment sales of 6 to 10 units, built 1953 to 1969, closed between September 2024 and April 2026 at a median of $263,611 per unit, $340 per SF and 11.67 times rent. 12610 Caswell Avenue, nine units built in 1964 two tenths of a mile away, sold for $2.395M in September 2024 at 11.33 times rent. 12757 Caswell Avenue, nine units with a similar mix of singles and two bedroom two baths, closed in March 2026 at $2.05M, 9.79 times rent and a 6.47% cap. Same-street 12011 Pacific Avenue, nine units built in 1969, was registered at $2.914M in November 2025."
+            "text": "Nine City of Los Angeles apartment sales of 6 to 10 units, built 1954 to 1969, closed between September 2024 and April 2026 at a median of $261,111 per unit, $341 per SF and 11.52 times rent. 12610 Caswell Avenue, nine units built in 1964 two tenths of a mile away, sold for $2.395M in September 2024 at 11.33 times rent. 12757 Caswell Avenue, nine units with a similar mix of singles and two bedroom two baths, closed in March 2026 at $2.05M, 9.79 times rent and a 6.47% cap."
           },
           {
             "id": "market-2",
@@ -3695,7 +3337,7 @@
               "comps-sale:conclusions"
             ],
             "framed_as": null,
-            "text": "Thirty days before each of those sales closed, the 5-year Treasury ran 3.43% to 4.41%, a median of 3.76%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5)."
+            "text": "Thirty days before each of those sales closed, the 5-year Treasury ran 3.51% to 4.05%, a median of 3.68%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5)."
           },
           {
             "id": "market-3",
@@ -3889,7 +3531,7 @@
                 "Two Buildings, Two Separate Sales"
               ],
               "strategy_copy": [
-                "The sales in this analysis priced when the 5-year Treasury ran 3.4% to 4.4% at lock; it stood at 4.83% on 09/22/2026. Each building is priced on its own income at a yield today's buyer can finance, so offers arrive in the first weeks rather than after a price reduction.",
+                "The sales in this analysis priced when the 5-year Treasury ran 3.5% to 4.4% at lock; it stood at 4.83% on 09/22/2026. Each building is priced on its own income at a yield today's buyer can finance, so offers arrive in the first weeks rather than after a price reduction.",
                 "We recommend selling the two buildings separately, each at its own price, so each goes to the buyer who pays the most for it. Both launch in the same campaign, which reaches West Los Angeles and Mar Vista buyers at once."
               ],
               "narrative": [
@@ -3931,8 +3573,8 @@
             },
             "buyer_profile": {
               "market_narrative": [
-                "Fifteen City of Los Angeles apartment sales of 8 to 14 units, built 1953 to 1973, closed between September 2024 and August 2026 at a median of $258,333 per unit, $341 per SF and 11.30 times rent. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap.",
-                "Thirty days before each of those sales closed, the 5-year Treasury ran 3.61% to 4.40%, a median of 3.91%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The four closings from June to August 2026, which locked nearest today's rates, ran 9.16 to 11.19 times rent.",
+                "Eight City of Los Angeles apartment sales of 8 to 13 units, built 1957 to 1973, closed between September 2024 and August 2026 at a median of $256,090 per unit, $346 per SF and 11.29 times rent. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap.",
+                "Thirty days before each of those sales closed, the 5-year Treasury ran 3.75% to 4.40%, a median of 4.19%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The four closings from June to August 2026, which locked nearest today's rates, ran 9.16 to 11.19 times rent.",
                 "A buyer today pays about a point more for money than the buyers who set most of those comps, so the 2026 closings carry more weight in our pricing than the 2024 and 2025 sales."
               ],
               "positioning_narrative": [
@@ -3957,8 +3599,8 @@
             },
             "financial_analysis": {
               "valuation_narrative": [
-                "The recommended list price is $2.6M, $216,667 per unit and $398 per SF, with an opinion of value of $2.55M to $2.65M. Current scheduled rent of $251,328, with units 3 and 6 at market, less a 3% vacancy reserve and plus $1,070 of laundry income gives $244,858 of effective gross income. Operating expenses of $104,769, with taxes reassessed at the list price, leave net operating income of $140,089: a 5.39% cap rate and a 10.35 gross rent multiplier. At market rents the net operating income is $178,708, a 6.87% cap rate.",
-                "The price sits at 10.35 times rent, below the 10.48 to 11.56 range of the closest sales, and at $216,667 per unit, in the lower third of the set. The 5.39% cap reflects a full expense load for a pool building, including insurance at $1,300 per unit and reserves at $400 per unit. Those comps priced on cheaper money; at this price a buyer who finances half at today's 6.75% still covers debt service 1.38 times."
+                "The recommended list price is $2.6M, $216,667 per unit and $398 per SF, with an opinion of value of $2.55M to $2.65M. Current scheduled rent of $251,328, with units 3 and 6 at market, less a 3% vacancy reserve and plus $1,070 of laundry income gives $244,858 of effective gross income. Operating expenses of $103,769, with taxes reassessed at the list price, leave net operating income of $141,089: a 5.43% cap rate and a 10.35 gross rent multiplier. At market rents the net operating income is $178,708, a 6.87% cap rate.",
+                "The price sits at 10.35 times rent, below the 10.48 to 11.56 range of the closest sales, and at $216,667 per unit, in the lower third of the set. The 5.43% cap reflects a full expense load for a pool building, including insurance at $1,300 per unit and reserves at $400 per unit. Those comps priced on cheaper money; at this price a buyer who finances half at today's 6.75% still covers debt service 1.39 times."
               ],
               "disclosures": [
                 "Scheduled rent is the owner's August 2026 rent roll, with vacant units 3 and 6 at market rent. Taxes are reassessed at 1.18738% of the list price plus $1,803 of direct assessments. Insurance is an estimate of $1,300 per unit; utilities, trash and service contracts follow the owner's 2026 statements; repairs ($850 per unit), reserves ($400 per unit) and management (4% of effective gross income) are LAAA allowances. No on-site manager expense is carried. Financing shown is an illustrative new loan at 50% of price, 6.75% and 30-year amortization at today's rates.",
@@ -4095,7 +3737,7 @@
                 "sources:src-fred"
               ],
               "framed_as": "recommended positioning",
-              "text": "The sales in this analysis priced when the 5-year Treasury ran 3.4% to 4.4% at lock; it stood at 4.83% on 09/22/2026. Each building is priced on its own income at a yield today's buyer can finance, so offers arrive in the first weeks rather than after a price reduction."
+              "text": "The sales in this analysis priced when the 5-year Treasury ran 3.5% to 4.4% at lock; it stood at 4.83% on 09/22/2026. Each building is priced on its own income at a yield today's buyer can finance, so offers arrive in the first weeks rather than after a price reduction."
             },
             {
               "id": "strategy-2",
@@ -4295,7 +3937,7 @@
                 "comps-sale:sale-02"
               ],
               "framed_as": null,
-              "text": "Fifteen City of Los Angeles apartment sales of 8 to 14 units, built 1953 to 1973, closed between September 2024 and August 2026 at a median of $258,333 per unit, $341 per SF and 11.30 times rent. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap."
+              "text": "Eight City of Los Angeles apartment sales of 8 to 13 units, built 1957 to 1973, closed between September 2024 and August 2026 at a median of $256,090 per unit, $346 per SF and 11.29 times rent. The closest match, 11296 Brookhaven Avenue, 12 units built in 1958 half a mile away, sold for $3.1M in September 2025 at 11.56 times rent, with the seller's low-rate loan taken over by the buyer. 1519 Armacost Avenue, 11 small units, closed in July 2026 at 10.48 times rent and a 5.89% cap."
             },
             {
               "id": "market-2",
@@ -4305,7 +3947,7 @@
                 "comps-sale:conclusions"
               ],
               "framed_as": null,
-              "text": "Thirty days before each of those sales closed, the 5-year Treasury ran 3.61% to 4.40%, a median of 3.91%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The four closings from June to August 2026, which locked nearest today's rates, ran 9.16 to 11.19 times rent."
+              "text": "Thirty days before each of those sales closed, the 5-year Treasury ran 3.75% to 4.40%, a median of 4.19%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5). The four closings from June to August 2026, which locked nearest today's rates, ran 9.16 to 11.19 times rent."
             },
             {
               "id": "market-3",
@@ -4414,7 +4056,7 @@
                 "sources:mm-model"
               ],
               "framed_as": null,
-              "text": "The recommended list price is $2.6M, $216,667 per unit and $398 per SF, with an opinion of value of $2.55M to $2.65M. Current scheduled rent of $251,328, with units 3 and 6 at market, less a 3% vacancy reserve and plus $1,070 of laundry income gives $244,858 of effective gross income. Operating expenses of $104,769, with taxes reassessed at the list price, leave net operating income of $140,089: a 5.39% cap rate and a 10.35 gross rent multiplier. At market rents the net operating income is $178,708, a 6.87% cap rate."
+              "text": "The recommended list price is $2.6M, $216,667 per unit and $398 per SF, with an opinion of value of $2.55M to $2.65M. Current scheduled rent of $251,328, with units 3 and 6 at market, less a 3% vacancy reserve and plus $1,070 of laundry income gives $244,858 of effective gross income. Operating expenses of $103,769, with taxes reassessed at the list price, leave net operating income of $141,089: a 5.43% cap rate and a 10.35 gross rent multiplier. At market rents the net operating income is $178,708, a 6.87% cap rate."
             },
             {
               "id": "valuation-2",
@@ -4427,7 +4069,7 @@
                 "sources:src-fred"
               ],
               "framed_as": "broker opinion on pricing position",
-              "text": "The price sits at 10.35 times rent, below the 10.48 to 11.56 range of the closest sales, and at $216,667 per unit, in the lower third of the set. The 5.39% cap reflects a full expense load for a pool building, including insurance at $1,300 per unit and reserves at $400 per unit. Those comps priced on cheaper money; at this price a buyer who finances half at today's 6.75% still covers debt service 1.38 times."
+              "text": "The price sits at 10.35 times rent, below the 10.48 to 11.56 range of the closest sales, and at $216,667 per unit, in the lower third of the set. The 5.43% cap reflects a full expense load for a pool building, including insurance at $1,300 per unit and reserves at $400 per unit. Those comps priced on cheaper money; at this price a buyer who finances half at today's 6.75% still covers debt service 1.39 times."
             },
             {
               "id": "disclosure-1",
@@ -4481,7 +4123,21 @@
             "img-010",
             "img-011",
             "img-012",
-            "img-013"
+            "img-013",
+            "img-014",
+            "img-015",
+            "img-016",
+            "img-017",
+            "img-019",
+            "img-020",
+            "img-021",
+            "img-022",
+            "img-023",
+            "img-024",
+            "img-025",
+            "img-026",
+            "img-027",
+            "img-028"
           ],
           "hero": "img-001",
           "items": [
@@ -4653,6 +4309,188 @@
               "usage_scope": "Seller-facing BOV website for this property",
               "required_credit": null,
               "exception_id": null
+            },
+            {
+              "id": "img-014",
+              "sha256": "3ea54b03f5c65d5cc4b291f591f5e4254499a4a0f5b8045846cf03831b3a2747",
+              "phash": "9561e05cbcf3b494",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4262-011-013 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-015",
+              "sha256": "dbc2b08fe9d8b111ef3373b45a069dc9767909c3f7c07f678cb593b5b6d0eb70",
+              "phash": "82e575ceb800f9b3",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4263-034-010 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-016",
+              "sha256": "78488a5ed9dc04620a4696406ce82773822b09cc0aef50119f29cfe893a1240b",
+              "phash": "a8b0b15f9d25bb82",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4311-025-026 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-017",
+              "sha256": "c86ce012492cd82d0b4b1ed5e2b4c60150bf4de5083ace021a79a28fbd938ec7",
+              "phash": "d7c4e821b24e4f96",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4259-017-023 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-019",
+              "sha256": "7e3af026131a25767dad878f585d8f30f76b4c2e0bcba0e8fd2e6f5357c47b13",
+              "phash": "902afb3a66e6286e",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4258-018-011 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-020",
+              "sha256": "7039ff4350549209c6c06ef102b220763e3645538325b48e9e16c387882bfccf",
+              "phash": "dccae3658770da18",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4250-026-008 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-021",
+              "sha256": "3bb888de94101a6b21acd2bddc47597eabd3a59c23d270b347cfc00969faf0e7",
+              "phash": "d255a52ec9c92aba",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4263-011-027 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-022",
+              "sha256": "be72e0d4b3d72958803f589955ea875f9e6d7b0fdd1ca1e44ccee0f7455f60f6",
+              "phash": "821b8c247787bdf8",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4249-030-012 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-023",
+              "sha256": "0ecbbefd0ac8f9f1574d0ac12406b8e20bedb7e0062dc54b8d570f558ba661f8",
+              "phash": "82fc7d2390e50bce",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4248-016-027 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-024",
+              "sha256": "e559f7a5f4163c5680cf6c7341b1873ee5c37747e2bb35fe085d8aba8f19680f",
+              "phash": "df94ac08ea871c6b",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4248-025-011 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-025",
+              "sha256": "2b84da132882bf07c63b06069315b6cf6624f822b718c4dabe27488f7d614f76",
+              "phash": "c37db006e7112fc5",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4249-009-021 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-026",
+              "sha256": "1a76d0fea46923752b4e6d88d435b69fb8516bccc550fcfe8c5c9c7660d9ad90",
+              "phash": "8615696bed0bcc6a",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4258-007-025 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-027",
+              "sha256": "c0a9c41cdaff00452e0f9b15fd81da559e43c4bda0ab62e7a819cec756066894",
+              "phash": "f402cbb4c5b0cdec",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4260-035-022 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-028",
+              "sha256": "2aa026a69e77d7c30315790b90a46ba93640d2aa00ff5780e1a05e713e5e36eb",
+              "phash": "e4c68c3c91617bda",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4248-026-006 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
             }
           ],
           "presentation": {
@@ -4725,7 +4563,7 @@
                 "Two Buildings, Two Separate Sales"
               ],
               "strategy_copy": [
-                "The sales in this analysis priced when the 5-year Treasury ran 3.4% to 4.4% at lock; it stood at 4.83% on 09/22/2026. Each building is priced on its own income at a yield today's buyer can finance, so offers arrive in the first weeks rather than after a price reduction.",
+                "The sales in this analysis priced when the 5-year Treasury ran 3.5% to 4.4% at lock; it stood at 4.83% on 09/22/2026. Each building is priced on its own income at a yield today's buyer can finance, so offers arrive in the first weeks rather than after a price reduction.",
                 "We recommend selling the two buildings separately, each at its own price, so each goes to the buyer who pays the most for it. Both launch in the same campaign, which reaches West Los Angeles and Mar Vista buyers at once."
               ],
               "narrative": [
@@ -4767,8 +4605,8 @@
             },
             "buyer_profile": {
               "market_narrative": [
-                "Fourteen City of Los Angeles apartment sales of 6 to 10 units, built 1953 to 1969, closed between September 2024 and April 2026 at a median of $263,611 per unit, $340 per SF and 11.67 times rent. 12610 Caswell Avenue, nine units built in 1964 two tenths of a mile away, sold for $2.395M in September 2024 at 11.33 times rent. 12757 Caswell Avenue, nine units with a similar mix of singles and two bedroom two baths, closed in March 2026 at $2.05M, 9.79 times rent and a 6.47% cap. Same-street 12011 Pacific Avenue, nine units built in 1969, was registered at $2.914M in November 2025.",
-                "Thirty days before each of those sales closed, the 5-year Treasury ran 3.43% to 4.41%, a median of 3.76%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5).",
+                "Nine City of Los Angeles apartment sales of 6 to 10 units, built 1954 to 1969, closed between September 2024 and April 2026 at a median of $261,111 per unit, $341 per SF and 11.52 times rent. 12610 Caswell Avenue, nine units built in 1964 two tenths of a mile away, sold for $2.395M in September 2024 at 11.33 times rent. 12757 Caswell Avenue, nine units with a similar mix of singles and two bedroom two baths, closed in March 2026 at $2.05M, 9.79 times rent and a 6.47% cap.",
+                "Thirty days before each of those sales closed, the 5-year Treasury ran 3.51% to 4.05%, a median of 3.68%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5).",
                 "A buyer today pays about a point more for money than the buyers who set most of those comps, so the 2026 sale at 12757 Caswell carries more weight in our pricing than the 2024 and 2025 sales."
               ],
               "positioning_narrative": [
@@ -4932,7 +4770,7 @@
                 "sources:src-fred"
               ],
               "framed_as": "recommended positioning",
-              "text": "The sales in this analysis priced when the 5-year Treasury ran 3.4% to 4.4% at lock; it stood at 4.83% on 09/22/2026. Each building is priced on its own income at a yield today's buyer can finance, so offers arrive in the first weeks rather than after a price reduction."
+              "text": "The sales in this analysis priced when the 5-year Treasury ran 3.5% to 4.4% at lock; it stood at 4.83% on 09/22/2026. Each building is priced on its own income at a yield today's buyer can finance, so offers arrive in the first weeks rather than after a price reduction."
             },
             {
               "id": "strategy-2",
@@ -5133,7 +4971,7 @@
                 "comps-sale:sale-04"
               ],
               "framed_as": null,
-              "text": "Fourteen City of Los Angeles apartment sales of 6 to 10 units, built 1953 to 1969, closed between September 2024 and April 2026 at a median of $263,611 per unit, $340 per SF and 11.67 times rent. 12610 Caswell Avenue, nine units built in 1964 two tenths of a mile away, sold for $2.395M in September 2024 at 11.33 times rent. 12757 Caswell Avenue, nine units with a similar mix of singles and two bedroom two baths, closed in March 2026 at $2.05M, 9.79 times rent and a 6.47% cap. Same-street 12011 Pacific Avenue, nine units built in 1969, was registered at $2.914M in November 2025."
+              "text": "Nine City of Los Angeles apartment sales of 6 to 10 units, built 1954 to 1969, closed between September 2024 and April 2026 at a median of $261,111 per unit, $341 per SF and 11.52 times rent. 12610 Caswell Avenue, nine units built in 1964 two tenths of a mile away, sold for $2.395M in September 2024 at 11.33 times rent. 12757 Caswell Avenue, nine units with a similar mix of singles and two bedroom two baths, closed in March 2026 at $2.05M, 9.79 times rent and a 6.47% cap."
             },
             {
               "id": "market-2",
@@ -5143,7 +4981,7 @@
                 "comps-sale:conclusions"
               ],
               "framed_as": null,
-              "text": "Thirty days before each of those sales closed, the 5-year Treasury ran 3.43% to 4.41%, a median of 3.76%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5)."
+              "text": "Thirty days before each of those sales closed, the 5-year Treasury ran 3.51% to 4.05%, a median of 3.68%. On 09/22/2026 it stood at 4.83% (Federal Reserve Bank of St. Louis, FRED series DGS5)."
             },
             {
               "id": "market-3",
@@ -5317,7 +5155,29 @@
             "img-008",
             "img-009",
             "img-010",
-            "img-011"
+            "img-011",
+            "img-012",
+            "img-013",
+            "img-014",
+            "img-015",
+            "img-016",
+            "img-017",
+            "img-018",
+            "img-019",
+            "img-020",
+            "img-021",
+            "img-022",
+            "img-023",
+            "img-024",
+            "img-025",
+            "img-026",
+            "img-027",
+            "img-028",
+            "img-029",
+            "img-030",
+            "img-031",
+            "img-032",
+            "img-033"
           ],
           "hero": "img-001",
           "items": [
@@ -5463,6 +5323,292 @@
               "usage_scope": "Seller-facing BOV website for this property",
               "required_credit": null,
               "exception_id": null
+            },
+            {
+              "id": "img-012",
+              "sha256": "00da8038cbb340f54debf060dedffc40112e41557bb5e98280ecea28d149696c",
+              "phash": "d2d2ec489768873b",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4311-023-002 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-013",
+              "sha256": "151ecca4cbfb4651e9f2a3b3cdc9515c3fd4d6ab85c6a1c25240663cefad4420",
+              "phash": "8f56b9e017dc40a7",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4236-018-022 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-014",
+              "sha256": "431afde02dd170d15af360582fd61800dc909fea6e5c9383a9bd93abda22424e",
+              "phash": "f9398b4330b0bd4e",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4235-018-001 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-015",
+              "sha256": "836cfeb74959040503f46a63f40c5c899c32dac84a6bad7b4e6c66311014e1bc",
+              "phash": "c07f8370be97d320",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4252-026-004 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-016",
+              "sha256": "cedf70cbed04fe5d4ee721dd02610de1d98edd215f5376389385f9eaad4588f3",
+              "phash": "d71f9e1435cd6424",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4233-022-031 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-017",
+              "sha256": "1473b92a519edeba83f52c727be4dab62af2f8f67c80d04c99582fcdc476cd2c",
+              "phash": "c26e8c6747daf421",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4234-014-025 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-018",
+              "sha256": "615e335393d79bb617c28160ee48ea2da3f062f556ddee6b39cb5e7fc926341b",
+              "phash": "d2a4891b867c75d5",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4214-022-019 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-019",
+              "sha256": "dd6057d4bf95433100beff79378588b7db4fc7c962b4a98cdbd1a5d190817274",
+              "phash": "f731814382f136db",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4235-014-008 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-020",
+              "sha256": "7137f3daf36b950b5496bf879c4711a9a1469995bddb7144c216a4904e7f02ae",
+              "phash": "a085bf3e489f283b",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4235-005-002 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-021",
+              "sha256": "b3e5516426838a4b028c3b097ae0ef5f9d678a6ef83eb2f3421ad8fab876f45f",
+              "phash": "c4d43bc2c4b3d794",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4234-014-020 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-022",
+              "sha256": "2486b4e00a79619a5d23007a570f271e00abce65c1bf432ab9136545ac8b2d3d",
+              "phash": "91dfe74daa226a30",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4235-003-002 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-023",
+              "sha256": "f050b6254aa56aba586b65236f46c4efb98cba22ff7c60e492798550fd16d0b1",
+              "phash": "9984b749b746297c",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4236-021-022 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-024",
+              "sha256": "9cfc9d52eaa0ce60b14192b35d501852184fbeaaaaaec1d28f7d5fb930edc0d8",
+              "phash": "d4d4972a8ccb3b68",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4214-022-024 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-025",
+              "sha256": "b5aa01baabcf8af569c5fbd2d60978d77b0f41d6a74a0e8f5469f6f7b75c9a4c",
+              "phash": "9ccf964f5c3249e0",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4235-022-009 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-026",
+              "sha256": "7989618db6b1c1a4ad23181799e4b7ef8356572c25761376a605a0f0773a6d84",
+              "phash": "9dbf2b61208e9e61",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4232-029-020 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-027",
+              "sha256": "92ce15801e8068b1a72a9fdb953ef7d02d5f55e9bf9b70c4edd61d478bab6767",
+              "phash": "96a953b46916b5ca",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4236-014-004 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-028",
+              "sha256": "bf7db8aab89efa890a73ba074b5958d6d843c8807d26def370b5a24bdcdd264f",
+              "phash": "c2b6a902d659b6cb",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4236-017-033 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-029",
+              "sha256": "796724647f87a8c20ff011973e107cf66863f8fb44a3fe72013e1507af16c648",
+              "phash": "b1ebc514ac397394",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4233-016-032 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-030",
+              "sha256": "eed30e5581ac63822542c2d5c571092349d0386d2894e4eeea52fe89e3e9faa6",
+              "phash": "bbf0bc49cc81ca2e",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4236-017-026 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-031",
+              "sha256": "aba7a516458bc15f4f98f368b184297488c1a578abce6a7072e04e2a378b4bac",
+              "phash": "afed907680b2d721",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4236-017-029 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-032",
+              "sha256": "74b62b93fca98247173eef504f221d7e5bc8f7006b982bf304c6e6bb5412e45d",
+              "phash": "a705fb6e52d110b6",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4236-018-033 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
+            },
+            {
+              "id": "img-033",
+              "sha256": "7798235cb84db21bb6c135676bad65778760bd583c65811284de045ee9b54a64",
+              "phash": "abbba896921a96d2",
+              "category": "comp_exterior",
+              "stock_or_illustrative": false,
+              "property_match": "confirmed_human",
+              "match_basis": "The building's listing exterior filed in the Research Library for APN 4242-020-030 and linked on its APTO Property (comps/comp_photos.md).",
+              "publication_basis": "glen_standing_rule",
+              "usage_scope": "Comparable photograph beside its row on the seller-facing BOV website",
+              "required_credit": null,
+              "exception_id": null
             }
           ],
           "presentation": {
@@ -5510,51 +5656,51 @@
   "approval_binding": {
     "deal_id": "krasno-portfolio",
     "domains": {
-      "identity": "43d3f24addd57db6d294e8a0d49d8732134713c459424e5394d8e1ecf722a7b4",
-      "financial_inputs": "23a37962d82ba860919e9b1ae4cf664af4f87a9b95f9bcc991ac9fa54bf23fdc",
-      "pricing_decision": "468364328a876ea14ffeb73ed8b95b957db138195057a6ce9ecf9319c6a551dc",
-      "sale_comps": "4e41071a9292f874e8822f777dc2661b68a0b701d186482c33b1ed4457a7cee8",
-      "rent_comps": "caccd73b7532f4992c8f6400c7921731c42837a0901499c5d5ad95fed45c4972",
-      "copy": "b7c2cada8bb03c04c17e5c611c879a29326f1dbf1969104b3dc1e3872b8b940e",
-      "media_selection": "442e7bd37813395e622059cc7fca3b1451566bb5e8f777e7265bc3df6d888a56",
+      "identity": "c2b662380b31323e946868ded6290224cc742dcfdc523d375f107a57831e6832",
+      "financial_inputs": "bcd248863293f95e1f2e6d7a41e865eafd24a57c7ff7801686bc381461703353",
+      "pricing_decision": "e148d1512cdb5c4ae19d63604a893e1f053dec34b535641473fab10029c80166",
+      "sale_comps": "b90e57297b6b0a99bd23a2df2198d22af3e4667d22cc388b6da721243ec0aac6",
+      "rent_comps": "771f27cdf25e47ff57d8d6f110ed99006c0c5fe44ff7809b38edfa12f5208c40",
+      "copy": "59b8cf727c867150a97fc76890c4f6ec081f79cdfa0b06b4c96e9db1ddcdd67b",
+      "media_selection": "7eb9b7debbd5af6fe896690466ae40cd97442b293934ceed3bf7aaeec3a6190d",
       "regulatory_conclusions": "11b95809c79570b17e019099e83ceb4f42172a1c26086a14b082b713769bae6b"
     },
     "members": {
       "2540-s-barrington": {
-        "identity": "bd262921b94cc6daeee832487e73cd081db561ebc6e0569dcb79f819301c79df",
-        "financial_inputs": "781d5cefd6d62fa59ff9709b598d2c7c3b58392ce6e1e1ad6c670d8fade5a188",
-        "pricing_decision": "7fee4e7161f3ff8a90f7bb02bf7cb82e436a26a2ddd2fdd472826b55a936b587",
-        "sale_comps": "61ffa2796270dac9e9bf70e9cf3db4eb30d6e16544d8becabe9ef3c70cbac6b7",
-        "rent_comps": "675f5bcc5e21f293b5c345663b525dda17e7dc55403f2cad5584c1a7f3e21de3",
-        "copy": "1f853846d62beeee49806b1bf271a0be073e69e21e397dd8f679a7739ddf2e39",
-        "media_selection": "c1c1ddd89939be132659f97a4ca51b7ec1abf8c96594bd78d1c8264106520e22",
+        "identity": "43aeadc0cfd5f38d182eceb95f400c5a4936028628c5a9a4121a936f9872ebdf",
+        "financial_inputs": "1aa1e847ef3ea0d108d58e9f832b7dc05805699235bbaf822152b20fd1709201",
+        "pricing_decision": "b8811193f266a9183289dd454ab8af8013888430d76c9c027804f680ddb3822d",
+        "sale_comps": "e0b2383668009af05bf028e783bf6f44c779736297338e20b50674f73b9d19b8",
+        "rent_comps": "4a8c6030eebcf6c3fdfe1b38cbc8384aa15d9994b08184d6b434108b7dd0bf4a",
+        "copy": "58509c80e439e86eef874daa3f6d9aeca506dc066710721ac30915de3a4e8681",
+        "media_selection": "8d2f54c8ac8553eeb970165c090482f3d3f78c6cc29b19db34daf11851c9cb74",
         "regulatory_conclusions": "1bca1d5f3a2884f18e9bceec95a23e89b757b4dfc0ca0ea37b57d165a850c9b4"
       },
       "12535-pacific": {
         "identity": "634f83e57ad10ba44e050e379659c798ac9849da5a24e446f6cc63e545ac855b",
         "financial_inputs": "8ea120fdc9d20532b2b15f9be419511fbd3bd6d8d003875954204ca4756b9ba2",
-        "pricing_decision": "2936a1d9fdd0902d94ee389a351c8bcf847053b092629ed7d0937c26f2e8950e",
-        "sale_comps": "ed76c10a5a5dfd17047da432325f4eca85738af313bce40926acc627811622f5",
-        "rent_comps": "2595690f040b6e30e10b86a6dea73ba54da408d9726136ad93186bdd27cefcd4",
-        "copy": "e646f15b6895354970a47da00beb0dd8b8e29c06a6a2ede41a2869e5c5c8beae",
-        "media_selection": "37a75b7d5de90f328d55fd9b4844841c1a9990a705a6bc60120464c547e1e39b",
+        "pricing_decision": "203016ab9a131c91b42f138b7ce980754642f94c7368753dc153ff77859c44ab",
+        "sale_comps": "ab7176304901a082fc1e5a6d5e4af376fe5ada25807d1f911d05bbd0c1767fdf",
+        "rent_comps": "9379697c6ab104681b162746ab341c97cc5af66f8745fa9786df2a9987dab09d",
+        "copy": "a644e04c107b88f06d8b6d569332808d14e62d55372be14e749efa453dfa4fd9",
+        "media_selection": "7f52371d10e28a958f6901652cecb147782c84224c48c0574673c29ccafb7f71",
         "regulatory_conclusions": "090372d7a81879e3774e5950290180ddbc9815ea0147b8357e0b3c422410359e"
       }
     },
     "presentation_hashes": {
       "identity": "46fc7efb8ab9b1f8ea764ed9ed947442cd883a85188b0a60a4a6f1a447884e2d",
-      "financial_inputs": "5e60580cc9741789af4ec61f6b2156bab2eeeaa38ba4be84b15de4e82dc346ad",
-      "pricing_decision": "01c081446485abfe611f6dc9fbd218ca65035142edc6f1856ea8683877dd367a",
-      "sale_comps": "7713343b84450b75dd2651e616d2a3acf622d04fbcc369c5d52ee67dabb73f5d",
-      "rent_comps": "d6da43fece2dc6ef934a6d15d88af89775f5dae9843d6615ac410dfe8179b7fe",
-      "copy": "fe767da6b95f31897443beb0c3c6e87762715a700a2671de8edf9eda29b412bd",
+      "financial_inputs": "62cb5cb7f1837b9d1c0ba28e9b0b6cd486a29d550eb8faf68236aef7b12295d4",
+      "pricing_decision": "889a48f43bc941c4146b93d671f087cdbee2ade7b7e05175a83fc7b02a8f9b2a",
+      "sale_comps": "10ee779cda95193598f9006945113586784d579a13055b92d3f1752dc242bdd9",
+      "rent_comps": "39b3baa3d167654ce4ec390b697e358d46fe1a7c4b6d68d0bb50ce1dcbb9d20b",
+      "copy": "14f9677988cc32c3e4e42e3724a2ba00b327c2e01b5befe01605c3e5ae5c1871",
       "media_selection": "5094fd4c8df327a623f01cc000b56ec18e6a893aa88765c5871006070ddb1d5d",
       "regulatory_conclusions": "f7d97cb1a68f63ddbd97eba4ea0a1e3bec6a78ee40605c9c86f252cb1294323d"
     }
   },
   "stats": {
     "live": true,
-    "generated": "2026-09-23T21:08:17+00:00",
+    "generated": "2026-09-24T18:29:14+00:00",
     "geography": {
       "states": 21,
       "has_dc": true,

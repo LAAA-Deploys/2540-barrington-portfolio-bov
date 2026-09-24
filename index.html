@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="robots" content="noindex, nofollow">
-<meta name="laaa-figures-pulled" content="2026-09-23T21:08:17+00:00">
+<meta name="laaa-figures-pulled" content="2026-09-24T18:29:14+00:00">
 <meta name="description" content="21-Unit Two-Property Multifamily Portfolio | LAAA Team - Marcus &amp; Millichap">
 <meta property="og:title" content="Broker Opinion of Value - 2540 S Barrington Ave &amp; 12535 Pacific Ave">
 <meta property="og:description" content="21-Unit Two-Property Multifamily Portfolio | LAAA Team - Marcus &amp; Millichap">
@@ -515,7 +515,36 @@ td.num, th.num { text-align: right; }
    reads as broken rather than scrollable. Navy fades at whichever edge has
    more content, so the cut always looks deliberate. Same treatment the data
    tables already use. */
-.toc-nav-wrap { position: sticky; top: 0; z-index: 100; }
+/* Portfolio sites: the property bar and the section menu share one sticky
+   block, so both stay on screen and the scroll-spy measures one height
+   (Glen 2026-09-23: on a building page the only way out was a "Portfolio"
+   link that slid off screen on a phone, and nothing linked one building to
+   the other). Single-building sites render the same block with no bar. */
+.site-top { position: sticky; top: 0; z-index: 100; }
+.site-top .toc-nav-wrap { position: relative; }
+.prop-bar { display: flex; flex-wrap: nowrap; justify-content: safe center; align-items: stretch; gap: 0; background: #C5A258; overflow-x: auto; scrollbar-width: none; padding: 0 12px; }
+.prop-bar::-webkit-scrollbar { display: none; }
+.prop-bar::after { content: ""; flex: 0 0 12px; }
+.prop-bar a { color: #1B3A5C; text-decoration: none; font-size: 11px; font-weight: 600; letter-spacing: 0.6px; text-transform: uppercase; padding: 9px 14px; white-space: nowrap; display: flex; align-items: center; border-bottom: 2px solid transparent; }
+.prop-bar a + a { border-left: 1px solid rgba(27,58,92,0.25); }
+.prop-bar a:hover { background: rgba(27,58,92,0.08); }
+.prop-bar a.prop-bar-current { background: #1B3A5C; color: #C5A258; }
+.member-header { min-height: 46vh; }
+.member-header .cover-content { padding: 44px 24px 36px; }
+.member-header .cover-title { font-size: 40px; }
+.member-header .cover-stats { margin-bottom: 0; }
+@media (max-width: 700px) { .member-header .cover-title { font-size: 30px; } .member-header { min-height: 38vh; } }
+.portfolio-total { max-width: 1100px; margin: -20px auto 40px; padding: 14px 40px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px 18px; border-top: 1px solid #dce3eb; }
+.portfolio-total-label { font-size: 11px; font-weight: 600; letter-spacing: 1.5px; text-transform: uppercase; color: #C5A258; }
+.portfolio-total-value { font-size: 22px; font-family: 'DM Serif Display', serif; color: #1B3A5C; }
+.portfolio-total-basis { font-size: 12px; color: #6B7280; flex: 1 1 100%; }
+@media (max-width: 700px) { .portfolio-total { padding: 14px 16px; margin-top: 0; } }
+.prop-next { max-width: 1100px; margin: 0 auto; padding: 28px 40px 44px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 14px; }
+.prop-next-link { text-decoration: none; color: #1B3A5C; font-family: 'DM Serif Display', serif; font-size: 22px; display: flex; flex-direction: column; }
+.prop-next-kicker { font-family: 'Inter', sans-serif; font-size: 11px; font-weight: 600; letter-spacing: 1.5px; text-transform: uppercase; color: #C5A258; margin-bottom: 4px; }
+.prop-next-all { text-decoration: none; color: #1B3A5C; font-size: 13px; font-weight: 500; letter-spacing: 0.5px; text-transform: uppercase; }
+.prop-next a:hover { text-decoration: underline; }
+@media (max-width: 700px) { .prop-next { padding: 22px 16px 36px; } }
 .toc-nav-wrap::before,
 .toc-nav-wrap::after {
   content: ""; position: absolute; top: 0; bottom: 0; width: 34px; z-index: 2;
@@ -667,20 +696,23 @@ table.bm-soft tr.highlight td{background:#FFF8E7;border-left:3px solid #C5A258;f
     <p style="font-size:12px;color:rgba(255,255,255,0.55);margin-top:8px;">September 2026</p>
   </div>
 </div>
-<div class="toc-nav-wrap" id="toc-nav-wrap"><nav class="toc-nav" id="toc-nav">
-  <a href="#portfolio">Portfolio</a>
+<div class="site-top" id="site-top"><nav class="prop-bar" id="prop-bar" aria-label="Properties">
+  <a href="index.html" class="prop-bar-current" aria-current="page">All Properties</a>
   <a href="2540-s-barrington/index.html">2540 S Barrington Ave</a>
   <a href="12535-pacific/index.html">12535 Pacific Ave</a>
+</nav>
+<div class="toc-nav-wrap" id="toc-nav-wrap"><nav class="toc-nav" id="toc-nav">
+  <a href="#portfolio">Portfolio</a>
   <a href="#track-record">Track Record</a>
   <a href="#marketing">Marketing</a>
   <a href="#contact">Contact</a>
-</nav></div>
+</nav></div></div>
 
 <div class="section section-alt" id="portfolio">
   <div class="section-title">Portfolio Overview</div>
   <div class="section-subtitle">Two Westside Apartment Buildings, 21 Units | West Los Angeles and Mar Vista</div>
   <div class="section-divider"></div>
-  <div class="metrics-grid-4"><div class="metric-card"><span class="metric-value">21</span><span class="metric-label">Total Units</span></div><div class="metric-card"><span class="metric-value">2</span><span class="metric-label">Properties</span></div><div class="metric-card"><span class="metric-value">$451,200</span><span class="metric-label">Current Annual Rent</span></div><div class="metric-card"><span class="metric-value">$252,625</span><span class="metric-label">Current NOI</span></div></div>
+  <div class="metrics-grid-4"><div class="metric-card"><span class="metric-value">21</span><span class="metric-label">Total Units</span></div><div class="metric-card"><span class="metric-value">2</span><span class="metric-label">Properties</span></div><div class="metric-card"><span class="metric-value">$451,200</span><span class="metric-label">Current Annual Rent</span></div><div class="metric-card"><span class="metric-value">$253,625</span><span class="metric-label">Current NOI</span></div></div>
   <div class="inv-text">
     <p>Two apartment buildings on the Westside, 21 units in all, both registered under the Los Angeles Rent Stabilization Ordinance: 2540 S Barrington Avenue, 12 units with a pool built in 1958 in West Los Angeles, and 12535 Pacific Avenue, 9 units built in 1962 a block off Venice Boulevard in Mar Vista, with its soft-story retrofit complete. The buildings are about 1.9 miles apart. Each is valued on its own income and its own comparable sales, and each has its own page below.</p>
     <p>We recommend selling the two buildings separately, each at its own price. They sit in different submarkets and draw different buyers: West Los Angeles buyers who want transit and a pool, and Mar Vista buyers who want a walkable block and a finished retrofit. Both launch in the same campaign, and each building goes to the buyer who pays the most for it.</p>
@@ -722,13 +754,13 @@ table.bm-soft tr.highlight td{background:#FFF8E7;border-left:3px solid #C5A258;f
     <thead><tr><th>Address</th><th class="num">Units</th><th class="num">Price</th><th class="num">$/Unit</th><th class="num">Status</th></tr></thead>
     <tbody><tr><td><a class="comp-link" href="https://www.laaa.com/om/12231-pacific" target="_blank" rel="noopener">12231 Pacific Ave</a><span class="tr-dist">1.80 mi</span></td><td class="num">7</td><td class="num">$1,575,000</td><td class="num">$225,000</td><td class="num"><span class="tr-status is-live">In Escrow</span></td></tr><tr><td>2683 34th St<span class="tr-dist">0.57 mi</span></td><td class="num">12</td><td class="num">$4,100,000</td><td class="num">$341,667</td><td class="num"><span class="tr-status">Sold 2020</span></td></tr><tr><td>3205 Ocean Park Blvd<span class="tr-dist">0.71 mi</span></td><td class="num">6</td><td class="num">$7,000,000</td><td class="num">$1,166,667</td><td class="num"><span class="tr-status">Sold 2025</span></td></tr><tr><td>1760 S Bentley Ave<span class="tr-dist">1.29 mi</span></td><td class="num">5</td><td class="num">$3,040,000</td><td class="num">$608,000</td><td class="num"><span class="tr-status">Sold 2021</span></td></tr></tbody>
   </table></div>
-  <p class="tr-activity-note">Listed and in-escrow rows are current LAAA Team assignments within 2 miles, shown at asking price as published at <a href="https://www.laaa.com/listings" target="_blank" rel="noopener">laaa.com/listings</a>, as of September 23, 2026. Sold rows show the closed sale price.</p>
+  <p class="tr-activity-note">Listed and in-escrow rows are current LAAA Team assignments within 2 miles, shown at asking price as published at <a href="https://www.laaa.com/listings" target="_blank" rel="noopener">laaa.com/listings</a>, as of September 24, 2026. Sold rows show the closed sale price.</p>
   <div class="tr-proof"><div class="tr-proof-item"><span class="tr-proof-figure">96.7%</span><span class="tr-proof-label">Apartment Pricing Accuracy</span></div><div class="tr-proof-item"><span class="tr-proof-figure">34</span><span class="tr-proof-label">Median Days on Market, Apartments</span></div></div>
-  <p class="tr-proof-source">Published team performance, <a href="https://www.laaa.com/track-record" target="_blank" rel="noopener">laaa.com/track-record</a>, as of September 23, 2026.</p>
+  <p class="tr-proof-source">Published team performance, <a href="https://www.laaa.com/track-record" target="_blank" rel="noopener">laaa.com/track-record</a>, as of September 24, 2026.</p>
     </div>
     <div class="tr-closings-figure">
       <div class="tr-closings-frame"><img src="images/maps-2540-s-barrington-closings.png" alt="LAAA closings near 2540 S Barrington Ave" loading="lazy"></div>
-      <p class="tr-map-caption">2540 S Barrington Ave is the gold marker. Navy markers are the 10 apartment buildings the LAAA Team has closed within 2 miles; lighter markers are 13 other LAAA closings in the same area. Source: <a href="https://www.laaa.com/track-record" target="_blank" rel="noopener">laaa.com/track-record</a>, as of September 23, 2026.</p>
+      <p class="tr-map-caption">2540 S Barrington Ave is the gold marker. Navy markers are the 10 apartment buildings the LAAA Team has closed within 2 miles; lighter markers are 13 other LAAA closings in the same area. Source: <a href="https://www.laaa.com/track-record" target="_blank" rel="noopener">laaa.com/track-record</a>, as of September 24, 2026.</p>
     </div>
   </div>
   <div class="tr-service-quote">
@@ -774,6 +806,7 @@ var params = new URLSearchParams(window.location.search);
 var client = params.get('client');
 if (client) { var el = document.getElementById('client-greeting'); if (el) el.textContent = 'Prepared Exclusively for ' + client; }
 var navWrap = document.getElementById('toc-nav');
+var siteTop = document.getElementById('site-top') || navWrap;
 var autoScrolling = false, autoScrollTimer = null;
 document.querySelectorAll('.toc-nav a[href^="#"]').forEach(function (link) {
   link.addEventListener('click', function (ev) {
@@ -793,7 +826,7 @@ document.querySelectorAll('.toc-nav a[href^="#"]').forEach(function (link) {
     }
     /* Measure the offset AFTER any pending layout so lazy images that have
        already loaded are accounted for. */
-    var nh = navWrap.getBoundingClientRect().height;
+    var nh = siteTop.getBoundingClientRect().height;
     window.scrollTo({ top: target.getBoundingClientRect().top + window.pageYOffset - nh - 4,
                       behavior: 'smooth' });
   });
@@ -825,7 +858,7 @@ function centreActive(link) {
 }
 function updateActiveTocLink() {
   if (!navWrap) return;
-  var nh = navWrap.offsetHeight + 20, sp = window.pageYOffset + nh, cur = null;
+  var nh = siteTop.offsetHeight + 20, sp = window.pageYOffset + nh, cur = null;
   tocSections.forEach(function (it) { if (it.section.offsetTop <= sp) cur = it.link; });
   /* Above the first section: return the nav to its start. Checked on every
      scroll, not only when the active link changes, so a reset skipped while
